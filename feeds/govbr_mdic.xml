@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>urn:us-news-rss:govbr_mdic</id>
+  <title>MDIC - Indústria, Comércio e Serviços</title>
+  <updated>2026-10-15T23:04:59.176621+00:00</updated>
+  <link href="file:///feeds/govbr_mdic.xml" rel="self"/>
+  <link href="https://www.gov.br/mdic/pt-br/assuntos/noticias/RSS" rel="alternate"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <subtitle>Category: business / Mode: rss</subtitle>
+  <entry>
+    <id>https://www.gov.br/mdic/pt-br/assuntos/noticias/presidente-sanciona-lei-que-garante-continuidade-do-move-brasil-para-motoristas-e-entregadores</id>
+    <title>Presidente sanciona Lei que garante continuidade do Move Brasil para motoristas e entregadores</title>
+    <updated>2026-10-15T23:04:59.177184+00:00</updated>
+    <link href="https://www.gov.br/mdic/pt-br/assuntos/noticias/presidente-sanciona-lei-que-garante-continuidade-do-move-brasil-para-motoristas-e-entregadores"/>
+    <summary>Programa de renovação de frota oferece condições especiais de ﬁnanciamento, com juros abaixo do mercado</summary>
+    <published>2026-09-14T22:08:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.gov.br/mdic/pt-br/assuntos/noticias/ultimas-noticias-defeso-2026</id>
+    <title>Últimas Notícias 2026 (Período eleitoral)</title>
+    <updated>2026-10-15T23:04:59.177103+00:00</updated>
+    <link href="https://www.gov.br/mdic/pt-br/assuntos/noticias/ultimas-noticias-defeso-2026"/>
+    <summary>Últimas Notícias 2026 (Período eleitoral)</summary>
+    <published>2020-06-24T16:39:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.gov.br/mdic/pt-br/assuntos/noticias/tomada-publica-recebe-615-propostas-para-a-formulacao-da-estrategia-nacional-de-melhoria-regulatoria</id>
+    <title>Tomada pública recebe 615 propostas para a formulação da Estratégia Nacional de Melhoria Regulatória</title>
+    <updated>2026-10-15T23:04:59.177019+00:00</updated>
+    <link href="https://www.gov.br/mdic/pt-br/assuntos/noticias/tomada-publica-recebe-615-propostas-para-a-formulacao-da-estrategia-nacional-de-melhoria-regulatoria"/>
+    <summary>Contribuições serão analisadas pelo Comitê Gestor do PRO-REG para a elaboração do novo plano</summary>
+    <published>2026-09-28T14:57:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.gov.br/mdic/pt-br/assuntos/noticias/2026-periodo-eleitoral</id>
+    <title>2026 (Período eleitoral)</title>
+    <updated>2026-10-15T23:04:59.176934+00:00</updated>
+    <link href="https://www.gov.br/mdic/pt-br/assuntos/noticias/2026-periodo-eleitoral"/>
+    <summary>2026 (Período eleitoral)</summary>
+    <published>2026-06-25T21:50:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.gov.br/mdic/pt-br/assuntos/noticias/mdic-disponibiliza-programa-de-capacitacao-em-construcao-industrializada</id>
+    <title>MDIC disponibiliza Programa de Capacitação em Construção Industrializada</title>
+    <updated>2026-10-15T23:04:59.176845+00:00</updated>
+    <link href="https://www.gov.br/mdic/pt-br/assuntos/noticias/mdic-disponibiliza-programa-de-capacitacao-em-construcao-industrializada"/>
+    <summary>Cursos EAD gratuitos já estão à disposição na plataforma da Escola Nacional de Administração Pública (ENAP)</summary>
+    <published>2026-09-22T17:29:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.gov.br/mdic/pt-br/assuntos/noticias/gt-reune-setor-produtivo-para-debater-competitividade-e-melhoria-do-ambiente-de-negocios</id>
+    <title>GT reúne setor produtivo para debater competitividade e melhoria do ambiente de negócios</title>
+    <updated>2026-10-15T23:04:59.176746+00:00</updated>
+    <link href="https://www.gov.br/mdic/pt-br/assuntos/noticias/gt-reune-setor-produtivo-para-debater-competitividade-e-melhoria-do-ambiente-de-negocios"/>
+    <summary>Participantes acompanharam a primeira reunião aberta do Grupo de Trabalho desde sua criação</summary>
+    <published>2026-09-18T20:49:16+00:00</published>
+  </entry>
+</feed>

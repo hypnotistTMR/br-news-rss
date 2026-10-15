@@ -2,23 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:exame</id>
   <title>Exame</title>
-  <updated>2026-10-15T22:52:00.738954+00:00</updated>
+  <updated>2026-10-15T23:05:01.373252+00:00</updated>
   <link href="file:///feeds/exame.xml" rel="self"/>
   <link href="https://exame.com/feed/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: media / Mode: rss</subtitle>
   <entry>
-    <id>https://exame.com/brasil/pec-da-seguranca-vira-palco-de-disputa-entre-governo-e-oposicao-sobre-maioridade-penal/</id>
-    <title>PEC da Segurança vira palco de disputa entre governo e oposição sobre maioridade penal</title>
-    <updated>2026-10-15T22:52:00.741254+00:00</updated>
-    <link href="https://exame.com/brasil/pec-da-seguranca-vira-palco-de-disputa-entre-governo-e-oposicao-sobre-maioridade-penal/"/>
-    <summary>Planalto quer aprovar texto sem emendas; coordenador da campanha de Lula apresenta proposta que também diminui maioridade</summary>
-    <published>2026-10-15T16:47:20+00:00</published>
-  </entry>
-  <entry>
     <id>https://exame.com/negocios/grupo-sabin-compra-laboratorio-no-amapa-e-amplia-presenca-no-norte-do-brasil/</id>
     <title>Grupo Sabin compra laboratório no Amapá e amplia presença no Norte do Brasil</title>
-    <updated>2026-10-15T22:52:00.741170+00:00</updated>
+    <updated>2026-10-15T23:05:01.376153+00:00</updated>
     <link href="https://exame.com/negocios/grupo-sabin-compra-laboratorio-no-amapa-e-amplia-presenca-no-norte-do-brasil/"/>
     <summary>Em entrevista exclusiva à EXAME, a CEO Lídia Abdalla revela detalhes da nova aquisição, mantém a projeção de faturamento de R$ 2 bilhões e antecipa planos de expansão até 2028</summary>
     <published>2026-10-15T17:01:03+00:00</published>
@@ -26,7 +18,7 @@
   <entry>
     <id>https://exame.com/tecnologia/examelab/como-remover-pessoas-e-objetos-de-fotos-usando-ia-no-celular-e-de-graca/</id>
     <title>Como remover pessoas e objetos de fotos usando IA no celular — e de graça</title>
-    <updated>2026-10-15T22:52:00.741086+00:00</updated>
+    <updated>2026-10-15T23:05:01.376022+00:00</updated>
     <link href="https://exame.com/tecnologia/examelab/como-remover-pessoas-e-objetos-de-fotos-usando-ia-no-celular-e-de-graca/"/>
     <summary>Google Fotos, Snapseed e os editores nativos do iPhone e dos Galaxy removem elementos indesejados das imagens sem custo; veja o passo a passo de cada app</summary>
     <published>2026-10-15T17:01:05+00:00</published>
@@ -34,7 +26,7 @@
   <entry>
     <id>https://exame.com/ciencia/garrafa-encontrada-no-deserto-do-egito-guardava-um-bilhete-de-1977-e-pistas-sobre-quem-o-escreveu/</id>
     <title>Garrafa encontrada no deserto do Egito guardava um bilhete de 1977 — e pistas sobre quem o escreveu</title>
-    <updated>2026-10-15T22:52:00.740997+00:00</updated>
+    <updated>2026-10-15T23:05:01.375890+00:00</updated>
     <link href="https://exame.com/ciencia/garrafa-encontrada-no-deserto-do-egito-guardava-um-bilhete-de-1977-e-pistas-sobre-quem-o-escreveu/"/>
     <summary>Bilhete escrito pelo geofísico Tom Moran em 1977 foi identificado pela irmã após uma busca que envolveu jornal, registros públicos e redes sociais</summary>
     <published>2026-10-15T17:06:33+00:00</published>
@@ -42,7 +34,7 @@
   <entry>
     <id>https://exame.com/pop/apos-meses-de-espera-007-first-light-tem-data-para-chegar-ao-nintendo-switch-2/</id>
     <title>Após meses de espera, 007 First Light tem data para chegar ao Nintendo Switch 2</title>
-    <updated>2026-10-15T22:52:00.740917+00:00</updated>
+    <updated>2026-10-15T23:05:01.375766+00:00</updated>
     <link href="https://exame.com/pop/apos-meses-de-espera-007-first-light-tem-data-para-chegar-ao-nintendo-switch-2/"/>
     <summary>Desenvolvido pela IO Interactive, estúdio responsável pela franquia Hitman, 007 First Light apresenta uma história de origem inédita para James Bond</summary>
     <published>2026-10-15T17:28:29+00:00</published>
@@ -50,7 +42,7 @@
   <entry>
     <id>https://exame.com/ciencia/fim-da-escala-6x1-67-dos-trabalhadores-relatam-piora-na-saude-mental/</id>
     <title>Fim da escala 6×1: 67% dos trabalhadores relatam piora na saúde mental</title>
-    <updated>2026-10-15T22:52:00.740831+00:00</updated>
+    <updated>2026-10-15T23:05:01.375699+00:00</updated>
     <link href="https://exame.com/ciencia/fim-da-escala-6x1-67-dos-trabalhadores-relatam-piora-na-saude-mental/"/>
     <summary>Aprovada pelo Senado, proposta prevê dois dias de descanso por semana e redução da jornada sem corte salarial</summary>
     <published>2026-10-15T17:32:15+00:00</published>
@@ -58,7 +50,7 @@
   <entry>
     <id>https://exame.com/carreira/e-so-uma-equipe-muito-forte-o-ceo-da-nestle-explica-por-que-alguns-times-nao-quebram-na-crise/</id>
     <title>'É só uma equipe muito forte': o CEO da Nestlé explica por que alguns times não quebram na crise</title>
-    <updated>2026-10-15T22:52:00.740755+00:00</updated>
+    <updated>2026-10-15T23:05:01.375631+00:00</updated>
     <link href="https://exame.com/carreira/e-so-uma-equipe-muito-forte-o-ceo-da-nestle-explica-por-que-alguns-times-nao-quebram-na-crise/"/>
     <summary>Philipp Navratil, que lidera 270 mil funcionários, aponta confiança e propósito como base, construída no dia a dia</summary>
     <published>2026-10-15T17:32:53+00:00</published>
@@ -66,7 +58,7 @@
   <entry>
     <id>https://exame.com/inteligencia-artificial/amazon-lanca-gadgets-de-ia-que-ouvem-conversas-e-agora-sugerem-o-que-comprar/</id>
     <title>Amazon lança gadgets de IA que ouvem conversas — e agora sugerem o que comprar</title>
-    <updated>2026-10-15T22:52:00.740669+00:00</updated>
+    <updated>2026-10-15T23:05:01.375563+00:00</updated>
     <link href="https://exame.com/inteligencia-artificial/amazon-lanca-gadgets-de-ia-que-ouvem-conversas-e-agora-sugerem-o-que-comprar/"/>
     <summary>Pulseira Bee Frontier, de US$ 74,99, e acessório magnético Bee Eclipse são os primeiros produtos da Bee desde a compra pela Amazon e se conectam à Alexa+ e à loja da empresa</summary>
     <published>2026-10-15T17:38:06+00:00</published>
@@ -74,7 +66,7 @@
   <entry>
     <id>https://exame.com/ciencia/como-a-china-se-tornou-uma-potencia-cientifica-e-desafia-a-lideranca-dos-eua/</id>
     <title>Como a China se tornou uma potência científica — e desafia a liderança dos EUA</title>
-    <updated>2026-10-15T22:52:00.740583+00:00</updated>
+    <updated>2026-10-15T23:05:01.375492+00:00</updated>
     <link href="https://exame.com/ciencia/como-a-china-se-tornou-uma-potencia-cientifica-e-desafia-a-lideranca-dos-eua/"/>
     <summary>País ampliou investimentos em pesquisa, assumiu a liderança em publicações científicas e avança em áreas como inteligência artificial, espaço e tecnologia quântica</summary>
     <published>2026-10-15T17:39:38+00:00</published>
@@ -82,7 +74,7 @@
   <entry>
     <id>https://exame.com/carreira/fazer-o-basico-virou-pouco-as-4-caracteristicas-que-as-empresas-em-ascensao-buscam-em-candidatos/</id>
     <title>Fazer o básico virou pouco: as 4 características que as empresas em ascensão buscam em candidatos</title>
-    <updated>2026-10-15T22:52:00.740502+00:00</updated>
+    <updated>2026-10-15T23:05:01.375424+00:00</updated>
     <link href="https://exame.com/carreira/fazer-o-basico-virou-pouco-as-4-caracteristicas-que-as-empresas-em-ascensao-buscam-em-candidatos/"/>
     <summary>Fundador da Entrepreneurs’ Organization, Verne Harnish lista vontade, valores, resultados e habilidades, nessa ordem</summary>
     <published>2026-10-15T17:41:14+00:00</published>
@@ -90,7 +82,7 @@
   <entry>
     <id>https://exame.com/invest/mercados/ibovespa-cai-pela-3a-vez-seguida-com-disputa-eleitoral-mais-acirrada-dolar-dispara-117/</id>
     <title>Ibovespa cai pela 3ª vez seguida com disputa eleitoral mais acirrada; dólar dispara 1,17%</title>
-    <updated>2026-10-15T22:52:00.740421+00:00</updated>
+    <updated>2026-10-15T23:05:01.375356+00:00</updated>
     <link href="https://exame.com/invest/mercados/ibovespa-cai-pela-3a-vez-seguida-com-disputa-eleitoral-mais-acirrada-dolar-dispara-117/"/>
     <summary>Mercado brasileiro destoou dos Estados Unidos, onde as bolsas fecharam em alta</summary>
     <published>2026-10-15T17:41:15+00:00</published>
@@ -98,7 +90,7 @@
   <entry>
     <id>https://exame.com/pop/a-odisseia-ganha-data-para-estrear-no-streaming-com-90-minutos-de-conteudos-extras/</id>
     <title>'A Odisseia' ganha data para estrear no streaming com 90 minutos de conteúdos extras</title>
-    <updated>2026-10-15T22:52:00.740337+00:00</updated>
+    <updated>2026-10-15T23:05:01.375280+00:00</updated>
     <link href="https://exame.com/pop/a-odisseia-ganha-data-para-estrear-no-streaming-com-90-minutos-de-conteudos-extras/"/>
     <summary>Aventura estrelada por Matt Damon terá conteúdos extras selecionados por Nolan</summary>
     <published>2026-10-15T17:58:15+00:00</published>
@@ -106,7 +98,7 @@
   <entry>
     <id>https://exame.com/mercado-imobiliario/trxf11-e-matriz-fecham-operacao-de-r-14-bi-em-galpoes-alugados-ao-mercado-livre/</id>
     <title>TRXF11 e Matriz fecham operação de R$ 1,4 bi em galpões alugados ao Mercado Livre</title>
-    <updated>2026-10-15T22:52:00.740228+00:00</updated>
+    <updated>2026-10-15T23:05:01.375195+00:00</updated>
     <link href="https://exame.com/mercado-imobiliario/trxf11-e-matriz-fecham-operacao-de-r-14-bi-em-galpoes-alugados-ao-mercado-livre/"/>
     <summary>Negócio envolve três galpões com 237 mil m² de área locável; dois têm contratos de aluguel de dez anos com a varejista</summary>
     <published>2026-10-15T18:00:09+00:00</published>
@@ -114,7 +106,7 @@
   <entry>
     <id>https://exame.com/pop/quem-sai-de-a-fazenda-18-hoje-enquete-aponta-favorito-a-eliminacao/</id>
     <title>Quem sai de 'A Fazenda 18' hoje? Enquete aponta favorito à eliminação</title>
-    <updated>2026-10-15T22:52:00.740128+00:00</updated>
+    <updated>2026-10-15T23:05:01.375126+00:00</updated>
     <link href="https://exame.com/pop/quem-sai-de-a-fazenda-18-hoje-enquete-aponta-favorito-a-eliminacao/"/>
     <summary>Parcial da votação mostra qual dos três peões aparece com menos apoio do público na disputa pela permanência no reality</summary>
     <published>2026-10-15T18:14:23+00:00</published>
@@ -122,7 +114,7 @@
   <entry>
     <id>https://exame.com/brasil/lula-promete-transporte-publico-de-graca-aos-finais-de-semana/</id>
     <title>Lula promete transporte público de graça aos finais de semana</title>
-    <updated>2026-10-15T22:52:00.740051+00:00</updated>
+    <updated>2026-10-15T23:05:01.375053+00:00</updated>
     <link href="https://exame.com/brasil/lula-promete-transporte-publico-de-graca-aos-finais-de-semana/"/>
     <summary>Segundo ele, parte do financiamento poderá ocorrer por meio do compartilhamento de verbas oriundas das emendas parlamentares</summary>
     <published>2026-10-15T18:22:06+00:00</published>
@@ -130,7 +122,7 @@
   <entry>
     <id>https://exame.com/brasil/alcolumbre-adia-votacao-da-pec-da-seguranca-publica/</id>
     <title>Alcolumbre adia votação da PEC da Segurança Pública</title>
-    <updated>2026-10-15T22:52:00.739966+00:00</updated>
+    <updated>2026-10-15T23:05:01.374954+00:00</updated>
     <link href="https://exame.com/brasil/alcolumbre-adia-votacao-da-pec-da-seguranca-publica/"/>
     <summary>Decisão ocorre em meio à divisão sobre emendas que propõem a redução da maioridade penal</summary>
     <published>2026-10-15T18:36:16+00:00</published>
@@ -138,7 +130,7 @@
   <entry>
     <id>https://exame.com/brasil/pesquisa-datafolha-diferenca-entre-flavio-bolsonaro-e-lula-cai-de-4-para-2-pontos/</id>
     <title>Pesquisa Datafolha: diferença entre Flávio Bolsonaro e Lula cai de 4 para 2 pontos</title>
-    <updated>2026-10-15T22:52:00.739878+00:00</updated>
+    <updated>2026-10-15T23:05:01.374880+00:00</updated>
     <link href="https://exame.com/brasil/pesquisa-datafolha-diferenca-entre-flavio-bolsonaro-e-lula-cai-de-4-para-2-pontos/"/>
     <summary>Senador aparece com 51% dos votos válidos e Lula com 49%. Como a margem de erro do levantamento é de 2 pontos percentuais para mais ou para menos, os dois candidatos estão tecnicamente empatados</summary>
     <published>2026-10-15T18:36:45+00:00</published>
@@ -146,7 +138,7 @@
   <entry>
     <id>https://exame.com/brasil/senado-aprova-aumento-do-teto-de-faturamento-e-perdao-de-dividas-tributarias-para-meis/</id>
     <title>Senado aprova aumento do teto de faturamento e perdão de dívidas tributárias para MEIs</title>
-    <updated>2026-10-15T22:52:00.739788+00:00</updated>
+    <updated>2026-10-15T23:05:01.374807+00:00</updated>
     <link href="https://exame.com/brasil/senado-aprova-aumento-do-teto-de-faturamento-e-perdao-de-dividas-tributarias-para-meis/"/>
     <summary>Projeto vai à sanção do presidente Luiz Inácio Lula da Silva</summary>
     <published>2026-10-15T18:52:13+00:00</published>
@@ -154,7 +146,7 @@
   <entry>
     <id>https://exame.com/brasil/pec-do-fim-da-escala-6x1-sera-promulgada-nesta-sexta-feira-anuncia-alcolumbre/</id>
     <title>PEC do fim da escala 6x1 será promulgada nesta sexta-feira, anuncia Alcolumbre</title>
-    <updated>2026-10-15T22:52:00.739698+00:00</updated>
+    <updated>2026-10-15T23:05:01.374732+00:00</updated>
     <link href="https://exame.com/brasil/pec-do-fim-da-escala-6x1-sera-promulgada-nesta-sexta-feira-anuncia-alcolumbre/"/>
     <summary>Além dela, será promulgada a proposta que cria a aposentadoria especial para agentes da saúde, considerada uma pauta-bomba para o governo Lula</summary>
     <published>2026-10-15T18:56:17+00:00</published>
@@ -162,7 +154,7 @@
   <entry>
     <id>https://exame.com/tecnologia/examelab/telefone-vigiado-saiba-como-identificar-apps-espioes-no-android-e-iphone/</id>
     <title>Telefone vigiado? Saiba como identificar apps espiões no Android e iPhone</title>
-    <updated>2026-10-15T22:52:00.739606+00:00</updated>
+    <updated>2026-10-15T23:05:01.374649+00:00</updated>
     <link href="https://exame.com/tecnologia/examelab/telefone-vigiado-saiba-como-identificar-apps-espioes-no-android-e-iphone/"/>
     <summary>Veja quais sinais indicam um app espião no Android e no iPhone e como revisar permissões e contas sem alertar quem instalou o monitoramento</summary>
     <published>2026-10-15T19:01:06+00:00</published>
@@ -170,7 +162,7 @@
   <entry>
     <id>https://exame.com/ciencia/cientistas-descobrem-nova-defesa-contra-fungo-que-ameaca-arroz-trigo-e-cevada/</id>
     <title>Cientistas descobrem nova defesa contra fungo que ameaça arroz, trigo e cevada</title>
-    <updated>2026-10-15T22:52:00.739517+00:00</updated>
+    <updated>2026-10-15T23:05:01.374539+00:00</updated>
     <link href="https://exame.com/ciencia/cientistas-descobrem-nova-defesa-contra-fungo-que-ameaca-arroz-trigo-e-cevada/"/>
     <summary>Técnica modifica o sistema imunológico das plantas e pode ajudar a desenvolver cultivos mais resistentes à brusone</summary>
     <published>2026-10-15T19:08:58+00:00</published>
@@ -178,7 +170,7 @@
   <entry>
     <id>https://exame.com/esferabrasil/sem-aprovacao-no-congresso-quatro-medidas-provisorias-perderam-a-validade-entre-setembro-e-outubro/</id>
     <title>Sem aprovação no Congresso, quatro medidas provisórias perderam a validade entre setembro e outubro</title>
-    <updated>2026-10-15T22:52:00.739417+00:00</updated>
+    <updated>2026-10-15T23:05:01.374374+00:00</updated>
     <link href="https://exame.com/esferabrasil/sem-aprovacao-no-congresso-quatro-medidas-provisorias-perderam-a-validade-entre-setembro-e-outubro/"/>
     <summary>MPs custaram mais de R$ 30 bilhões aos cofres públicos nos últimos meses</summary>
     <published>2026-10-15T19:12:35+00:00</published>
@@ -186,7 +178,7 @@
   <entry>
     <id>https://exame.com/future-of-money/empresa-que-faz-pagamentos-com-stablecoins-capta-r-509-milhoes-e-foca-no-brasil/</id>
     <title>Empresa que faz pagamentos com stablecoins capta R$ 509 milhões e foca no Brasil</title>
-    <updated>2026-10-15T22:52:00.739318+00:00</updated>
+    <updated>2026-10-15T23:05:01.374140+00:00</updated>
     <link href="https://exame.com/future-of-money/empresa-que-faz-pagamentos-com-stablecoins-capta-r-509-milhoes-e-foca-no-brasil/"/>
     <summary>Fintech acelera expansão global e destaca avanço de 360% na receita brasileira entre janeiro e agosto, impulsionada por pagamentos e stablecoins</summary>
     <published>2026-10-15T19:20:28+00:00</published>
@@ -194,7 +186,7 @@
   <entry>
     <id>https://exame.com/tecnologia/google-reduz-erros-em-etapa-chave-da-computacao-quantica/</id>
     <title>Google reduz erros em etapa-chave da computação quântica</title>
-    <updated>2026-10-15T22:52:00.739217+00:00</updated>
+    <updated>2026-10-15T23:05:01.373914+00:00</updated>
     <link href="https://exame.com/tecnologia/google-reduz-erros-em-etapa-chave-da-computacao-quantica/"/>
     <summary>Experimento com o processador Willow alcançou fidelidade de 99,99% na preparação de estados quânticos, com aproveitamento de 8% das tentativas</summary>
     <published>2026-10-15T19:37:23+00:00</published>
@@ -202,9 +194,17 @@
   <entry>
     <id>https://exame.com/brasil/senado-aprova-aumento-do-teto-do-mei-e-perdao-de-dividas-veja-quando-comeca-a-valer/</id>
     <title>Senado aprova aumento do teto do MEI e perdão de dívidas: veja quando começa a valer</title>
-    <updated>2026-10-15T22:52:00.739105+00:00</updated>
+    <updated>2026-10-15T23:05:01.373666+00:00</updated>
     <link href="https://exame.com/brasil/senado-aprova-aumento-do-teto-do-mei-e-perdao-de-dividas-veja-quando-comeca-a-valer/"/>
     <summary>Pelo projeto, o teto de faturamento anual do MEI passará dos atuais R$ 81 mil para R$ 110 mil em 2027 e R$ 140 mil a partir de 2028</summary>
     <published>2026-10-15T19:40:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://exame.com/pop/a-mumia-4-ganha-titulo-oficial-e-traz-pistas-sobre-retorno-de-imothep-veja-o-que-se-sabe/</id>
+    <title>'A Múmia 4' ganha título oficial e traz pistas sobre retorno de Imothep; veja o que se sabe</title>
+    <updated>2026-10-15T23:05:01.373467+00:00</updated>
+    <link href="https://exame.com/pop/a-mumia-4-ganha-titulo-oficial-e-traz-pistas-sobre-retorno-de-imothep-veja-o-que-se-sabe/"/>
+    <summary>Brendan Fraser e Rachel Weisz aparecem caracterizados como Rick e Evelyn nos bastidores da continuação, prevista para outubro de 2027</summary>
+    <published>2026-10-15T19:54:17+00:00</published>
   </entry>
 </feed>

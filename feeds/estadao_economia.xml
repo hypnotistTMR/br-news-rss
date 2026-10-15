@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:estadao_economia</id>
   <title>Estadão - Economia</title>
-  <updated>2026-10-15T22:52:01.188476+00:00</updated>
+  <updated>2026-10-15T23:05:01.803984+00:00</updated>
   <link href="file:///feeds/estadao_economia.xml" rel="self"/>
   <link href="https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/economia/?body=%7B%22layout%22:%22google-news%22%7D" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -10,161 +10,161 @@
   <entry>
     <id>https://www.estadao.com.br/economia/negocios/carteira-concessoes-2027-projetos-rodoviarios-investimentos/</id>
     <title>Carteira de concessões para 2027 tem 11 projetos rodoviários e prevê R$ 102,6 bi em investimentos</title>
-    <updated>2026-10-15T22:52:01.191011+00:00</updated>
+    <updated>2026-10-15T23:05:01.806431+00:00</updated>
     <link href="https://www.estadao.com.br/economia/negocios/carteira-concessoes-2027-projetos-rodoviarios-investimentos/"/>
-    <summary/>
+    <summary>Carteira de concessões para 2027 tem 11 projetos rodoviários e prevê R$ 102,6 bi em investimentos</summary>
     <published>2026-10-15T16:43:04+00:00</published>
   </entry>
   <entry>
     <id>https://www.estadao.com.br/economia/negocios/o-que-as-empresas-que-mais-extraem-valor-da-ia-tem-em-comum/</id>
     <title>O que as empresas que mais extraem valor da IA têm em comum</title>
-    <updated>2026-10-15T22:52:01.190903+00:00</updated>
+    <updated>2026-10-15T23:05:01.806322+00:00</updated>
     <link href="https://www.estadao.com.br/economia/negocios/o-que-as-empresas-que-mais-extraem-valor-da-ia-tem-em-comum/"/>
-    <summary/>
+    <summary>O que as empresas que mais extraem valor da IA têm em comum</summary>
     <published>2026-10-15T10:01:00+00:00</published>
   </entry>
   <entry>
     <id>https://www.estadao.com.br/economia/ibge-vendas-varejo-sobem-agosto-abaixo-projecoes/</id>
     <title>Vendas do varejo sobem 0,1% em agosto, abaixo das projeções</title>
-    <updated>2026-10-15T22:52:01.190793+00:00</updated>
+    <updated>2026-10-15T23:05:01.806211+00:00</updated>
     <link href="https://www.estadao.com.br/economia/ibge-vendas-varejo-sobem-agosto-abaixo-projecoes/"/>
-    <summary/>
+    <summary>Vendas do varejo sobem 0,1% em agosto, abaixo das projeções</summary>
     <published>2026-10-15T12:48:07+00:00</published>
   </entry>
   <entry>
     <id>https://www.estadao.com.br/economia/agronegocios/seguranca-alimentar-fertilizantes-biologicos-entrevista-mariangela-hungria/</id>
     <title>Segurança alimentar não depende apenas de produção agrícola maior, diz pesquisadora da Embrapa</title>
-    <updated>2026-10-15T22:52:01.190684+00:00</updated>
+    <updated>2026-10-15T23:05:01.806097+00:00</updated>
     <link href="https://www.estadao.com.br/economia/agronegocios/seguranca-alimentar-fertilizantes-biologicos-entrevista-mariangela-hungria/"/>
-    <summary/>
+    <summary>Segurança alimentar não depende apenas de produção agrícola maior, diz pesquisadora da Embrapa</summary>
     <published>2026-10-15T17:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://www.estadao.com.br/economia/agronegocios/seguro-rural-lei-reduzir-incertezas-campo/</id>
     <title>Seguro rural: uma lei para reduzir as incertezas no campo</title>
-    <updated>2026-10-15T22:52:01.190575+00:00</updated>
+    <updated>2026-10-15T23:05:01.805987+00:00</updated>
     <link href="https://www.estadao.com.br/economia/agronegocios/seguro-rural-lei-reduzir-incertezas-campo/"/>
-    <summary/>
+    <summary>Seguro rural: uma lei para reduzir as incertezas no campo</summary>
     <published>2026-10-15T17:51:44+00:00</published>
   </entry>
   <entry>
     <id>https://www.estadao.com.br/economia/saiba-quais-trabalhadores-podem-ficar-de-fora-dos-efeitos-da-pec-do-fim-da-escala-6x1/</id>
     <title>Saiba quais trabalhadores podem ficar de fora dos efeitos da PEC do fim da escala 6x1</title>
-    <updated>2026-10-15T22:52:01.190465+00:00</updated>
+    <updated>2026-10-15T23:05:01.805880+00:00</updated>
     <link href="https://www.estadao.com.br/economia/saiba-quais-trabalhadores-podem-ficar-de-fora-dos-efeitos-da-pec-do-fim-da-escala-6x1/"/>
-    <summary/>
+    <summary>Saiba quais trabalhadores podem ficar de fora dos efeitos da PEC do fim da escala 6x1</summary>
     <published>2026-10-15T18:31:44+00:00</published>
   </entry>
   <entry>
     <id>https://www.estadao.com.br/economia/estupidez-coletiva-marca-escala-6x1/</id>
     <title>Estupidez coletiva marca escala 6x1</title>
-    <updated>2026-10-15T22:52:01.190357+00:00</updated>
+    <updated>2026-10-15T23:05:01.805771+00:00</updated>
     <link href="https://www.estadao.com.br/economia/estupidez-coletiva-marca-escala-6x1/"/>
-    <summary/>
+    <summary>Estupidez coletiva marca escala 6x1</summary>
     <published>2026-10-15T18:19:30+00:00</published>
   </entry>
   <entry>
     <id>https://www.estadao.com.br/economia/escala-5x2-deve-ampliar-deficit-em-setores-intensivos-em-mao-de-obra-como-supermercado-e-construcao/</id>
     <title>Escala 5x2 pode agravar escassez de trabalhadores em setores como os de supermercados e construção</title>
-    <updated>2026-10-15T22:52:01.190247+00:00</updated>
+    <updated>2026-10-15T23:05:01.805658+00:00</updated>
     <link href="https://www.estadao.com.br/economia/escala-5x2-deve-ampliar-deficit-em-setores-intensivos-em-mao-de-obra-como-supermercado-e-construcao/"/>
-    <summary/>
+    <summary>Escala 5x2 pode agravar escassez de trabalhadores em setores como os de supermercados e construção</summary>
     <published>2026-10-15T08:30:00+00:00</published>
   </entry>
   <entry>
     <id>https://www.estadao.com.br/economia/paises-reducao-jornada-de-trabalho-resultado/</id>
     <title>Quais países também reduziram a jornada de trabalho e qual foi o resultado?</title>
-    <updated>2026-10-15T22:52:01.190135+00:00</updated>
+    <updated>2026-10-15T23:05:01.805544+00:00</updated>
     <link href="https://www.estadao.com.br/economia/paises-reducao-jornada-de-trabalho-resultado/"/>
-    <summary/>
+    <summary>Quais países também reduziram a jornada de trabalho e qual foi o resultado?</summary>
     <published>2026-10-15T15:00:05+00:00</published>
   </entry>
   <entry>
     <id>https://www.estadao.com.br/economia/custo-hora-trabalhada-campo-deve-subir-escala-5x2-faesp/</id>
     <title>Custo por hora trabalhada no campo deve subir 22% com adoção da escala 5x2, diz Faesp</title>
-    <updated>2026-10-15T22:52:01.189951+00:00</updated>
+    <updated>2026-10-15T23:05:01.805413+00:00</updated>
     <link href="https://www.estadao.com.br/economia/custo-hora-trabalhada-campo-deve-subir-escala-5x2-faesp/"/>
-    <summary/>
+    <summary>Custo por hora trabalhada no campo deve subir 22% com adoção da escala 5x2, diz Faesp</summary>
     <published>2026-10-15T15:19:52+00:00</published>
   </entry>
   <entry>
     <id>https://www.estadao.com.br/economia/renata-piazzon/filantropia-climatica-quando-o-sucesso-e-deixar-de-ser-necessario/</id>
     <title>Filantropia climática: quando o sucesso é deixar de ser necessário</title>
-    <updated>2026-10-15T22:52:01.189839+00:00</updated>
+    <updated>2026-10-15T23:05:01.805302+00:00</updated>
     <link href="https://www.estadao.com.br/economia/renata-piazzon/filantropia-climatica-quando-o-sucesso-e-deixar-de-ser-necessario/"/>
-    <summary/>
+    <summary>Filantropia climática: quando o sucesso é deixar de ser necessário</summary>
     <published>2026-09-24T14:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://www.estadao.com.br/economia/60-apoiam-fim-da-escala-6x1-aprovado-pelo-congresso-e-30-sao-contra-diz-pesquisa-indexabroadcast/</id>
     <title>60% apoiam fim da escala 6x1 aprovado pelo Congresso e 30% são contra, diz pesquisa Indexa/Broadcast</title>
-    <updated>2026-10-15T22:52:01.189724+00:00</updated>
+    <updated>2026-10-15T23:05:01.805180+00:00</updated>
     <link href="https://www.estadao.com.br/economia/60-apoiam-fim-da-escala-6x1-aprovado-pelo-congresso-e-30-sao-contra-diz-pesquisa-indexabroadcast/"/>
-    <summary/>
+    <summary>60% apoiam fim da escala 6x1 aprovado pelo Congresso e 30% são contra, diz pesquisa Indexa/Broadcast</summary>
     <published>2026-10-15T19:26:22+00:00</published>
   </entry>
   <entry>
     <id>https://www.estadao.com.br/economia/fim-da-escala-6x1-o-que-economistas-e-entidades-dizem-sobre-a-medida-aprovada-pelo-congresso/</id>
     <title>Fim da escala 6x1: o que economistas e entidades dizem sobre a medida aprovada pelo Congresso?</title>
-    <updated>2026-10-15T22:52:01.189609+00:00</updated>
+    <updated>2026-10-15T23:05:01.805065+00:00</updated>
     <link href="https://www.estadao.com.br/economia/fim-da-escala-6x1-o-que-economistas-e-entidades-dizem-sobre-a-medida-aprovada-pelo-congresso/"/>
-    <summary/>
+    <summary>Fim da escala 6x1: o que economistas e entidades dizem sobre a medida aprovada pelo Congresso?</summary>
     <published>2026-10-15T01:01:28+00:00</published>
   </entry>
   <entry>
     <id>https://www.estadao.com.br/economia/fernando-dantas/o-risco-da-queda-rapida-da-popularidade-do-presidente-eleito/</id>
     <title>O risco da queda rápida da popularidade do presidente eleito</title>
-    <updated>2026-10-15T22:52:01.189494+00:00</updated>
+    <updated>2026-10-15T23:05:01.804949+00:00</updated>
     <link href="https://www.estadao.com.br/economia/fernando-dantas/o-risco-da-queda-rapida-da-popularidade-do-presidente-eleito/"/>
-    <summary/>
+    <summary>O risco da queda rápida da popularidade do presidente eleito</summary>
     <published>2026-10-15T19:43:27+00:00</published>
   </entry>
   <entry>
     <id>https://www.estadao.com.br/economia/fim-da-escala-6x1-pode-estimular-pejotizacao-e-informalidade-alerta-professor-da-fgv/</id>
     <title>Fim da escala 6X1 pode estimular pejotização e informalidade, alerta professor da FGV</title>
-    <updated>2026-10-15T22:52:01.189374+00:00</updated>
+    <updated>2026-10-15T23:05:01.804827+00:00</updated>
     <link href="https://www.estadao.com.br/economia/fim-da-escala-6x1-pode-estimular-pejotizacao-e-informalidade-alerta-professor-da-fgv/"/>
-    <summary/>
+    <summary>Fim da escala 6X1 pode estimular pejotização e informalidade, alerta professor da FGV</summary>
     <published>2026-10-15T20:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://www.estadao.com.br/economia/senado-aprova-pec-fim-escala-6x1/</id>
     <title>Senado aprova PEC do fim da 6x1, bandeira de Lula; PL articula proposta por hora trabalhada em 2027</title>
-    <updated>2026-10-15T22:52:01.189230+00:00</updated>
+    <updated>2026-10-15T23:05:01.804704+00:00</updated>
     <link href="https://www.estadao.com.br/economia/senado-aprova-pec-fim-escala-6x1/"/>
-    <summary/>
+    <summary>Senado aprova PEC do fim da 6x1, bandeira de Lula; PL articula proposta por hora trabalhada em 2027</summary>
     <published>2026-10-15T00:50:48+00:00</published>
   </entry>
   <entry>
     <id>https://www.estadao.com.br/economia/oncoclinicas-fundo-tenta-na-justica-federal-anular-decisao-da-cvm-sobre-oferta-de-acoes/</id>
     <title>Oncoclínicas: fundo tenta na Justiça Federal anular decisão da CVM sobre oferta de ações</title>
-    <updated>2026-10-15T22:52:01.189104+00:00</updated>
+    <updated>2026-10-15T23:05:01.804580+00:00</updated>
     <link href="https://www.estadao.com.br/economia/oncoclinicas-fundo-tenta-na-justica-federal-anular-decisao-da-cvm-sobre-oferta-de-acoes/"/>
-    <summary/>
+    <summary>Oncoclínicas: fundo tenta na Justiça Federal anular decisão da CVM sobre oferta de ações</summary>
     <published>2026-10-15T21:40:24+00:00</published>
   </entry>
   <entry>
     <id>https://www.estadao.com.br/economia/senado-aprova-aumento-do-teto-e-perdao-de-dividas-de-meis-e-da-aval-a-mais-uma-bandeira-de-lula/</id>
     <title>Senado aprova aumento do teto e perdão de dívidas de MEIs e dá aval a mais uma bandeira de Lula</title>
-    <updated>2026-10-15T22:52:01.188975+00:00</updated>
+    <updated>2026-10-15T23:05:01.804457+00:00</updated>
     <link href="https://www.estadao.com.br/economia/senado-aprova-aumento-do-teto-e-perdao-de-dividas-de-meis-e-da-aval-a-mais-uma-bandeira-de-lula/"/>
-    <summary/>
+    <summary>Senado aprova aumento do teto e perdão de dívidas de MEIs e dá aval a mais uma bandeira de Lula</summary>
     <published>2026-10-15T21:52:51+00:00</published>
   </entry>
   <entry>
     <id>https://www.estadao.com.br/economia/negocios/vibra-diz-manter-divergencia-com-a-petrobras-sobre-plano-de-retirada-de-marcas/</id>
     <title>Vibra diz manter divergência com a Petrobras sobre plano de retirada de marcas</title>
-    <updated>2026-10-15T22:52:01.188832+00:00</updated>
+    <updated>2026-10-15T23:05:01.804326+00:00</updated>
     <link href="https://www.estadao.com.br/economia/negocios/vibra-diz-manter-divergencia-com-a-petrobras-sobre-plano-de-retirada-de-marcas/"/>
-    <summary/>
+    <summary>Vibra diz manter divergência com a Petrobras sobre plano de retirada de marcas</summary>
     <published>2026-10-15T22:21:18+00:00</published>
   </entry>
   <entry>
     <id>https://www.estadao.com.br/economia/lula-vai-anunciar-tarifa-zero-no-transporte-de-onibus-urbanos-aos-finais-de-semana-e-feriados/</id>
     <title>Lula confirma que vai propor tarifa zero no transporte aos finais de semana com dinheiro de emendas</title>
-    <updated>2026-10-15T22:52:01.188672+00:00</updated>
+    <updated>2026-10-15T23:05:01.804174+00:00</updated>
     <link href="https://www.estadao.com.br/economia/lula-vai-anunciar-tarifa-zero-no-transporte-de-onibus-urbanos-aos-finais-de-semana-e-feriados/"/>
-    <summary/>
+    <summary>Lula confirma que vai propor tarifa zero no transporte aos finais de semana com dinheiro de emendas</summary>
     <published>2026-10-15T20:23:44+00:00</published>
   </entry>
 </feed>

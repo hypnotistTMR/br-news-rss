@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>urn:us-news-rss:vivareal</id>
+  <title>Viva Real - Blog</title>
+  <updated>2026-10-15T23:05:11.777070+00:00</updated>
+  <link href="file:///feeds/vivareal.xml" rel="self"/>
+  <link href="https://www.vivareal.com.br/blog/feed/" rel="alternate"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <subtitle>Category: realestate / Mode: rss</subtitle>
+  <entry>
+    <id>https://www.vivareal.com.br/blog/?p=34415</id>
+    <title>Chá de casa nova: ideias de convite, lista de presentes e decoração</title>
+    <updated>2026-10-15T23:05:11.785553+00:00</updated>
+    <link href="https://www.vivareal.com.br/blog/cuidados-casa/decoracao/cha-casa-nova/"/>
+    <summary>Mudar de casa é uma das etapas mais empolgantes da [&amp;#8230;]</summary>
+    <published>2026-02-11T07:43:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vivareal.com.br/blog/?p=34471</id>
+    <title>Medidas de colchão: solteiro, casal, queen e king explicados sem complicação</title>
+    <updated>2026-10-15T23:05:11.785424+00:00</updated>
+    <link href="https://www.vivareal.com.br/blog/cuidados-casa/medidas-de-colchao/"/>
+    <summary>A medida do colchão influencia o conforto do sono, a [&amp;#8230;]</summary>
+    <published>2026-02-25T19:39:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vivareal.com.br/blog/?p=34537</id>
+    <title>Custo de vida em São Paulo: saiba quanto custa morar na capital</title>
+    <updated>2026-10-15T23:05:11.785296+00:00</updated>
+    <link href="https://www.vivareal.com.br/blog/sem-categoria/custo-de-vida-em-sao-paulo/"/>
+    <summary>Planejar sua mudança exige entender o custo de vida em [&amp;#8230;]</summary>
+    <published>2026-03-25T04:33:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vivareal.com.br/blog/?p=34544</id>
+    <title>Tamanhos de cama: saiba como planejar o quarto ideal no seu novo imóvel</title>
+    <updated>2026-10-15T23:05:11.785147+00:00</updated>
+    <link href="https://www.vivareal.com.br/blog/cuidados-casa/tamanhos-de-cama-guia-de-medidas/"/>
+    <summary>Escolher entre os diversos tamanhos de cama disponíveis no mercado [&amp;#8230;]</summary>
+    <published>2026-03-26T22:34:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vivareal.com.br/blog/?p=34722</id>
+    <title>O que fazer à noite em São Paulo: guia completo da cidade que não dorme</title>
+    <updated>2026-10-15T23:05:11.784960+00:00</updated>
+    <link href="https://www.vivareal.com.br/blog/cidades/o-que-fazer-a-noite-em-sao-paulo/"/>
+    <summary>São Paulo é uma cidade que ganha ainda mais vida [&amp;#8230;]</summary>
+    <published>2026-04-08T19:42:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vivareal.com.br/blog/?p=35438</id>
+    <title>O que fazer no Guarujá? Praias, trilhas e passeios para você conhecer</title>
+    <updated>2026-10-15T23:05:11.784817+00:00</updated>
+    <link href="https://www.vivareal.com.br/blog/cidades/o-que-fazer-em-guaruja-roteiro/"/>
+    <summary>Planejar uma descida à Baixada Santista exige saber exatamente o [&amp;#8230;]</summary>
+    <published>2026-04-22T12:06:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vivareal.com.br/blog/?p=31059</id>
+    <title>Quanto cobrar de aluguel? Veja como calcular o valor do aluguel ideal</title>
+    <updated>2026-10-15T23:05:11.784678+00:00</updated>
+    <link href="https://www.vivareal.com.br/blog/dicas-de-aluguel/quanto-cobrar-de-aluguel/"/>
+    <summary>Para quem está pensando em colocar o próprio imóvel para [&amp;#8230;]</summary>
+    <published>2026-09-25T19:18:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vivareal.com.br/blog/?p=33451</id>
+    <title>Tamanho de garagem: medidas ideais para 1, 2 ou mais carros</title>
+    <updated>2026-10-15T23:05:11.784493+00:00</updated>
+    <link href="https://www.vivareal.com.br/blog/cuidados-casa/tamanho-de-garagem/"/>
+    <summary>O tamanho de garagem adequado depende diretamente do tipo de [&amp;#8230;]</summary>
+    <published>2026-09-25T19:58:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vivareal.com.br/blog/?p=29823</id>
+    <title>Rooftop: o que é, características e vantagens</title>
+    <updated>2026-10-15T23:05:11.777456+00:00</updated>
+    <link href="https://www.vivareal.com.br/blog/cuidados-casa/rooftop/"/>
+    <summary>O rooftop é um terraço elevado projetado para funcionar como [&amp;#8230;]</summary>
+    <published>2026-10-06T13:00:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.vivareal.com.br/blog//blog//?p=14337</id>
+    <title>Como transferir o IPTU para meu nome? Passo a passo completo</title>
+    <updated>2026-10-15T23:05:11.777284+00:00</updated>
+    <link href="https://www.vivareal.com.br/blog/dicas-de-compra/transferir-iptu-para-meu-nome/"/>
+    <summary>Se você está no processo de adquirir um imóvel, a [&amp;#8230;]</summary>
+    <published>2026-10-07T11:02:03+00:00</published>
+  </entry>
+</feed>

@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>urn:us-news-rss:govbr_cvm</id>
+  <title>CVM - Comissão de Valores Mobiliários</title>
+  <updated>2026-10-15T23:04:59.119482+00:00</updated>
+  <link href="file:///feeds/govbr_cvm.xml" rel="self"/>
+  <link href="https://www.gov.br/cvm/pt-br/assuntos/noticias/RSS" rel="alternate"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <subtitle>Category: financial / Mode: rss</subtitle>
+  <entry>
+    <id>https://www.gov.br/cvm/pt-br/assuntos/noticias/2014</id>
+    <title>2014</title>
+    <updated>2026-10-15T23:04:59.121638+00:00</updated>
+    <link href="https://www.gov.br/cvm/pt-br/assuntos/noticias/2014"/>
+    <summary>2014</summary>
+    <published>2024-12-19T14:12:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.gov.br/cvm/pt-br/assuntos/noticias/2022</id>
+    <title>2022</title>
+    <updated>2026-10-15T23:04:59.121554+00:00</updated>
+    <link href="https://www.gov.br/cvm/pt-br/assuntos/noticias/2022"/>
+    <summary>2022</summary>
+    <published>2024-01-30T15:33:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.gov.br/cvm/pt-br/assuntos/noticias/2005</id>
+    <title>2005</title>
+    <updated>2026-10-15T23:04:59.121477+00:00</updated>
+    <link href="https://www.gov.br/cvm/pt-br/assuntos/noticias/2005"/>
+    <summary>2005</summary>
+    <published>2024-12-19T14:27:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.gov.br/cvm/pt-br/assuntos/noticias/2013</id>
+    <title>2013</title>
+    <updated>2026-10-15T23:04:59.121343+00:00</updated>
+    <link href="https://www.gov.br/cvm/pt-br/assuntos/noticias/2013"/>
+    <summary>2013</summary>
+    <published>2024-12-19T14:13:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.gov.br/cvm/pt-br/assuntos/noticias/2017</id>
+    <title>2017</title>
+    <updated>2026-10-15T23:04:59.121078+00:00</updated>
+    <link href="https://www.gov.br/cvm/pt-br/assuntos/noticias/2017"/>
+    <summary>2017</summary>
+    <published>2024-12-19T14:10:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.gov.br/cvm/pt-br/assuntos/noticias/anexos</id>
+    <title>anexos</title>
+    <updated>2026-10-15T23:04:59.120803+00:00</updated>
+    <link href="https://www.gov.br/cvm/pt-br/assuntos/noticias/anexos"/>
+    <summary>anexos</summary>
+    <published>2020-09-10T12:33:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.gov.br/cvm/pt-br/assuntos/noticias/2015</id>
+    <title>2015</title>
+    <updated>2026-10-15T23:04:59.120559+00:00</updated>
+    <link href="https://www.gov.br/cvm/pt-br/assuntos/noticias/2015"/>
+    <summary>2015</summary>
+    <published>2024-12-19T14:11:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.gov.br/cvm/pt-br/assuntos/noticias/2019-1</id>
+    <title>2019</title>
+    <updated>2026-10-15T23:04:59.120472+00:00</updated>
+    <link href="https://www.gov.br/cvm/pt-br/assuntos/noticias/2019-1"/>
+    <summary>2019</summary>
+    <published>2024-12-19T14:09:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.gov.br/cvm/pt-br/assuntos/noticias/2023</id>
+    <title>2023</title>
+    <updated>2026-10-15T23:04:59.120383+00:00</updated>
+    <link href="https://www.gov.br/cvm/pt-br/assuntos/noticias/2023"/>
+    <summary>2023</summary>
+    <published>2024-01-29T22:55:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.gov.br/cvm/pt-br/assuntos/noticias/2020</id>
+    <title>2020</title>
+    <updated>2026-10-15T23:04:59.120285+00:00</updated>
+    <link href="https://www.gov.br/cvm/pt-br/assuntos/noticias/2020"/>
+    <summary>2020</summary>
+    <published>2024-02-01T20:25:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.gov.br/cvm/pt-br/assuntos/noticias/cvm-adequa-canais-de-comunicacao-para-cumprir-normas-do-periodo-eleitoral</id>
+    <title>CVM adequa canais de comunicação para cumprir normas do período eleitoral</title>
+    <updated>2026-10-15T23:04:59.120180+00:00</updated>
+    <link href="https://www.gov.br/cvm/pt-br/assuntos/noticias/cvm-adequa-canais-de-comunicacao-para-cumprir-normas-do-periodo-eleitoral"/>
+    <summary>Comentários das redes sociais estarão desativados até o fim das eleições</summary>
+    <published>2026-07-03T22:00:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.gov.br/cvm/pt-br/assuntos/noticias/2026</id>
+    <title>2026</title>
+    <updated>2026-10-15T23:04:59.120068+00:00</updated>
+    <link href="https://www.gov.br/cvm/pt-br/assuntos/noticias/2026"/>
+    <summary>2026</summary>
+    <published>2026-01-02T12:20:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.gov.br/cvm/pt-br/assuntos/noticias/2006</id>
+    <title>2006</title>
+    <updated>2026-10-15T23:04:59.119968+00:00</updated>
+    <link href="https://www.gov.br/cvm/pt-br/assuntos/noticias/2006"/>
+    <summary>2006</summary>
+    <published>2024-12-19T14:26:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.gov.br/cvm/pt-br/assuntos/noticias/2009</id>
+    <title>2009</title>
+    <updated>2026-10-15T23:04:59.119864+00:00</updated>
+    <link href="https://www.gov.br/cvm/pt-br/assuntos/noticias/2009"/>
+    <summary>2009</summary>
+    <published>2024-12-19T14:24:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.gov.br/cvm/pt-br/assuntos/noticias/2021</id>
+    <title>2021</title>
+    <updated>2026-10-15T23:04:59.119729+00:00</updated>
+    <link href="https://www.gov.br/cvm/pt-br/assuntos/noticias/2021"/>
+    <summary>2021</summary>
+    <published>2024-02-01T19:30:00+00:00</published>
+  </entry>
+</feed>

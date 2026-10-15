@@ -2,23 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:jota</id>
   <title>JOTA - Jornalismo Especializado em Direito</title>
-  <updated>2026-10-15T22:52:06.938619+00:00</updated>
+  <updated>2026-10-15T23:05:06.245901+00:00</updated>
   <link href="file:///feeds/jota.xml" rel="self"/>
   <link href="https://www.jota.info/feed" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: legal / Mode: rss</subtitle>
   <entry>
-    <id>https://portal.jota.info/?p=633152</id>
-    <title>Lula e Flávio Bolsonaro empatam em eleição sem indecisos, aponta pesquisa da Palver</title>
-    <updated>2026-10-15T22:52:06.941417+00:00</updated>
-    <link href="https://www.jota.info/eleicoes/eleicoes-2026/lula-e-flavio-bolsonaro-empatam-em-eleicao-sem-indecisos-aponta-pesquisa-da-palver"/>
-    <summary>Flávio tem 50% e Lula, 49%, na primeira rodada no segundo turno; quem não votou no 1º turno teria escolhido o petista, mas a maioria cita viagem ou título em outra cidade</summary>
-    <published>2026-10-15T10:00:31+00:00</published>
-  </entry>
-  <entry>
     <id>https://portal.jota.info/?p=632449</id>
     <title>STJ não admite recurso que discutia PIS sobre folha das cooperativas de crédito</title>
-    <updated>2026-10-15T22:52:06.941315+00:00</updated>
+    <updated>2026-10-15T23:05:06.250418+00:00</updated>
     <link href="https://www.jota.info/tributos/stj-nao-admite-recurso-que-discutia-pis-sobre-folha-das-cooperativas-de-credito"/>
     <summary>Ministros entenderam que os acórdãos apresentados como paradigmas em embargos de divergência não tratam da mesma matéria</summary>
     <published>2026-10-15T10:15:43+00:00</published>
@@ -26,7 +18,7 @@
   <entry>
     <id>https://portal.jota.info/?p=632904</id>
     <title>Por que a maior parte das pesquisas eleitorais não previu Flávio Bolsonaro à frente no 1º turno?</title>
-    <updated>2026-10-15T22:52:06.941209+00:00</updated>
+    <updated>2026-10-15T23:05:06.250301+00:00</updated>
     <link href="https://www.jota.info/eleicoes/eleicoes-2026/por-que-a-maior-parte-das-pesquisas-eleitorais-nao-previu-flavio-bolsonaro-a-frente-no-1o-turno"/>
     <summary>Para institutos, só 'voto tardio' não explica diferença entre pesquisas e urna; para alguns, crescimento de Flávio ao longo das estimativas era o dado mais importante</summary>
     <published>2026-10-15T11:15:37+00:00</published>
@@ -34,7 +26,7 @@
   <entry>
     <id>https://portal.jota.info/?p=632594</id>
     <title>Bancada do funcionalismo diminui e novo Congresso desafia pautas do serviço público</title>
-    <updated>2026-10-15T22:52:06.941105+00:00</updated>
+    <updated>2026-10-15T23:05:06.250185+00:00</updated>
     <link href="https://www.jota.info/legislativo/bancada-do-funcionalismo-diminui-e-novo-congresso-desafia-pautas-do-servico-publico"/>
     <summary>Derrotas de aliados do funcionalismo e mudanças nas bancadas desafiam a articulação de pautas de interesse dos servidores</summary>
     <published>2026-10-15T13:02:25+00:00</published>
@@ -42,7 +34,7 @@
   <entry>
     <id>https://portal.jota.info/?p=633163</id>
     <title>Ministro do CJF suspende pagamentos de R$ 775 milhões em precatórios de instituições filantrópicas</title>
-    <updated>2026-10-15T22:52:06.940999+00:00</updated>
+    <updated>2026-10-15T23:05:06.250069+00:00</updated>
     <link href="https://www.jota.info/justica/ministro-do-cjf-suspende-pagamentos-de-r-775-milhoes-em-precatorios-de-instituicoes-filantropicas"/>
     <summary>Ministro quer verificar a regularidade dos créditos e de sua expedição</summary>
     <published>2026-10-15T13:16:39+00:00</published>
@@ -50,7 +42,7 @@
   <entry>
     <id>https://portal.jota.info/?p=633168</id>
     <title>JOTA Principal | Senado aprova fim da escala 6×1 e pauta PEC da Segurança a 10 dias do 2º turno</title>
-    <updated>2026-10-15T22:52:06.940897+00:00</updated>
+    <updated>2026-10-15T23:05:06.249943+00:00</updated>
     <link href="https://www.jota.info/newsletters/jota-principal/senado-aprova-fim-6x1-pauta-pec-da-seguranca"/>
     <summary>Proposta foi aprovada de forma quase unânime, e governistas cobraram a presença de Flávio Bolsonaro</summary>
     <published>2026-10-15T13:24:28+00:00</published>
@@ -58,7 +50,7 @@
   <entry>
     <id>https://portal.jota.info/?p=633174</id>
     <title>Indexa/Broadcast: Flávio tem 51% dos votos válidos, ante 49% de Lula no 2º turno</title>
-    <updated>2026-10-15T22:52:06.940796+00:00</updated>
+    <updated>2026-10-15T23:05:06.249826+00:00</updated>
     <link href="https://www.jota.info/eleicoes/eleicoes-2026/indexa-broadcast-flavio-tem-51-dos-votos-validos-ante-49-de-lula-no-2o-turno"/>
     <summary>Levantamento aponta empate técnico no segundo turno e mostra que 87% dos eleitores já definiram o voto; 50% desaprovam a gestão petista</summary>
     <published>2026-10-15T13:28:57+00:00</published>
@@ -66,7 +58,7 @@
   <entry>
     <id>https://portal.jota.info/?p=633180</id>
     <title>Camilo articula emenda à PEC da Segurança para reduzir maioridade penal; PT resiste</title>
-    <updated>2026-10-15T22:52:06.940693+00:00</updated>
+    <updated>2026-10-15T23:05:06.249709+00:00</updated>
     <link href="https://www.jota.info/opiniao-e-analise/colunas/coluna-do-mura/camilo-articula-emenda-a-pec-da-seguranca-para-reduzir-maioridade-penal-pt-resiste"/>
     <summary>Dispositivo seria restrito a crimes hediondos; Lula cogita anunciar criação de novo ministério na semana que vem, se texto for aprovado</summary>
     <published>2026-10-15T13:40:42+00:00</published>
@@ -74,7 +66,7 @@
   <entry>
     <id>https://portal.jota.info/?p=633184</id>
     <title>Ministros formam maioria para STF debater valores pagos pelo SUS a hospitais privados</title>
-    <updated>2026-10-15T22:52:06.940591+00:00</updated>
+    <updated>2026-10-15T23:05:06.249584+00:00</updated>
     <link href="https://www.jota.info/saude/ministros-formam-maioria-para-stf-debater-valores-pagos-pelo-sus-a-hospitais-privados"/>
     <summary>Seis ministros já entenderam pela repercussão geral do caso que pode ter impacto de R$ 24 bilhões por ano no orçamento do Ministério da Saúde</summary>
     <published>2026-10-15T13:50:44+00:00</published>
@@ -82,7 +74,7 @@
   <entry>
     <id>https://portal.jota.info/?p=633031</id>
     <title>Uma nova oportunidade para os mercados preditivos</title>
-    <updated>2026-10-15T22:52:06.940489+00:00</updated>
+    <updated>2026-10-15T23:05:06.249466+00:00</updated>
     <link href="https://www.jota.info/opiniao-e-analise/artigos/uma-nova-oportunidade-para-os-mercados-preditivos"/>
     <summary>Proibição das apostas de quota fixa abre caminho para discutir a natureza jurídica própria dessas plataformas</summary>
     <published>2026-10-15T14:00:16+00:00</published>
@@ -90,7 +82,7 @@
   <entry>
     <id>https://portal.jota.info/?p=633198</id>
     <title>‘A segurança jurídica não pode ser uma barreira ao acesso à justiça’, diz representante da DPU</title>
-    <updated>2026-10-15T22:52:06.940387+00:00</updated>
+    <updated>2026-10-15T23:05:06.249346+00:00</updated>
     <link href="https://www.jota.info/coberturas-especiais/jurisprudente/a-seguranca-juridica-nao-pode-ser-uma-barreira-ao-acesso-a-justica-diz-representante-da-dpu"/>
     <summary>Amadeu Alves defende ampliação da estrutura da Defensoria e alerta para riscos da inteligência artificial na reprodução de desigualdades</summary>
     <published>2026-10-15T14:14:44+00:00</published>
@@ -98,7 +90,7 @@
   <entry>
     <id>https://portal.jota.info/?p=633192</id>
     <title>STF AO VIVO – Contribuição previdenciária ao Funrural – 15/10/26</title>
-    <updated>2026-10-15T22:52:06.940285+00:00</updated>
+    <updated>2026-10-15T23:05:06.249221+00:00</updated>
     <link href="https://www.jota.info/stf/do-supremo/stf-ao-vivo-contribuicao-previdenciaria-ao-funrural-15-10-26"/>
     <summary>Ministros do Supremo devem proclamar decisão sobre pagamentos de produtores rurais ao Funrural</summary>
     <published>2026-10-15T14:38:53+00:00</published>
@@ -106,7 +98,7 @@
   <entry>
     <id>https://portal.jota.info/?p=633213</id>
     <title>Negociação entre partidos sobre ações no TSE esbarra em manter canal do Janones ligado ao PT</title>
-    <updated>2026-10-15T22:52:06.940182+00:00</updated>
+    <updated>2026-10-15T23:05:06.249093+00:00</updated>
     <link href="https://www.jota.info/eleicoes/eleicoes-2026/negociacao-entre-partidos-sobre-acoes-no-tse-esbarra-em-manter-canal-do-janones-ligado-ao-pt"/>
     <summary>Partido do presidente Lula avalia que plenário pode derrubar obrigação imposta pelo ministro Nunes Marques</summary>
     <published>2026-10-15T15:02:04+00:00</published>
@@ -114,7 +106,7 @@
   <entry>
     <id>https://portal.jota.info/?p=633215</id>
     <title>Após caso ‘Exército do Lula’, TSE derruba prazo de 48h para uso de canais digitais entre 1º e 2º turnos</title>
-    <updated>2026-10-15T22:52:06.940079+00:00</updated>
+    <updated>2026-10-15T23:05:06.248952+00:00</updated>
     <link href="https://www.jota.info/eleicoes/eleicoes-2026/apos-caso-exercito-do-lula-tse-derruba-prazo-de-48h-para-uso-de-canais-digitais-entre-1o-e-2o-turnos"/>
     <summary>Aprovada por unanimidade, mudança ocorre após Nunes Marques liberar volta de grupo criado por André Janones</summary>
     <published>2026-10-15T15:09:29+00:00</published>
@@ -122,7 +114,7 @@
   <entry>
     <id>https://portal.jota.info/?p=633226</id>
     <title>Moraes autoriza prisão de deputado eleito no RJ por esquema de lavagem de dinheiro em postos</title>
-    <updated>2026-10-15T22:52:06.939975+00:00</updated>
+    <updated>2026-10-15T23:05:06.248824+00:00</updated>
     <link href="https://www.jota.info/stf/do-supremo/moraes-autoriza-prisao-de-deputado-eleito-no-rj-por-esquema-de-lavagem-de-dinheiro-em-postos"/>
     <summary>Foram alvo da operação o deputado Márcio Canella (União), o ex-chefe da Polícia Civil Marcus Amim e mais quatro policiais civis</summary>
     <published>2026-10-15T16:44:31+00:00</published>
@@ -130,7 +122,7 @@
   <entry>
     <id>https://portal.jota.info/?p=633235</id>
     <title>TSE confirma ordem de Mendonça para que governo Lula informe gastos com publicidade</title>
-    <updated>2026-10-15T22:52:06.939856+00:00</updated>
+    <updated>2026-10-15T23:05:06.248682+00:00</updated>
     <link href="https://www.jota.info/eleicoes/eleicoes-2026/tse-confirma-ordem-de-mendonca-para-que-governo-lula-informe-gastos-com-publicidade"/>
     <summary>Decisão foi dada em ação do PL que aponta despesas acima do permitido</summary>
     <published>2026-10-15T17:31:26+00:00</published>
@@ -138,7 +130,7 @@
   <entry>
     <id>https://portal.jota.info/?p=633240</id>
     <title>Tarcísio ‘mergulha’ na campanha em busca de 7 milhões de votos para eleger Flávio</title>
-    <updated>2026-10-15T22:52:06.939746+00:00</updated>
+    <updated>2026-10-15T23:05:06.248328+00:00</updated>
     <link href="https://www.jota.info/opiniao-e-analise/colunas/coluna-do-bombig/tarcisio-mergulha-na-campanha-em-busca-de-7-milhoes-de-votos-para-eleger-flavio"/>
     <summary>Até as estátuas do Bandeirantes duvidam do fim da reeleição, mas, ainda assim, governador escolheu ‘ser sócio’ em eventual vitória</summary>
     <published>2026-10-15T18:06:47+00:00</published>
@@ -146,7 +138,7 @@
   <entry>
     <id>https://portal.jota.info/?p=632103</id>
     <title>Quando são os dias e horários dos debates presidenciais do 2º turno das eleições 2026?</title>
-    <updated>2026-10-15T22:52:06.939637+00:00</updated>
+    <updated>2026-10-15T23:05:06.248008+00:00</updated>
     <link href="https://www.jota.info/eleicoes/eleicoes-2026/quando-sao-os-dias-e-horarios-dos-debates-presidenciais-do-2o-turno-das-eleicoes-2026"/>
     <summary>Há dois debates previstos pelas emissoras de TV aberta antes do 2º turno</summary>
     <published>2026-10-15T18:17:05+00:00</published>
@@ -154,7 +146,7 @@
   <entry>
     <id>https://portal.jota.info/?p=633253</id>
     <title>TRT10 faz audiência de conciliação sobre demissões no Grupo Casas Bahia nesta quinta</title>
-    <updated>2026-10-15T22:52:06.939527+00:00</updated>
+    <updated>2026-10-15T23:05:06.247755+00:00</updated>
     <link href="https://www.jota.info/trabalho/trt10-faz-audiencia-de-conciliacao-sobre-demissoes-no-grupo-casas-bahia-nesta-quinta"/>
     <summary>Acordo envolve conflito relacionado à dispensa coletiva de trabalhadores antes do pedido de recuperação judicial</summary>
     <published>2026-10-15T18:44:30+00:00</published>
@@ -162,7 +154,7 @@
   <entry>
     <id>https://portal.jota.info/?p=633261</id>
     <title>Orçamento público e gênero: um desafio para o próximo governo</title>
-    <updated>2026-10-15T22:52:06.939418+00:00</updated>
+    <updated>2026-10-15T23:05:06.247321+00:00</updated>
     <link href="https://www.jota.info/opiniao-e-analise/colunas/elas-no-jota/orcamento-publico-e-genero-um-desafio-para-o-proximo-governo"/>
     <summary>Incorporar perspectiva de gênero ao planejamento e à execução de despesas públicas é um dos desafios que se apresentam ao próximo ciclo político</summary>
     <published>2026-10-15T20:40:04+00:00</published>
@@ -170,7 +162,7 @@
   <entry>
     <id>https://portal.jota.info/?p=633196</id>
     <title>A face feminina da direita: quem vota e quem chega ao poder</title>
-    <updated>2026-10-15T22:52:06.939307+00:00</updated>
+    <updated>2026-10-15T23:05:06.246970+00:00</updated>
     <link href="https://www.jota.info/opiniao-e-analise/colunas/lorena-barberia/a-face-feminina-da-direita-quem-vota-e-quem-chega-ao-poder"/>
     <summary>Dados revelam um eleitorado plural e diferentes rotas até os cargos mais altos</summary>
     <published>2026-10-15T20:55:08+00:00</published>
@@ -178,7 +170,7 @@
   <entry>
     <id>https://portal.jota.info/?p=633287</id>
     <title>Alcolumbre conta com 6×1 e traições até no PL para se reeleger; Motta anuncia ‘blocão’</title>
-    <updated>2026-10-15T22:52:06.939186+00:00</updated>
+    <updated>2026-10-15T23:05:06.246788+00:00</updated>
     <link href="https://www.jota.info/legislativo/alcolumbre-conta-com-6x1-e-traicoes-ate-no-pl-para-se-reeleger-motta-anuncia-blocao"/>
     <summary>PL terá as maiores bancadas a partir de 2027 e busca presidências, mas os atuais presidentes do Legislativo buscam isolar bolsonarismo</summary>
     <published>2026-10-15T21:21:34+00:00</published>
@@ -186,7 +178,7 @@
   <entry>
     <id>https://portal.jota.info/?p=595829</id>
     <title>Quem são os candidatos a governador do Amazonas (AM) no segundo turno nas eleições 2026</title>
-    <updated>2026-10-15T22:52:06.939052+00:00</updated>
+    <updated>2026-10-15T23:05:06.246622+00:00</updated>
     <link href="https://www.jota.info/eleicoes/eleicoes-2026/quem-sao-os-candidatos-a-governador-do-amazonas-am-no-segundo-turno-nas-eleicoes-2026"/>
     <summary>Há sete candidatos ao governo amazonense no pleito deste ano</summary>
     <published>2026-10-15T22:02:22+00:00</published>
@@ -194,7 +186,7 @@
   <entry>
     <id>https://portal.jota.info/?p=633301</id>
     <title>PSD insiste em 2º turno para governador do Rio de Janeiro e volta a acionar STF</title>
-    <updated>2026-10-15T22:52:06.938915+00:00</updated>
+    <updated>2026-10-15T23:05:06.246474+00:00</updated>
     <link href="https://www.jota.info/eleicoes/eleicoes-2026/psd-insiste-em-2o-turno-para-governador-do-rio-de-janeiro-e-volta-a-acionar-stf"/>
     <summary>Partido de Eduardo Paes quer fixação de tese que permita manutenção de votos em candidatura indeferida após eleição</summary>
     <published>2026-10-15T22:20:38+00:00</published>
@@ -202,9 +194,17 @@
   <entry>
     <id>https://portal.jota.info/?p=633307</id>
     <title>Justiça homologa acordo entre Casas Bahia e 4.335 funcionários demitidos</title>
-    <updated>2026-10-15T22:52:06.938791+00:00</updated>
+    <updated>2026-10-15T23:05:06.246326+00:00</updated>
     <link href="https://www.jota.info/trabalho/justica-homologa-acordo-entre-casas-bahia-e-4-335-funcionarios-demitidos"/>
     <summary>Negociação homologada nesta tarde prevê o pagamento de R$ 7,5 mil de indenização por empregado dispensado</summary>
     <published>2026-10-15T22:38:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://portal.jota.info/?p=633310</id>
+    <title>Senado aprova reajuste do teto do MEI para R$ 140 mil e perdão de dívidas</title>
+    <updated>2026-10-15T23:05:06.246148+00:00</updated>
+    <link href="https://www.jota.info/opiniao-e-analise/artigos/senado-aprova-reajuste-do-teto-do-mei-para-r-140-mil-e-perdao-de-dividas"/>
+    <summary>Reajuste amplo da tabela do Simples Nacional ficou de fora e deve voltar à pauta após o segundo turno das eleições</summary>
+    <published>2026-10-15T23:02:35+00:00</published>
   </entry>
 </feed>

@@ -18,70 +18,9 @@ sources:
 
   # ============================================================
   # 政府・規制
+  # 注: gov.brの大多数の /noticias/RSS はHTMLを返すため、
+  # 実際に動作が確認できたURLだけ登録する。
   # ============================================================
-  - id: govbr_ultimas
-    title: "gov.br - Últimas Notícias"
-    category: government
-    mode: rss
-    endpoint: "https://www.gov.br/pt-br/noticias/ultimas-noticias/ultimas-noticias/RSS"
-    priority: critical
-
-  - id: govbr_economia
-    title: "gov.br - Economia e Gestão Pública"
-    category: government
-    mode: rss
-    endpoint: "https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/RSS"
-    priority: high
-
-  - id: govbr_energia
-    title: "gov.br - Energia e Combustíveis"
-    category: government
-    mode: rss
-    endpoint: "https://www.gov.br/pt-br/noticias/energia-minerais-e-combustiveis/RSS"
-    priority: high
-
-  - id: govbr_infraestrutura
-    title: "gov.br - Infraestrutura e Transportes"
-    category: government
-    mode: rss
-    endpoint: "https://www.gov.br/pt-br/noticias/transito-e-transportes/RSS"
-    priority: medium
-
-  - id: govbr_trabalho
-    title: "gov.br - Trabalho e Previdência"
-    category: government
-    mode: rss
-    endpoint: "https://www.gov.br/pt-br/noticias/trabalho-e-previdencia/RSS"
-    priority: high
-
-  - id: govbr_saude
-    title: "gov.br - Saúde e Vigilância Sanitária"
-    category: government
-    mode: rss
-    endpoint: "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/RSS"
-    priority: high
-
-  - id: govbr_meioambiente
-    title: "gov.br - Meio Ambiente e Clima"
-    category: government
-    mode: rss
-    endpoint: "https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/RSS"
-    priority: medium
-
-  - id: govbr_justica
-    title: "gov.br - Justiça e Segurança"
-    category: government
-    mode: rss
-    endpoint: "https://www.gov.br/pt-br/noticias/justica-e-seguranca/RSS"
-    priority: high
-
-  - id: govbr_educacao
-    title: "gov.br - Educação e Pesquisa"
-    category: government
-    mode: rss
-    endpoint: "https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/RSS"
-    priority: medium
-
   - id: govbr_cvm
     title: "CVM - Comissão de Valores Mobiliários"
     category: financial
@@ -97,11 +36,20 @@ sources:
     priority: high
 
   - id: govbr_ibama
-    title: "IBAMA - Notícias"
+    title: "IBAMA - Notícias (RDF 1.0)"
     category: environment
     mode: rss
-    endpoint: "https://www.gov.br/ibama/pt-br/assuntos/noticias/RSS"
+    endpoint: "https://www.gov.br/ibama/pt-br/RSS"
     priority: medium
+    notes: "RSS 1.0 RDF形式。パーサ対応済み"
+
+  - id: govbr_receita_federal
+    title: "Receita Federal - Notícias"
+    category: financial
+    mode: rss
+    endpoint: "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/ultimas-noticias/RSS"
+    priority: critical
+    notes: "RSS 1.0 RDF形式。連邦税務局"
 
   - id: stf_noticias
     title: "STF - Supremo Tribunal Federal"
@@ -109,6 +57,13 @@ sources:
     mode: rss
     endpoint: "https://noticias.stf.jus.br/feed/"
     priority: critical
+
+  - id: stf_portal
+    title: "STF Portal - Feed Secundário"
+    category: legal
+    mode: rss
+    endpoint: "https://portal.stf.jus.br/feed/"
+    priority: high
 
   # ============================================================
   # 金融・中央銀行

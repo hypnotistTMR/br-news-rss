@@ -2,15 +2,183 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:cnn_brasil</id>
   <title>CNN Brasil</title>
-  <updated>2026-10-15T22:52:01.957720+00:00</updated>
+  <updated>2026-10-15T23:05:02.610671+00:00</updated>
   <link href="file:///feeds/cnn_brasil.xml" rel="self"/>
   <link href="https://www.cnnbrasil.com.br/feed/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: media / Mode: rss</subtitle>
   <entry>
+    <id>https://www.cnnbrasil.com.br/pop/celebridades/virginia-vai-a-coroacao-da-amiga-duda-freire-na-unidos-da-vila-isabel/</id>
+    <title>Virginia vai à coroação da amiga Duda Freire na Unidos da Vila Isabel</title>
+    <updated>2026-10-15T23:05:02.621327+00:00</updated>
+    <link href="https://www.cnnbrasil.com.br/pop/celebridades/virginia-vai-a-coroacao-da-amiga-duda-freire-na-unidos-da-vila-isabel/"/>
+    <summary>Influenciadora usou um conjunto azul para o evento, que aconteceu na quarta-feira (14), e contou com a presença de outras celebridades, como a atriz Giullia Buscaccio</summary>
+    <published>2026-10-15T21:33:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnnbrasil.com.br/eleicoes/openai-aciona-pf-apos-supostas-ameacas-de-morte-a-lula-no-chatgpt/</id>
+    <title>OpenAI aciona PF após supostas ameaças de morte a Lula no ChatGPT</title>
+    <updated>2026-10-15T23:05:02.621191+00:00</updated>
+    <link href="https://www.cnnbrasil.com.br/eleicoes/openai-aciona-pf-apos-supostas-ameacas-de-morte-a-lula-no-chatgpt/"/>
+    <summary>Empresa desenvolvedora da inteligência artificial afirmou também ter acionado a Justiça Eleitoral sobre o caso</summary>
+    <published>2026-10-15T21:36:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnnbrasil.com.br/internacional/manifestantes-disparam-fogos-de-artificio-contra-a-policia-na-albania/</id>
+    <title>Manifestantes disparam fogos de artifício contra a polícia na Albânia</title>
+    <updated>2026-10-15T23:05:02.621058+00:00</updated>
+    <link href="https://www.cnnbrasil.com.br/internacional/manifestantes-disparam-fogos-de-artificio-contra-a-policia-na-albania/"/>
+    <summary>Forças de segurança revidaram com canhões de água; movimento popular acusa autoridades de corrupção e negligência com a educação</summary>
+    <published>2026-10-15T21:36:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnnbrasil.com.br/nacional/norte/pa/quem-e-a-delegada-do-para-presa-por-suspeita-de-colaborar-com-o-pcc/</id>
+    <title>Quem é a delegada do Pará presa por suspeita de colaborar com o PCC</title>
+    <updated>2026-10-15T23:05:02.620917+00:00</updated>
+    <link href="https://www.cnnbrasil.com.br/nacional/norte/pa/quem-e-a-delegada-do-para-presa-por-suspeita-de-colaborar-com-o-pcc/"/>
+    <summary>Maria Virgínia Grimwood Pinto é investigada por suspeita de receber R$ 50 mil e repassar informações sigilosas e oferecer proteção institucional a integrantes da facção criminosa</summary>
+    <published>2026-10-15T21:47:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnnbrasil.com.br/eleicoes/datafolha-50-dos-eleitores-desaprovam-lula-48-aprovam/</id>
+    <title>Datafolha: 50% dos eleitores desaprovam Lula; 48% aprovam</title>
+    <updated>2026-10-15T23:05:02.620771+00:00</updated>
+    <link href="https://www.cnnbrasil.com.br/eleicoes/datafolha-50-dos-eleitores-desaprovam-lula-48-aprovam/"/>
+    <summary>Pesquisa entrevistou 2.520 eleitores entre os dias 13 e 14 de outubro; margem de erro é de 2 p.p. para mais ou menos</summary>
+    <published>2026-10-15T21:49:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnnbrasil.com.br/nacional/sudeste/sp/ex-vereador-milton-leite-presta-primeiro-depoimento-apos-prisao/</id>
+    <title>Ex-vereador Milton Leite presta primeiro depoimento após prisão</title>
+    <updated>2026-10-15T23:05:02.620631+00:00</updated>
+    <link href="https://www.cnnbrasil.com.br/nacional/sudeste/sp/ex-vereador-milton-leite-presta-primeiro-depoimento-apos-prisao/"/>
+    <summary>Depoimento ocorre quase um mês após a prisão do ex-presidente da Câmara dos Vereadores de São Paulo</summary>
+    <published>2026-10-15T21:52:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnnbrasil.com.br/eleicoes/datafolha-46-dos-eleitores-rejeitam-lula-e-44-flavio-bolsonaro/</id>
+    <title>Datafolha: 46% dos eleitores rejeitam Lula e 44%, Flávio Bolsonaro</title>
+    <updated>2026-10-15T23:05:02.620491+00:00</updated>
+    <link href="https://www.cnnbrasil.com.br/eleicoes/datafolha-46-dos-eleitores-rejeitam-lula-e-44-flavio-bolsonaro/"/>
+    <summary>Levantamento ouviu 2.520 pessoas entre os dias 13 e 15 de outubro; margem de erro é de dois pontos percentuais, para mais ou para menos.</summary>
+    <published>2026-10-15T21:53:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnnbrasil.com.br/pop/cinema/al-pacino-recebera-premio-pelo-conjunto-da-carreira-no-actor-awards/</id>
+    <title>Al Pacino receberá prêmio pelo conjunto da carreira no Actor Awards</title>
+    <updated>2026-10-15T23:05:02.620351+00:00</updated>
+    <link href="https://www.cnnbrasil.com.br/pop/cinema/al-pacino-recebera-premio-pelo-conjunto-da-carreira-no-actor-awards/"/>
+    <summary>Aos 86 anos o ator norte-americano será homenageado em cerimônia que acontece em fevereiro de 2027 com transmissão ao vivo pela Netflix</summary>
+    <published>2026-10-15T21:54:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnnbrasil.com.br/politica/senado-aprova-teto-de-r-140-mil-para-meis-texto-vai-a-sancao/</id>
+    <title>Senado aprova ampliação do teto de MEIs e perdoa dívidas de inadimplentes</title>
+    <updated>2026-10-15T23:05:02.620207+00:00</updated>
+    <link href="https://www.cnnbrasil.com.br/politica/senado-aprova-teto-de-r-140-mil-para-meis-texto-vai-a-sancao/"/>
+    <summary>Projeto do Governo Federal possui impacto estimado de R$ 8 bilhões, mas não englobou os participantes do Simples Nacional; medida passou na Câmara dos Deputados na quarta-feira (14) por 461 a 4 e perdoa dívidas de microempreendedores</summary>
+    <published>2026-10-15T21:55:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnnbrasil.com.br/nacional/sudeste/sp/pericia-em-eletronicos-motivou-prorrogacao-de-prisao-de-milton-leite-em-sp/</id>
+    <title>Perícia em eletrônicos motivou prorrogação de prisão de Milton Leite em SP</title>
+    <updated>2026-10-15T23:05:02.620047+00:00</updated>
+    <link href="https://www.cnnbrasil.com.br/nacional/sudeste/sp/pericia-em-eletronicos-motivou-prorrogacao-de-prisao-de-milton-leite-em-sp/"/>
+    <summary>Equipamentos foram enviados à Unidade de Inteligência Policial do DEMACRO para quebra técnica e extração de informações</summary>
+    <published>2026-10-15T21:57:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnnbrasil.com.br/internacional/israel-alerta-ira-e-hezbollah-contra-interferencia-nas-eleicoes/</id>
+    <title>Israel alerta Irã e Hezbollah contra interferência nas eleições</title>
+    <updated>2026-10-15T23:05:02.619902+00:00</updated>
+    <link href="https://www.cnnbrasil.com.br/internacional/israel-alerta-ira-e-hezbollah-contra-interferencia-nas-eleicoes/"/>
+    <summary>Embaixador do país nas Nações Unidas pontuou que qualquer ataque ou ação do tipo traria "consequências devastadoras" aos perpetradores</summary>
+    <published>2026-10-15T22:04:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnnbrasil.com.br/pop/cinema/cinemark-anuncia-temporada-do-terror-com-ingressos-por-r-13/</id>
+    <title>Cinemark anuncia Temporada do Terror com ingressos por R$ 13</title>
+    <updated>2026-10-15T23:05:02.619753+00:00</updated>
+    <link href="https://www.cnnbrasil.com.br/pop/cinema/cinemark-anuncia-temporada-do-terror-com-ingressos-por-r-13/"/>
+    <summary>Rede de cinemas exibe clássicos e novidades do gênero entre os dias 16 e 31 de outubro com preços promocionais</summary>
+    <published>2026-10-15T22:04:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnnbrasil.com.br/eleicoes/datafolha-violencia-saude-e-economia-sao-piores-problemas-do-pais/</id>
+    <title>Datafolha: violência, saúde e economia são piores problemas do país</title>
+    <updated>2026-10-15T23:05:02.619602+00:00</updated>
+    <link href="https://www.cnnbrasil.com.br/eleicoes/datafolha-violencia-saude-e-economia-sao-piores-problemas-do-pais/"/>
+    <summary>Levantamento ouviu 2.520 eleitores em outubro para avaliar os principais problemas do país, com margem de erro de dois pontos</summary>
+    <published>2026-10-15T22:04:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnnbrasil.com.br/curiosidades/de-base-militar-a-hollywood-o-diretor-por-tras-da-transformacao-de-um-terreno-historico-em-estudios-de-cinema/</id>
+    <title>De base militar a Hollywood: o diretor por trás da transformação de um terreno histórico em estúdios de cinema</title>
+    <updated>2026-10-15T23:05:02.619452+00:00</updated>
+    <link href="https://www.cnnbrasil.com.br/curiosidades/de-base-militar-a-hollywood-o-diretor-por-tras-da-transformacao-de-um-terreno-historico-em-estudios-de-cinema/"/>
+    <summary>Tyler Perry comprou parte da antiga Fort McPherson por US$ 30 milhões e criou um espaço com 12 estúdios de gravação, edifícios históricos e uma réplica da Casa Branca</summary>
+    <published>2026-10-15T22:19:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnnbrasil.com.br/politica/marinho-diz-que-alcolumbre-atua-a-servico-do-governo-lula/</id>
+    <title>Marinho diz que Alcolumbre atua a serviço do governo Lula</title>
+    <updated>2026-10-15T23:05:02.619300+00:00</updated>
+    <link href="https://www.cnnbrasil.com.br/politica/marinho-diz-que-alcolumbre-atua-a-servico-do-governo-lula/"/>
+    <summary>Líder do PL e coordenador da campanha de Flávio criticou adiamento da PEC da Segurança e debate sobre maioridade penal</summary>
+    <published>2026-10-15T22:21:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnnbrasil.com.br/economia/money/negocios/mussa-projetos-sustentaveis-emperram-em-contratos-nao-na-falta-de-recurso/</id>
+    <title>Mussa: Projetos sustentáveis emperram em contratos, não na falta de recurso</title>
+    <updated>2026-10-15T23:05:02.619147+00:00</updated>
+    <link href="https://www.cnnbrasil.com.br/economia/money/negocios/mussa-projetos-sustentaveis-emperram-em-contratos-nao-na-falta-de-recurso/"/>
+    <summary>Mussa: Projetos sustentáveis emperram em contratos, não na falta de recurso</summary>
+    <published>2026-10-15T22:22:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnnbrasil.com.br/esportes/tenis/tenista-leva-suspensao-ate-2050-por-rede-corrupta-de-manipulacao-de-jogos/</id>
+    <title>Tenista leva suspensão até 2050 por “rede corrupta” de manipulação de jogos</title>
+    <updated>2026-10-15T23:05:02.618979+00:00</updated>
+    <link href="https://www.cnnbrasil.com.br/esportes/tenis/tenista-leva-suspensao-ate-2050-por-rede-corrupta-de-manipulacao-de-jogos/"/>
+    <summary>Sanção aplicada está entre as mais duras vistas em casos de corrupção no tênis, ficando atrás apenas das exclusões definitivas da modalidade</summary>
+    <published>2026-10-15T22:25:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnnbrasil.com.br/internacional/cacadores-da-siberia-abrem-temporada-de-caca-aos-ursos-apos-ataques-fatais/</id>
+    <title>Caçadores da Sibéria abrem temporada de caça aos ursos após ataques fatais</title>
+    <updated>2026-10-15T23:05:02.618827+00:00</updated>
+    <link href="https://www.cnnbrasil.com.br/internacional/cacadores-da-siberia-abrem-temporada-de-caca-aos-ursos-apos-ataques-fatais/"/>
+    <summary>População relatou medo e mudança na rotina após série de encontros mortais com os animais; governo afirmou que está elaborando ações para controlar quantidade de ursos-pardos</summary>
+    <published>2026-10-15T22:26:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnnbrasil.com.br/internacional/enchentes-deixam-mortos-istambul/</id>
+    <title>Enchentes deixam três mortos em Istambul após chuvas mais fortes em décadas</title>
+    <updated>2026-10-15T23:05:02.618666+00:00</updated>
+    <link href="https://www.cnnbrasil.com.br/internacional/enchentes-deixam-mortos-istambul/"/>
+    <summary>Pelo menos 2,7 mil pessoas tiveram que fugir após fortes chuvas atingirem a cidade; moradores culpam a prefeitura pelas condições do sistema de esgoto</summary>
+    <published>2026-10-15T22:29:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnnbrasil.com.br/politica/oab-da-medicina-senado-aprova-mp-que-obriga-provas-durante-o-curso/</id>
+    <title>“OAB da Medicina”: Senado aprova MP que obriga provas durante o curso</title>
+    <updated>2026-10-15T23:05:02.618413+00:00</updated>
+    <link href="https://www.cnnbrasil.com.br/politica/oab-da-medicina-senado-aprova-mp-que-obriga-provas-durante-o-curso/"/>
+    <summary>Medida, que vai à sanção, passa a valer para novos ingressantes no curso de medicina; MEC também anunciou punição a instituições que apresentarem resultados insatisfatórios na avaliação</summary>
+    <published>2026-10-15T22:33:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnnbrasil.com.br/eleicoes/mendonca-segue-plenario-e-proibe-video-de-lula-que-liga-flavio-a-milicias/</id>
+    <title>Mendonça segue Plenário e proíbe vídeo de Lula que liga Flávio a milícias</title>
+    <updated>2026-10-15T23:05:02.618080+00:00</updated>
+    <link href="https://www.cnnbrasil.com.br/eleicoes/mendonca-segue-plenario-e-proibe-video-de-lula-que-liga-flavio-a-milicias/"/>
+    <summary>Relator diz que antes defendia visão mais "ampla da crítica política", mas que agora aplicará entendimento restritivo do TSE; campanha do petista não pode reimpulsionar nem republicar a peça</summary>
+    <published>2026-10-15T22:35:10+00:00</published>
+  </entry>
+  <entry>
     <id>https://www.cnnbrasil.com.br/economia//</id>
     <title>“Engessar” escala de trabalho terá impacto de custos, diz Paulo Skaf</title>
-    <updated>2026-10-15T22:52:01.959146+00:00</updated>
+    <updated>2026-10-15T23:05:02.617889+00:00</updated>
     <link href="https://www.cnnbrasil.com.br/economia/money/macroeconomia/engessar-escala-de-trabalho-tera-impacto-de-custos-diz-paulo-skaf/"/>
     <summary>Para o presidente da Fiesp, medida foi aprovada no "calor eleitoral" e terá impacto de custos ao empresariado e pressão inflacionária</summary>
     <published>2026-10-15T21:09:36+00:00</published>
@@ -18,7 +186,7 @@
   <entry>
     <id>https://www.cnnbrasil.com.br/economia/criptomoedas-bitcoin-opera-em-alta-e-retoma-os-us-82-mil-com-recuperacao-limitada/</id>
     <title>Bitcoin sobe, mas recuperação é limitada por expectativa de Fed mais rígido</title>
-    <updated>2026-10-15T22:52:01.959016+00:00</updated>
+    <updated>2026-10-15T23:05:02.617731+00:00</updated>
     <link href="https://www.cnnbrasil.com.br/economia/money/mercado/bitcoin-sobe-mas-recuperacao-e-limitada-por-expectativa-de-fed-mais-rigido/"/>
     <summary>Segundo a plataforma Binance, Criptomoeda operava em alta de 0,83%, a US$ 82.469,62, enquanto o Ethereum subia 0,91%, a US$ 2.451,79</summary>
     <published>2026-10-15T21:13:20+00:00</published>
@@ -26,7 +194,7 @@
   <entry>
     <id>https://www.cnnbrasil.com.br/economia/ceo-da-nvidia-diz-que-nao-precisara-resgatar-a-coreweave/</id>
     <title>CEO da Nvidia diz que não precisará resgatar a CoreWeave</title>
-    <updated>2026-10-15T22:52:01.958886+00:00</updated>
+    <updated>2026-10-15T23:05:02.617556+00:00</updated>
     <link href="https://www.cnnbrasil.com.br/economia/money/macroeconomia/ceo-da-nvidia-diz-que-nao-precisara-resgatar-a-coreweave/"/>
     <summary>Ações da CoreWeave e de outras empresas de computação em nuvem caíram em bloco</summary>
     <published>2026-10-15T21:16:40+00:00</published>
@@ -34,7 +202,7 @@
   <entry>
     <id>https://www.cnnbrasil.com.br/noticias//</id>
     <title>Veja os resultados da rodada de abertura da Conference League</title>
-    <updated>2026-10-15T22:52:01.958679+00:00</updated>
+    <updated>2026-10-15T23:05:02.617412+00:00</updated>
     <link href="https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/veja-os-resultados-da-rodada-de-abertura-da-conference-league/"/>
     <summary>Clubes como Brighton, Monaco e Atalanta estrearam com vitórias no torneio europeu nesta quinta-feira (15)</summary>
     <published>2026-10-15T21:19:11+00:00</published>
@@ -42,7 +210,7 @@
   <entry>
     <id>https://www.cnnbrasil.com.br/economia/sicoob-entra-em-mercados-de-capitais-e-capta-quase-r-1-bi-em-emissao-de-letras-financeiras/</id>
     <title>Sicoob estreia no mercado de capitais com captação próxima de R$ 1 bi</title>
-    <updated>2026-10-15T22:52:01.958477+00:00</updated>
+    <updated>2026-10-15T23:05:02.617294+00:00</updated>
     <link href="https://www.cnnbrasil.com.br/economia/money/negocios/sicoob-estreia-no-mercado-de-capitais-com-captacao-proxima-de-r-1-bi/"/>
     <summary>Ofertas de intenção de investimentos somaram R$ 3,23 bilhões, mais de quatro vezes o volume inicialmente proposto, de R$ 800 milhões</summary>
     <published>2026-10-15T21:22:12+00:00</published>
@@ -50,7 +218,7 @@
   <entry>
     <id>https://www.cnnbrasil.com.br/economia/petroleo-fecha-sem-direcao-unica-em-meio-a-ataques-no-oriente-medio-e-aumento-da-oferta/</id>
     <title>Petróleo fecha sem rumo único com tensão geopolítica e oferta maior</title>
-    <updated>2026-10-15T22:52:01.958348+00:00</updated>
+    <updated>2026-10-15T23:05:02.617169+00:00</updated>
     <link href="https://www.cnnbrasil.com.br/economia/money/mercado/petroleo-fecha-sem-rumo-unico-com-tensao-geopolitica-e-oferta-maior/"/>
     <summary>Brent para dezembro fechou em queda de 0,13%, a US$ 105,92 o barril; já o WTI para novembro subiu 3,03%, a US$ 97,97 o barril</summary>
     <published>2026-10-15T21:23:16+00:00</published>
@@ -58,7 +226,7 @@
   <entry>
     <id>https://www.cnnbrasil.com.br/economia/bolsas-de-ny-fecham-em-alta-mesmo-com-inflacao-nos-eua-e-incerteza-com-ia/</id>
     <title>Wall Street fecha em alta apesar da inflação e das incertezas com IA</title>
-    <updated>2026-10-15T22:52:01.958199+00:00</updated>
+    <updated>2026-10-15T23:05:02.616984+00:00</updated>
     <link href="https://www.cnnbrasil.com.br/economia/money/mercado/wall-street-fecha-em-alta-apesar-da-inflacao-e-das-incertezas-com-ia/"/>
     <summary>Dow Jones subiu 1,08%, S&amp;#038;P 500 ganhou 0,33% e o Nasdaq avançou 0,08%</summary>
     <published>2026-10-15T21:23:27+00:00</published>
@@ -66,7 +234,7 @@
   <entry>
     <id>https://www.cnnbrasil.com.br/esportes//</id>
     <title>Flaco López é o melhor jogador do futebol brasileiro? Veja debate</title>
-    <updated>2026-10-15T22:52:01.958062+00:00</updated>
+    <updated>2026-10-15T23:05:02.616550+00:00</updated>
     <link href="https://www.cnnbrasil.com.br/esportes/futebol/palmeiras/flaco-lopez-e-o-melhor-jogador-do-futebol-brasileiro-veja-debate/"/>
     <summary>Comentaristas do Convocação CNN debatem o desempenho do atacante do Palmeiras e sua posição entre os principais craques do Brasil em 2026</summary>
     <published>2026-10-15T21:29:18+00:00</published>
@@ -74,7 +242,7 @@
   <entry>
     <id>https://www.cnnbrasil.com.br///</id>
     <title>Corinthians bate Colo-Colo e estreia com vitória na Libertadores Feminina</title>
-    <updated>2026-10-15T22:52:01.957905+00:00</updated>
+    <updated>2026-10-15T23:05:02.616074+00:00</updated>
     <link href="https://www.cnnbrasil.com.br/esportes/futebol/corinthians/corinthians-bate-colo-colo-e-estreia-com-vitoria-na-libertadores-feminina/"/>
     <summary>Equipe alvinegra soma os primeiros pontos no Grupo A da competição, que também conta com Santa Fe, da Colômbia, e Caracas, da Venezuela</summary>
     <published>2026-10-15T22:42:23+00:00</published>

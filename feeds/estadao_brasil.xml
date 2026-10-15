@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:estadao_brasil</id>
   <title>Estadão - Brasil</title>
-  <updated>2026-10-15T22:52:01.084283+00:00</updated>
+  <updated>2026-10-15T23:05:01.672405+00:00</updated>
   <link href="file:///feeds/estadao_brasil.xml" rel="self"/>
   <link href="https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/brasil/?body=%7B%22layout%22:%22google-news%22%7D" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -10,161 +10,161 @@
   <entry>
     <id>https://www.estadao.com.br/brasil/novo-ciclone-extratropical-brasil-mais-temporais-sudeste-npr/</id>
     <title>Novo ciclone extratropical deve se formar perto do Brasil e causar mais temporais no Sudeste</title>
-    <updated>2026-10-15T22:52:01.088651+00:00</updated>
+    <updated>2026-10-15T23:05:01.675818+00:00</updated>
     <link href="https://www.estadao.com.br/brasil/novo-ciclone-extratropical-brasil-mais-temporais-sudeste-npr/"/>
-    <summary/>
+    <summary>Novo ciclone extratropical deve se formar perto do Brasil e causar mais temporais no Sudeste</summary>
     <published>2026-10-14T21:00:14+00:00</published>
   </entry>
   <entry>
     <id>https://www.estadao.com.br/brasil/brasileira-presa-por-trafico-na-tailandia-volta-ao-brasil-apos-conseguir-reducao-de-pena-npr/</id>
     <title>Brasileira presa por tráfico na Tailândia volta ao Brasil após conseguir redução de pena</title>
-    <updated>2026-10-15T22:52:01.088521+00:00</updated>
+    <updated>2026-10-15T23:05:01.675692+00:00</updated>
     <link href="https://www.estadao.com.br/brasil/brasileira-presa-por-trafico-na-tailandia-volta-ao-brasil-apos-conseguir-reducao-de-pena-npr/"/>
-    <summary/>
+    <summary>Brasileira presa por tráfico na Tailândia volta ao Brasil após conseguir redução de pena</summary>
     <published>2026-10-14T16:26:39+00:00</published>
   </entry>
   <entry>
     <id>https://www.estadao.com.br/brasil/homem-escorrega-ao-tirar-selfie-e-fica-preso-a-beira-de-precipicio-por-11-horas-no-tocantins-npr/</id>
     <title>Homem escorrega ao tirar selfie e fica preso à beira de precipício por 11 horas no Tocantins</title>
-    <updated>2026-10-15T22:52:01.088398+00:00</updated>
+    <updated>2026-10-15T23:05:01.675518+00:00</updated>
     <link href="https://www.estadao.com.br/brasil/homem-escorrega-ao-tirar-selfie-e-fica-preso-a-beira-de-precipicio-por-11-horas-no-tocantins-npr/"/>
-    <summary/>
+    <summary>Homem escorrega ao tirar selfie e fica preso à beira de precipício por 11 horas no Tocantins</summary>
     <published>2026-10-14T16:56:48+00:00</published>
   </entry>
   <entry>
     <id>https://www.estadao.com.br/brasil/parcerias-entre-setor-privado-e-ongs-ajudam-a-romper-silencio-sobre-violencia-sexual-contra-criancas/</id>
     <title>Parcerias entre setor privado e ONGs ajudam a romper silêncio sobre violência sexual contra crianças</title>
-    <updated>2026-10-15T22:52:01.088278+00:00</updated>
+    <updated>2026-10-15T23:05:01.675258+00:00</updated>
     <link href="https://www.estadao.com.br/brasil/parcerias-entre-setor-privado-e-ongs-ajudam-a-romper-silencio-sobre-violencia-sexual-contra-criancas/"/>
-    <summary/>
+    <summary>Parcerias entre setor privado e ONGs ajudam a romper silêncio sobre violência sexual contra crianças</summary>
     <published>2026-10-15T03:02:00+00:00</published>
   </entry>
   <entry>
     <id>https://www.estadao.com.br/brasil/estadao-podcasts/noticia-no-seu-tempo-senado-aprova-emenda-constitucional-que-acaba-com-jornada-de-trabalho-6x1/</id>
     <title>Notícia no Seu Tempo: Senado aprova emenda constitucional que acaba com jornada de trabalho 6x1</title>
-    <updated>2026-10-15T22:52:01.088152+00:00</updated>
+    <updated>2026-10-15T23:05:01.675093+00:00</updated>
     <link href="https://www.estadao.com.br/brasil/estadao-podcasts/noticia-no-seu-tempo-senado-aprova-emenda-constitucional-que-acaba-com-jornada-de-trabalho-6x1/"/>
-    <summary/>
+    <summary>Notícia no Seu Tempo: Senado aprova emenda constitucional que acaba com jornada de trabalho 6x1</summary>
     <published>2026-10-15T06:00:25+00:00</published>
   </entry>
   <entry>
     <id>https://www.estadao.com.br/brasil/macaco-eletrico/decisao-da-anthropic-de-cortar-a-internet-em-testes-de-ia-remete-aos-riscos-de-ai-2027/</id>
     <title>Decisão da Anthropic de cortar a Internet em testes de IA remete aos riscos de "AI 2027"</title>
-    <updated>2026-10-15T22:52:01.088021+00:00</updated>
+    <updated>2026-10-15T23:05:01.674940+00:00</updated>
     <link href="https://www.estadao.com.br/brasil/macaco-eletrico/decisao-da-anthropic-de-cortar-a-internet-em-testes-de-ia-remete-aos-riscos-de-ai-2027/"/>
-    <summary/>
+    <summary>Decisão da Anthropic de cortar a Internet em testes de IA remete aos riscos de "AI 2027"</summary>
     <published>2026-10-15T11:00:27+00:00</published>
   </entry>
   <entry>
     <id>https://www.estadao.com.br/brasil/brasileiro-e-encontrado-morto-na-turquia-antes-de-ser-deportado-npr/</id>
     <title>Brasileiro é encontrado morto na Turquia antes de ser deportado</title>
-    <updated>2026-10-15T22:52:01.087888+00:00</updated>
+    <updated>2026-10-15T23:05:01.674814+00:00</updated>
     <link href="https://www.estadao.com.br/brasil/brasileiro-e-encontrado-morto-na-turquia-antes-de-ser-deportado-npr/"/>
-    <summary/>
+    <summary>Brasileiro é encontrado morto na Turquia antes de ser deportado</summary>
     <published>2026-10-14T16:55:40+00:00</published>
   </entry>
   <entry>
     <id>https://www.estadao.com.br/brasil/quem-era-brasileiro-encontrado-morto-turquia-antes-ser-deportado-npr/</id>
     <title>Quem era o brasileiro encontrado morto na Turquia antes de ser deportado</title>
-    <updated>2026-10-15T22:52:01.087741+00:00</updated>
+    <updated>2026-10-15T23:05:01.674687+00:00</updated>
     <link href="https://www.estadao.com.br/brasil/quem-era-brasileiro-encontrado-morto-turquia-antes-ser-deportado-npr/"/>
-    <summary/>
+    <summary>Quem era o brasileiro encontrado morto na Turquia antes de ser deportado</summary>
     <published>2026-10-15T00:22:43+00:00</published>
   </entry>
   <entry>
     <id>https://www.estadao.com.br/brasil/alckmin-defende-a-reducao-da-maioridade-penal-em-casos-graves/</id>
     <title>Alckmin defende a redução da maioridade penal em casos graves</title>
-    <updated>2026-10-15T22:52:01.087590+00:00</updated>
+    <updated>2026-10-15T23:05:01.674437+00:00</updated>
     <link href="https://www.estadao.com.br/brasil/alckmin-defende-a-reducao-da-maioridade-penal-em-casos-graves/"/>
-    <summary/>
+    <summary>Alckmin defende a redução da maioridade penal em casos graves</summary>
     <published>2026-10-15T14:36:01+00:00</published>
   </entry>
   <entry>
     <id>https://www.estadao.com.br/brasil/lider-do-pt-atua-para-incluir-reducao-da-maioridade-penal-para-crime-hediondo-na-pec-da-seguranca/</id>
     <title>Líder do PT atua para incluir redução da maioridade penal para crime hediondo na PEC da Segurança</title>
-    <updated>2026-10-15T22:52:01.087407+00:00</updated>
+    <updated>2026-10-15T23:05:01.674305+00:00</updated>
     <link href="https://www.estadao.com.br/brasil/lider-do-pt-atua-para-incluir-reducao-da-maioridade-penal-para-crime-hediondo-na-pec-da-seguranca/"/>
-    <summary/>
+    <summary>Líder do PT atua para incluir redução da maioridade penal para crime hediondo na PEC da Segurança</summary>
     <published>2026-10-15T16:15:38+00:00</published>
   </entry>
   <entry>
     <id>https://www.estadao.com.br/brasil/ciclone-extratropical-frente-fria-chuvas-sudeste-npr/</id>
     <title>Formação de ciclone e frente fria intensificam chuvas no Sudeste do País</title>
-    <updated>2026-10-15T22:52:01.087244+00:00</updated>
+    <updated>2026-10-15T23:05:01.674167+00:00</updated>
     <link href="https://www.estadao.com.br/brasil/ciclone-extratropical-frente-fria-chuvas-sudeste-npr/"/>
-    <summary/>
+    <summary>Formação de ciclone e frente fria intensificam chuvas no Sudeste do País</summary>
     <published>2026-10-15T15:34:57+00:00</published>
   </entry>
   <entry>
     <id>https://www.estadao.com.br/brasil/prisao-tipo-el-salvador-e-reduzir-maioridade-penal-os-planos-de-flavio-bolsonaro-para-a-seguranca/</id>
     <title>Prisão tipo ‘El Salvador’ e redução da maioridade penal: os planos de Flávio Bolsonaro na segurança</title>
-    <updated>2026-10-15T22:52:01.087048+00:00</updated>
+    <updated>2026-10-15T23:05:01.674026+00:00</updated>
     <link href="https://www.estadao.com.br/brasil/prisao-tipo-el-salvador-e-reduzir-maioridade-penal-os-planos-de-flavio-bolsonaro-para-a-seguranca/"/>
-    <summary/>
+    <summary>Prisão tipo ‘El Salvador’ e redução da maioridade penal: os planos de Flávio Bolsonaro na segurança</summary>
     <published>2026-10-15T15:15:36+00:00</published>
   </entry>
   <entry>
     <id>https://www.estadao.com.br/brasil/novo-ministerio-e-combate-a-roubos-de-celular-os-planos-de-lula-para-a-seguranca/</id>
     <title>Novo ministério e combate a roubos de celular: os planos de Lula na segurança</title>
-    <updated>2026-10-15T22:52:01.086882+00:00</updated>
+    <updated>2026-10-15T23:05:01.673891+00:00</updated>
     <link href="https://www.estadao.com.br/brasil/novo-ministerio-e-combate-a-roubos-de-celular-os-planos-de-lula-para-a-seguranca/"/>
-    <summary/>
+    <summary>Novo ministério e combate a roubos de celular: os planos de Lula na segurança</summary>
     <published>2026-10-15T15:15:56+00:00</published>
   </entry>
   <entry>
     <id>https://www.estadao.com.br/brasil/apos-420-dias-afastada-delegada-casada-com-reu-por-morte-de-gari-volta-ao-cargo-em-mg-npr-npr/</id>
     <title>Após 420 dias afastada, delegada casada com réu por morte de gari volta ao cargo em MG</title>
-    <updated>2026-10-15T22:52:01.086605+00:00</updated>
+    <updated>2026-10-15T23:05:01.673748+00:00</updated>
     <link href="https://www.estadao.com.br/brasil/apos-420-dias-afastada-delegada-casada-com-reu-por-morte-de-gari-volta-ao-cargo-em-mg-npr-npr/"/>
-    <summary/>
+    <summary>Após 420 dias afastada, delegada casada com réu por morte de gari volta ao cargo em MG</summary>
     <published>2026-10-15T18:14:58+00:00</published>
   </entry>
   <entry>
     <id>https://www.estadao.com.br/brasil/pf-dinheiro-adega-casa-policial-operacao-rj-npr/</id>
     <title>PF encontra dinheiro dentro de adega em casa de policial durante operação no RJ; veja vídeo</title>
-    <updated>2026-10-15T22:52:01.086153+00:00</updated>
+    <updated>2026-10-15T23:05:01.673591+00:00</updated>
     <link href="https://www.estadao.com.br/brasil/pf-dinheiro-adega-casa-policial-operacao-rj-npr/"/>
-    <summary/>
+    <summary>PF encontra dinheiro dentro de adega em casa de policial durante operação no RJ; veja vídeo</summary>
     <published>2026-10-15T18:18:16+00:00</published>
   </entry>
   <entry>
     <id>https://www.estadao.com.br/viagem/brasileiro-que-entrou-no-guinness-por-volta-ao-mundo-mais-rapida-indica-seus-10-destinos-preferidos/</id>
     <title>Brasileiro que entrou no Guinness por volta ao mundo mais rápida indica seus 10 destinos preferidos</title>
-    <updated>2026-10-15T22:52:01.085754+00:00</updated>
+    <updated>2026-10-15T23:05:01.673299+00:00</updated>
     <link href="https://www.estadao.com.br/viagem/brasileiro-que-entrou-no-guinness-por-volta-ao-mundo-mais-rapida-indica-seus-10-destinos-preferidos/"/>
-    <summary/>
+    <summary>Brasileiro que entrou no Guinness por volta ao mundo mais rápida indica seus 10 destinos preferidos</summary>
     <published>2026-10-15T08:30:00+00:00</published>
   </entry>
   <entry>
     <id>https://www.estadao.com.br/brasil/lider-pcc-delegada-presos-operacao-investiga-trafico-drogas-corrupcao-npr/</id>
     <title>Líder do PCC e delegada são presos em operação que investiga tráfico de drogas e corrupção</title>
-    <updated>2026-10-15T22:52:01.085055+00:00</updated>
+    <updated>2026-10-15T23:05:01.673136+00:00</updated>
     <link href="https://www.estadao.com.br/brasil/lider-pcc-delegada-presos-operacao-investiga-trafico-drogas-corrupcao-npr/"/>
-    <summary/>
+    <summary>Líder do PCC e delegada são presos em operação que investiga tráfico de drogas e corrupção</summary>
     <published>2026-10-15T19:23:57+00:00</published>
   </entry>
   <entry>
     <id>https://www.estadao.com.br/brasil/relator-vai-separar-emendas-sobre-maioridade-penal-para-nao-atrasar-votacao-da-pec-da-seguranca/</id>
     <title>Relator vai separar emendas sobre maioridade penal para não atrasar votação da PEC da Segurança</title>
-    <updated>2026-10-15T22:52:01.084756+00:00</updated>
+    <updated>2026-10-15T23:05:01.672972+00:00</updated>
     <link href="https://www.estadao.com.br/brasil/relator-vai-separar-emendas-sobre-maioridade-penal-para-nao-atrasar-votacao-da-pec-da-seguranca/"/>
-    <summary/>
+    <summary>Relator vai separar emendas sobre maioridade penal para não atrasar votação da PEC da Segurança</summary>
     <published>2026-10-15T19:11:45+00:00</published>
   </entry>
   <entry>
     <id>https://www.estadao.com.br/brasil/rondonia-tem-recuo-nos-focos-de-incendio-mas-sufoca-sob-fumaca-das-queimadas-dos-vizinhos/</id>
     <title>Rondônia tem recuo nos focos de incêndio, mas sufoca sob fumaça das queimadas dos vizinhos</title>
-    <updated>2026-10-15T22:52:01.084620+00:00</updated>
+    <updated>2026-10-15T23:05:01.672810+00:00</updated>
     <link href="https://www.estadao.com.br/brasil/rondonia-tem-recuo-nos-focos-de-incendio-mas-sufoca-sob-fumaca-das-queimadas-dos-vizinhos/"/>
-    <summary/>
+    <summary>Rondônia tem recuo nos focos de incêndio, mas sufoca sob fumaça das queimadas dos vizinhos</summary>
     <published>2026-10-15T21:24:38+00:00</published>
   </entry>
   <entry>
     <id>https://www.estadao.com.br/brasil/alcolumbre-tira-pec-da-seguranca-publica-de-pauta-em-meio-a-impasse-com-reducao-de-maioridade-penal/</id>
     <title>Alcolumbre tira PEC da Segurança Pública de pauta em meio a impasse com redução de maioridade penal</title>
-    <updated>2026-10-15T22:52:01.084467+00:00</updated>
+    <updated>2026-10-15T23:05:01.672637+00:00</updated>
     <link href="https://www.estadao.com.br/brasil/alcolumbre-tira-pec-da-seguranca-publica-de-pauta-em-meio-a-impasse-com-reducao-de-maioridade-penal/"/>
-    <summary/>
+    <summary>Alcolumbre tira PEC da Segurança Pública de pauta em meio a impasse com redução de maioridade penal</summary>
     <published>2026-10-15T22:05:29+00:00</published>
   </entry>
 </feed>

@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>urn:us-news-rss:govbr_ibama</id>
+  <title>IBAMA - Notícias (RDF 1.0)</title>
+  <updated>2026-10-15T23:04:59.242125+00:00</updated>
+  <link href="file:///feeds/govbr_ibama.xml" rel="self"/>
+  <link href="https://www.gov.br/ibama/pt-br/RSS" rel="alternate"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <subtitle>Category: environment / Mode: rss</subtitle>
+  <entry>
+    <id>https://www.gov.br/ibama/pt-br/assuntos/notas/2026/ibama-abre-consulta-publica-sobre-norma-para-plantio-e-colheita-de-especies-nativas</id>
+    <title>Ibama abre Consulta Pública sobre norma para plantio e colheita de espécies nativas</title>
+    <updated>2026-10-15T23:04:59.243460+00:00</updated>
+    <link href="https://www.gov.br/ibama/pt-br/assuntos/notas/2026/ibama-abre-consulta-publica-sobre-norma-para-plantio-e-colheita-de-especies-nativas"/>
+    <summary>Ibama abre Consulta Pública sobre norma para plantio e colheita de espécies nativas</summary>
+    <published>2026-10-05T12:28:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.gov.br/ibama/pt-br/assuntos/notas/2026/edital-estabelecemedidas-a-serem-adotadasem-propriedades-rurais-situadas-em-areas-criticas-de-incendios-no-am</id>
+    <title>Edital estabelece medidas a serem adotadas em propriedades rurais situadas em áreas críticas de incêndios no AM</title>
+    <updated>2026-10-15T23:04:59.243386+00:00</updated>
+    <link href="https://www.gov.br/ibama/pt-br/assuntos/notas/2026/edital-estabelecemedidas-a-serem-adotadasem-propriedades-rurais-situadas-em-areas-criticas-de-incendios-no-am"/>
+    <summary>Edital estabelece medidas a serem adotadas em propriedades rurais situadas em áreas críticas de incêndios no AM</summary>
+    <published>2026-10-05T16:18:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.gov.br/ibama/pt-br/assuntos/biodiversidade/fauna-silvestre/imagens/programa-arapaima/Banner3Arapaima1.jpg/view</id>
+    <title>Imagem</title>
+    <updated>2026-10-15T23:04:59.243312+00:00</updated>
+    <link href="https://www.gov.br/ibama/pt-br/assuntos/biodiversidade/fauna-silvestre/imagens/programa-arapaima/Banner3Arapaima1.jpg/view"/>
+    <summary>Imagem</summary>
+    <published>2026-10-05T20:01:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.gov.br/ibama/pt-br/assuntos/biodiversidade/fauna-silvestre/imagens/programa-arapaima/banner-1-arapaima-1-08.jpg/view</id>
+    <title>Banner 1 Arapaima 1-08.jpg</title>
+    <updated>2026-10-15T23:04:59.243230+00:00</updated>
+    <link href="https://www.gov.br/ibama/pt-br/assuntos/biodiversidade/fauna-silvestre/imagens/programa-arapaima/banner-1-arapaima-1-08.jpg/view"/>
+    <summary>Ano de listagem na CITES</summary>
+    <published>2026-10-05T20:01:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.gov.br/ibama/pt-br/assuntos/biodiversidade/fauna-silvestre/imagens/programa-arapaima/Mdia.jpg/view</id>
+    <title>Gráfico 1 (Autorizações de Manejo por Ano):   Gráfico de linha mostra o número de autorizações de manejo de pirarucu por ano, de 1999 a 2025. Os valores começam próximos de zero entre 1999 e 2005, sob</title>
+    <updated>2026-10-15T23:04:59.243153+00:00</updated>
+    <link href="https://www.gov.br/ibama/pt-br/assuntos/biodiversidade/fauna-silvestre/imagens/programa-arapaima/Mdia.jpg/view"/>
+    <summary>Gráfico</summary>
+    <published>2026-10-05T20:01:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.gov.br/ibama/pt-br/assuntos/biodiversidade/fauna-silvestre/imagens/programa-arapaima/banner-1-arapaima-1-04.jpg/view</id>
+    <title>Banner 1 Arapaima 1-04.jpg</title>
+    <updated>2026-10-15T23:04:59.243073+00:00</updated>
+    <link href="https://www.gov.br/ibama/pt-br/assuntos/biodiversidade/fauna-silvestre/imagens/programa-arapaima/banner-1-arapaima-1-04.jpg/view"/>
+    <summary>Limite máximo de cota de captura por área de manejo</summary>
+    <published>2026-10-05T20:01:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.gov.br/ibama/pt-br/assuntos/biodiversidade/fauna-silvestre/imagens/programa-arapaima/banner-1-arapaima-1-06.jpg/view</id>
+    <title>Banner 1 Arapaima 1-06.jpg</title>
+    <updated>2026-10-15T23:04:59.242944+00:00</updated>
+    <link href="https://www.gov.br/ibama/pt-br/assuntos/biodiversidade/fauna-silvestre/imagens/programa-arapaima/banner-1-arapaima-1-06.jpg/view"/>
+    <summary>Manejadores e manejadoras envolvidos em 2025</summary>
+    <published>2026-10-05T20:01:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.gov.br/ibama/pt-br/assuntos/biodiversidade/fauna-silvestre/imagens/programa-arapaima/banner-1-arapaima-1-02.jpg/view</id>
+    <title>Banner 1 Arapaima 1-02.jpg</title>
+    <updated>2026-10-15T23:04:59.242869+00:00</updated>
+    <link href="https://www.gov.br/ibama/pt-br/assuntos/biodiversidade/fauna-silvestre/imagens/programa-arapaima/banner-1-arapaima-1-02.jpg/view"/>
+    <summary>Instituições governamentais e não governamentais — Portaria Ibama nº 22, de 20 de fevereiro de 2025</summary>
+    <published>2026-10-05T20:01:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.gov.br/ibama/pt-br/assuntos/biodiversidade/fauna-silvestre/imagens/programa-arapaima/Banner2Arapaima1.jpg/view</id>
+    <title>https://www.gov.br/ibama/pt-br/assuntos/biodiversidade/fauna-silvestre/imagens/programa-arapaima/Banner2Arapaima1.jpg/view</title>
+    <updated>2026-10-15T23:04:59.242791+00:00</updated>
+    <link href="https://www.gov.br/ibama/pt-br/assuntos/biodiversidade/fauna-silvestre/imagens/programa-arapaima/Banner2Arapaima1.jpg/view"/>
+    <summary>Etapas</summary>
+    <published>2026-10-05T20:01:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.gov.br/ibama/pt-br/assuntos/biodiversidade/fauna-silvestre/imagens/programa-arapaima/banner-1-arapaima-1.jpg/view</id>
+    <title>Banner 1 Arapaima 1.jpg</title>
+    <updated>2026-10-15T23:04:59.242708+00:00</updated>
+    <link href="https://www.gov.br/ibama/pt-br/assuntos/biodiversidade/fauna-silvestre/imagens/programa-arapaima/banner-1-arapaima-1.jpg/view"/>
+    <summary>imagem</summary>
+    <published>2026-10-05T20:01:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.gov.br/ibama/pt-br/assuntos/biodiversidade/fauna-silvestre/programa-arapaima/programa-arapaima</id>
+    <title>Programa Arapaima</title>
+    <updated>2026-10-15T23:04:59.242625+00:00</updated>
+    <link href="https://www.gov.br/ibama/pt-br/assuntos/biodiversidade/fauna-silvestre/programa-arapaima/programa-arapaima"/>
+    <summary>Programa de Manejo Sustentável do Pirarucu e Conservação dos Ecossistemas de Várzea</summary>
+    <published>2026-10-05T20:28:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.gov.br/ibama/pt-br/acesso-a-informacao/publicacoes-oficiais/extrato-do-termo-de-encerramento-do-acordo-de-cooperacao-tecnica-no-39-2021-entre-ibama-e-cprh</id>
+    <title>Extrato do Termo de Encerramento do Acordo de Cooperação Técnica nº 39/2021 entre Ibama e CPRH</title>
+    <updated>2026-10-15T23:04:59.242544+00:00</updated>
+    <link href="https://www.gov.br/ibama/pt-br/acesso-a-informacao/publicacoes-oficiais/extrato-do-termo-de-encerramento-do-acordo-de-cooperacao-tecnica-no-39-2021-entre-ibama-e-cprh"/>
+    <summary>Extrato do Termo de Encerramento do Acordo de Cooperação Técnica nº 39/2021 entre Ibama e CPRH</summary>
+    <published>2026-10-08T12:38:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.gov.br/ibama/pt-br/servicos/conversao-multas-ambientais/arquivos/2026/20261009_Resultado_Preliminar_ReVerdeAr.pdf/view</id>
+    <title>2026-10-09_Resultado_Preliminar_ReVerdeAr</title>
+    <updated>2026-10-15T23:04:59.242460+00:00</updated>
+    <link href="https://www.gov.br/ibama/pt-br/servicos/conversao-multas-ambientais/arquivos/2026/20261009_Resultado_Preliminar_ReVerdeAr.pdf/view"/>
+    <summary>2026-10-09_Resultado_Preliminar_ReVerdeAr</summary>
+    <published>2026-10-09T12:26:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.gov.br/ibama/pt-br/assuntos/notas/2026/sobre-as-acoes-de-combate-aos-incendios-florestais-no-amazonas-o-ministerio-do-meio-ambiente-e-mudanca-do-clima-esclarece</id>
+    <title>Sobre as ações de combate aos incêndios florestais no Amazonas, o Ministério do Meio Ambiente e Mudança do Clima esclarece</title>
+    <updated>2026-10-15T23:04:59.242373+00:00</updated>
+    <link href="https://www.gov.br/ibama/pt-br/assuntos/notas/2026/sobre-as-acoes-de-combate-aos-incendios-florestais-no-amazonas-o-ministerio-do-meio-ambiente-e-mudanca-do-clima-esclarece"/>
+    <summary>Sobre as ações de combate aos incêndios florestais no Amazonas, o Ministério do Meio Ambiente e Mudança do Clima esclarece</summary>
+    <published>2026-10-12T19:46:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.gov.br/ibama/pt-br/assuntos/notas/2026/ibama-ipaam-policia-militar-e-corpo-de-bombeiros-intensificarao-acoes-contra-incendios-florestais-criminosos-no-amazonas</id>
+    <title>Ibama, Ipaam, Polícia Militar e Corpo de Bombeiros intensificarão ações contra incêndios florestais criminosos no Amazonas</title>
+    <updated>2026-10-15T23:04:59.242257+00:00</updated>
+    <link href="https://www.gov.br/ibama/pt-br/assuntos/notas/2026/ibama-ipaam-policia-militar-e-corpo-de-bombeiros-intensificarao-acoes-contra-incendios-florestais-criminosos-no-amazonas"/>
+    <summary>Ibama, Ipaam, Polícia Militar e Corpo de Bombeiros intensificarão ações contra incêndios florestais criminosos no Amazonas</summary>
+    <published>2026-10-13T14:09:44+00:00</published>
+  </entry>
+</feed>
