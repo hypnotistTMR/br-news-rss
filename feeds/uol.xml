@@ -2,129 +2,129 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:uol</id>
   <title>UOL Notícias</title>
-  <updated>2026-10-15T23:05:03.958557+00:00</updated>
+  <updated>2026-10-15T23:13:36.566124+00:00</updated>
   <link href="file:///feeds/uol.xml" rel="self"/>
   <link href="https://rss.uol.com.br/feed/noticias.xml" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Category: media / Mode: rss</subtitle>
   <entry>
-    <id>https://www1.folha.uol.com.br/mundo/2026/10/atirador-ataca-escola-nos-eua-e-mata-3-criancas-e-1-adulto-diz-imprensa.shtml</id>
-    <title>Atirador ataca escola nos EUA e mata 3 crian�as e 1 adulto, diz imprensa</title>
-    <updated>2026-10-15T23:05:03.964576+00:00</updated>
-    <link href="https://www1.folha.uol.com.br/mundo/2026/10/atirador-ataca-escola-nos-eua-e-mata-3-criancas-e-1-adulto-diz-imprensa.shtml"/>
-    <summary>Atirador ataca escola nos EUA e mata 3 crian�as e 1 adulto, diz imprensa</summary>
-    <published>2026-10-15T23:05:03.964572+00:00</published>
-  </entry>
-  <entry>
-    <id>https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/10/15/datafolha-20-apontam-violencia-como-principal-problema-do-pais-18-dizem-que-e-a-saude.htm</id>
-    <title>Datafolha: 20% apontam viol�ncia como principal problema do Pa�s; 18% dizem que � a Sa�de</title>
-    <updated>2026-10-15T23:05:03.964513+00:00</updated>
-    <link href="https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/10/15/datafolha-20-apontam-violencia-como-principal-problema-do-pais-18-dizem-que-e-a-saude.htm"/>
-    <summary>Pesquisa Datafolha divulgada nesta quinta-feira, 15, mostra que a viol�ncia e a seguran�a p�blica s�o os principais problemas do Pa�s. O tema foi citado por 20% dos eleitores entrevistados, liderando as cita��es. Em seguida, aparecem Sa�de (18%); Economia (15%); Corrup��o (7%); Educa��o (6%); Desemprego (4%); Fome e mis�ria (3%) e Impostos (3%).</summary>
-    <published>2026-10-15T23:05:03.964509+00:00</published>
-  </entry>
-  <entry>
-    <id>https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/10/15/alcolumbre-tira-pec-da-seguranca-de-pauta-em-meio-a-impasse-com-reducao-de-maioridade-penal.htm</id>
-    <title>Alcolumbre tira PEC da Seguran�a de pauta em meio a impasse com redu��o de maioridade penal</title>
-    <updated>2026-10-15T23:05:03.964428+00:00</updated>
-    <link href="https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/10/15/alcolumbre-tira-pec-da-seguranca-de-pauta-em-meio-a-impasse-com-reducao-de-maioridade-penal.htm"/>
-    <summary>O presidente do Senado, Davi Alcolumbre (Uni�o-AP), tirou a proposta de emenda � Constitui��o (PEC) da Seguran�a P�blica da pauta momentos antes da vota��o na sess�o desta quinta-feira, 15.</summary>
-    <published>2026-10-15T23:05:03.964425+00:00</published>
-  </entry>
-  <entry>
-    <id>https://c-level.folha.uol.com.br/negocios/2026/10/casas-bahia-fecha-acordo-com-sindicatos-e-vai-pagar-r-7500-para-trabalhadores-demitidos.shtml</id>
-    <title>Casas Bahia fecha acordo com sindicatos e vai pagar R$ 7.500 para trabalhadores demitidos</title>
-    <updated>2026-10-15T23:05:03.964361+00:00</updated>
-    <link href="https://c-level.folha.uol.com.br/negocios/2026/10/casas-bahia-fecha-acordo-com-sindicatos-e-vai-pagar-r-7500-para-trabalhadores-demitidos.shtml"/>
-    <summary>O Grupo Casas Bahia fechou acordo com sindicatos nesta quinta-feira (15) e vai pagar R$ 7.500 aos 4.300 trabalhadores demitidos pela varejista em agosto. Conforme o acordo, intermediado pelo MPT (Minist�rio P�blico do Trabalho), os profissionais receber�o ainda as verbas rescis�rias e haver� participa��o das entidades sindicais nas futuras dispensas coletivas.</summary>
-    <published>2026-10-15T23:05:03.964356+00:00</published>
-  </entry>
-  <entry>
-    <id>https://noticias.uol.com.br/ultimas-noticias/afp/2026/10/15/lula-reduz-distancia-em-relacao-a-flavio-bolsonaro-indica-datafolha.htm</id>
-    <title>Lula reduz dist�ncia em rela��o a Fl�vio Bolsonaro, indica Datafolha</title>
-    <updated>2026-10-15T23:05:03.964285+00:00</updated>
-    <link href="https://noticias.uol.com.br/ultimas-noticias/afp/2026/10/15/lula-reduz-distancia-em-relacao-a-flavio-bolsonaro-indica-datafolha.htm"/>
-    <summary>O presidente Lula (PT) reduziu a diferen�a nas inten��es de voto para o segundo turno contra Fl�vio Bolsonaro (PL), de acordo com a pesquisa do instituto Datafolha desta quinta-feira (15), que aponta empate t�cnico entre os dois candidatos.</summary>
-    <published>2026-10-15T23:05:03.964280+00:00</published>
-  </entry>
-  <entry>
-    <id>https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/10/15/correcao-governo-lula-tem-avaliacao-negativa-de-41-e-positiva-de-35-aponta-datafolha.htm</id>
-    <title>Corre��o: Governo Lula tem avalia��o negativa de 41% e positiva de 35%, aponta Datafolha</title>
-    <updated>2026-10-15T23:05:03.964164+00:00</updated>
-    <link href="https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/10/15/correcao-governo-lula-tem-avaliacao-negativa-de-41-e-positiva-de-35-aponta-datafolha.htm"/>
-    <summary>iferente do publicado anteriormente, a Folha de S.Paulo informou que o per�odo de coleta da pesquisa Datafolha compreendeu a ter�a-feira (13) e a quarta-feira (14), e n�o de 13 a 15, como constou. Po...</summary>
-    <published>2026-10-15T23:05:03.964146+00:00</published>
-  </entry>
-  <entry>
-    <id>https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/10/15/correcao-flavio-bolsonaro-e-rejeitado-por-44-e-lula-por-46-aponta-datafolha.htm</id>
-    <title>Corre��o: Fl�vio Bolsonaro � rejeitado por 44% e Lula, por 46%, aponta Datafolha</title>
-    <updated>2026-10-15T23:05:03.960264+00:00</updated>
-    <link href="https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/10/15/correcao-flavio-bolsonaro-e-rejeitado-por-44-e-lula-por-46-aponta-datafolha.htm"/>
-    <summary>iferente do publicado no pen�ltimo par�grafo, a Folha de S.Paulo informou que o per�odo de coleta da pesquisa Datafolha compreendeu a ter�a-feira (13) e a quarta-feira (14), e n�o de 13 a 15, como co...</summary>
-    <published>2026-10-15T23:05:03.960252+00:00</published>
-  </entry>
-  <entry>
     <id>https://www1.folha.uol.com.br/colunas/walter-porto/2026/10/pedro-almodovar-vai-lancar-seu-primeiro-romance-no-brasil-sobre-autor-frustrado.shtml</id>
     <title>Pedro Almod�var vai lan�ar seu primeiro romance no Brasil, sobre autor frustrado</title>
-    <updated>2026-10-15T23:05:03.960012+00:00</updated>
+    <updated>2026-10-15T23:13:36.567804+00:00</updated>
     <link href="https://www1.folha.uol.com.br/colunas/walter-porto/2026/10/pedro-almodovar-vai-lancar-seu-primeiro-romance-no-brasil-sobre-autor-frustrado.shtml"/>
     <summary>Pedro Almod�var vai lan�ar seu primeiro romance no Brasil, sobre autor frustrado</summary>
-    <published>2026-10-15T23:05:03.960001+00:00</published>
+    <published>2026-10-15T23:13:36.567801+00:00</published>
   </entry>
   <entry>
     <id>https://noticias.uol.com.br/eleicoes/2026/10/15/nova-pesquisa-datafolha-do-segundo-turno-veja-numeros-de-lula-e-flavio-bolsonaro.ghtm</id>
     <title>Nova pesquisa Datafolha do segundo turno: veja n�meros de Lula e Fl�vio Bolsonaro</title>
-    <updated>2026-10-15T23:05:03.959811+00:00</updated>
+    <updated>2026-10-15T23:13:36.567755+00:00</updated>
     <link href="https://noticias.uol.com.br/eleicoes/2026/10/15/nova-pesquisa-datafolha-do-segundo-turno-veja-numeros-de-lula-e-flavio-bolsonaro.ghtm"/>
     <summary>O Datafolha divulgou hoje uma nova pesquisa sobre o segundo turno da elei��o presidencial de 2026, com margem de erro de dois pontos percentuais.</summary>
-    <published>2026-10-15T23:05:03.959801+00:00</published>
+    <published>2026-10-15T23:13:36.567752+00:00</published>
   </entry>
   <entry>
     <id>https://noticias.uol.com.br/ultimas-noticias/afp/2026/10/15/juventus-vira-sobre-celta-2-1-e-mantem-lideranca-da-liga-europa.htm</id>
     <title>Juventus vira sobre Celta (2-1) e mant�m lideran�a da Liga Europa</title>
-    <updated>2026-10-15T23:05:03.959617+00:00</updated>
+    <updated>2026-10-15T23:13:36.567703+00:00</updated>
     <link href="https://noticias.uol.com.br/ultimas-noticias/afp/2026/10/15/juventus-vira-sobre-celta-2-1-e-mantem-lideranca-da-liga-europa.htm"/>
     <summary>Depois da goleada por 5 a 0 sobre o NEC Nijmegen na primeira rodada, a Juventus venceu o Celta de Vigo fora de casa por 2 a 1 nesta quinta-feira (15) e manteve a lideran�a da Liga Europa.</summary>
-    <published>2026-10-15T23:05:03.959605+00:00</published>
-  </entry>
-  <entry>
-    <id>https://www1.folha.uol.com.br/cotidiano/2026/10/transbordamento-e-sujeira-no-lago-do-ibirapuera-tem-ligacao-com-corrego-do-entorno-diz-concessionaria.shtml</id>
-    <title>Transbordamento e sujeira no lago do Ibirapuera t�m liga��o com c�rrego do entorno, diz concession�ria</title>
-    <updated>2026-10-15T23:05:03.959422+00:00</updated>
-    <link href="https://www1.folha.uol.com.br/cotidiano/2026/10/transbordamento-e-sujeira-no-lago-do-ibirapuera-tem-ligacao-com-corrego-do-entorno-diz-concessionaria.shtml"/>
-    <summary>Transbordamento e sujeira no lago do Ibirapuera t�m liga��o com c�rrego do entorno, diz concession�ria</summary>
-    <published>2026-10-15T23:05:03.959411+00:00</published>
+    <published>2026-10-15T23:13:36.567700+00:00</published>
   </entry>
   <entry>
     <id>https://www1.folha.uol.com.br/cotidiano/2026/10/delegada-do-para-e-presa-sob-suspeita-de-favorecer-o-pcc.shtml</id>
     <title>Delegada do Par� � presa sob suspeita de favorecer o PCC</title>
-    <updated>2026-10-15T23:05:03.959216+00:00</updated>
+    <updated>2026-10-15T23:13:36.567634+00:00</updated>
     <link href="https://www1.folha.uol.com.br/cotidiano/2026/10/delegada-do-para-e-presa-sob-suspeita-de-favorecer-o-pcc.shtml"/>
     <summary>Delegada do Par� � presa sob suspeita de favorecer o PCC</summary>
-    <published>2026-10-15T23:05:03.959202+00:00</published>
+    <published>2026-10-15T23:13:36.567630+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www1.folha.uol.com.br/cotidiano/2026/10/transbordamento-e-sujeira-no-lago-do-ibirapuera-tem-ligacao-com-corrego-do-entorno-diz-concessionaria.shtml</id>
+    <title>Transbordamento e sujeira no lago do Ibirapuera t�m liga��o com c�rrego do entorno, diz concession�ria</title>
+    <updated>2026-10-15T23:13:36.567575+00:00</updated>
+    <link href="https://www1.folha.uol.com.br/cotidiano/2026/10/transbordamento-e-sujeira-no-lago-do-ibirapuera-tem-ligacao-com-corrego-do-entorno-diz-concessionaria.shtml"/>
+    <summary>Transbordamento e sujeira no lago do Ibirapuera t�m liga��o com c�rrego do entorno, diz concession�ria</summary>
+    <published>2026-10-15T23:13:36.567571+00:00</published>
   </entry>
   <entry>
     <id>https://noticias.uol.com.br/eleicoes/2026/10/15/flavio-datafolha.ghtm</id>
     <title>Chefe da campanha de Fl�vio v� 'filme positivo' ap�s Datafolha</title>
-    <updated>2026-10-15T23:05:03.958986+00:00</updated>
+    <updated>2026-10-15T23:13:36.567516+00:00</updated>
     <link href="https://noticias.uol.com.br/eleicoes/2026/10/15/flavio-datafolha.ghtm"/>
     <summary>O senador Rog�rio Marinho (PL-RN), coordenador da campanha de Fl�vio Bolsonaro (PL) � Presid�ncia da Rep�blica, disse que o candidato conseguiu se apresentar ao eleitor ao longo do ano.</summary>
-    <published>2026-10-15T23:05:03.958973+00:00</published>
+    <published>2026-10-15T23:13:36.567513+00:00</published>
   </entry>
   <entry>
     <id>https://noticias.uol.com.br/eleicoes/2026/10/15/quem-esta-na-frente-no-segundo-turno-para-presidente-veja-numeros-da-pesquisa-datafolha.ghtm</id>
     <title>Quem est� na frente no segundo turno para presidente? Veja n�meros da pesquisa Datafolha</title>
-    <updated>2026-10-15T23:05:03.958760+00:00</updated>
+    <updated>2026-10-15T23:13:36.567456+00:00</updated>
     <link href="https://noticias.uol.com.br/eleicoes/2026/10/15/quem-esta-na-frente-no-segundo-turno-para-presidente-veja-numeros-da-pesquisa-datafolha.ghtm"/>
     <summary>O Datafolha divulgou hoje uma pesquisa de inten��o de voto para o segundo turno da elei��o presidencial de 2026, com margem de erro de dois pontos percentuais.</summary>
-    <published>2026-10-15T23:05:03.958755+00:00</published>
+    <published>2026-10-15T23:13:36.567452+00:00</published>
   </entry>
   <entry>
     <id>https://noticias.uol.com.br/ultimas-noticias/reuters/2026/10/15/lula-promete-tarifa-zero-em-transporte-publico-aos-finais-de-semana.htm</id>
     <title>Lula promete tarifa zero em transporte p�blico aos finais de semana</title>
-    <updated>2026-10-15T23:05:03.958666+00:00</updated>
+    <updated>2026-10-15T23:13:36.567392+00:00</updated>
     <link href="https://noticias.uol.com.br/ultimas-noticias/reuters/2026/10/15/lula-promete-tarifa-zero-em-transporte-publico-aos-finais-de-semana.htm"/>
     <summary>BRAS�LIA/S�O PAULO, 15 Out (Reuters) - O presidente Luiz In�cio Lula da Silva anunciou nesta quinta-feira ?que enviar� ao Congresso uma ?emenda constitucional que garanta transporte p�blico gratuito nos finais de semana em todo o pa�s, a mais recente ?de uma s�rie ?de ?propostas voltadas para o eleitorado a menos ?de duas semanas do ?segundo turno das elei��es.</summary>
-    <published>2026-10-15T23:05:03.958659+00:00</published>
+    <published>2026-10-15T23:13:36.567388+00:00</published>
+  </entry>
+  <entry>
+    <id>https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/10/15/investigado-por-elo-com-pcc-milton-leite-depoe-a-policia.ghtm</id>
+    <title>Investigado por elo com PCC, Milton Leite dep�e � Pol�cia</title>
+    <updated>2026-10-15T23:13:36.567323+00:00</updated>
+    <link href="https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/10/15/investigado-por-elo-com-pcc-milton-leite-depoe-a-policia.ghtm"/>
+    <summary>O ex-vereador Milton Leite prestou depoimento � pol�cia hoje na Delegacia de Investiga��es sobre Entorpecentes (Dise) de Mogi das Cruzes. A informa��o foi confirmada ao UOL pela defesa do pol�tico.</summary>
+    <published>2026-10-15T23:13:36.567319+00:00</published>
+  </entry>
+  <entry>
+    <id>https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/10/15/tarcisio-diz-que-tunel-do-anhangabau-deveria-ter-sido-fechado-durante-temporal-em-sp.htm</id>
+    <title>Tarc�sio diz que t�nel do Anhangaba� deveria ter sido fechado durante temporal em SP</title>
+    <updated>2026-10-15T23:13:36.567233+00:00</updated>
+    <link href="https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/10/15/tarcisio-diz-que-tunel-do-anhangabau-deveria-ter-sido-fechado-durante-temporal-em-sp.htm"/>
+    <summary>O governador de S�o Paulo, Tarc�sio de Freitas (Republicanos), afirmou nesta quinta-feira, 15, que o T�nel do Anhangaba� deveria ter sido fechado durante as chuvas que atingiram a capital paulista na tarde de quarta-feira, 14. O temporal inundou o t�nel e deixou ve�culos parcialmente submersos. Assustados, motoristas e passageiros tiveram de sair dos carros para se proteger.</summary>
+    <published>2026-10-15T23:13:36.567225+00:00</published>
+  </entry>
+  <entry>
+    <id>https://noticias.uol.com.br/eleicoes/2026/10/15/bilenky-datafolha-capta-mudanca-e-flavio-passou-a-se-explicar-mais.ghtm</id>
+    <title>Bilenky: Datafolha capta mudan�as em posi��es de Fl�vio Bolsonaro</title>
+    <updated>2026-10-15T23:13:36.566993+00:00</updated>
+    <link href="https://noticias.uol.com.br/eleicoes/2026/10/15/bilenky-datafolha-capta-mudanca-e-flavio-passou-a-se-explicar-mais.ghtm"/>
+    <summary>O Datafolha mais recente captou uma mudan�a na postura de Fl�vio Bolsonaro na campanha do segundo turno, com o candidato passando a se explicar mais depois de ter adotado um tom de quem j� governava, diz Thais Bilenky no A Hora, do Canal UOL.</summary>
+    <published>2026-10-15T23:13:36.566982+00:00</published>
+  </entry>
+  <entry>
+    <id>https://noticias.uol.com.br/ultimas-noticias/afp/2026/10/15/isabel-allende-ganha-premio-planeta-2026.htm</id>
+    <title>Isabel Allende ganha Pr�mio Planeta 2026</title>
+    <updated>2026-10-15T23:13:36.566805+00:00</updated>
+    <link href="https://noticias.uol.com.br/ultimas-noticias/afp/2026/10/15/isabel-allende-ganha-premio-planeta-2026.htm"/>
+    <summary>A escritora chilena Isabel Allende conquistou nesta quinta-feira (15) o Pr�mio Planeta 2026, com o romance "La Hora Antes del Alba", um novo reconhecimento a uma das autoras mais lidas no idioma espanhol.</summary>
+    <published>2026-10-15T23:13:36.566791+00:00</published>
+  </entry>
+  <entry>
+    <id>https://noticias.uol.com.br/colunas/tatiana-farah/2026/10/15/datafolha-anima-petistas-com-queda-pela-metade-na-diferenca-com-flavio.htm</id>
+    <title>Datafolha anima petistas com queda pela metade na diferen�a com Fl�vio</title>
+    <updated>2026-10-15T23:13:36.566490+00:00</updated>
+    <link href="https://noticias.uol.com.br/colunas/tatiana-farah/2026/10/15/datafolha-anima-petistas-com-queda-pela-metade-na-diferenca-com-flavio.htm"/>
+    <summary>A pesquisa mais aguardada pela campanha de Lula esta semana era o Datafolha de hoje. Isso porque o instituto divulgou um levantamento na semana passada, logo ap�s o segundo turno, com n�meros dif�ceis para o PT. O resultado animou os petistas, j� que a dist�ncia entre o presidente e Fl�vio Bolsonaro caiu pela metade, de quatro para dois pontos.</summary>
+    <published>2026-10-15T23:13:36.566479+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www1.folha.uol.com.br/colunas/djamila-ribeiro/2026/10/master-trafico-sexual-e-responsabilidades.shtml</id>
+    <title>Master, tr�fico sexual e responsabilidades</title>
+    <updated>2026-10-15T23:13:36.566338+00:00</updated>
+    <link href="https://www1.folha.uol.com.br/colunas/djamila-ribeiro/2026/10/master-trafico-sexual-e-responsabilidades.shtml"/>
+    <summary>Master, tr�fico sexual e responsabilidades</summary>
+    <published>2026-10-15T23:13:36.566332+00:00</published>
+  </entry>
+  <entry>
+    <id>https://noticias.uol.com.br/eleicoes/2026/10/15/em-live-flavio-ignora-fim-da-6x1-e-foca-em-reducao-de-maioridade-penal.ghtm</id>
+    <title>Em live, Fl�vio ignora fim da 6x1 e foca em redu��o de maioridade penal</title>
+    <updated>2026-10-15T23:13:36.566235+00:00</updated>
+    <link href="https://noticias.uol.com.br/eleicoes/2026/10/15/em-live-flavio-ignora-fim-da-6x1-e-foca-em-reducao-de-maioridade-penal.ghtm"/>
+    <summary>Em live agora � noite, o candidato Fl�vio Bolsonaro (PL) ignorou a aprova��o do fim da escala 6x1 no Senado e focou na quest�o da redu��o da maioridade penal para 16 anos. O texto da PEC da Seguran�a foi retirado da pauta do Senado hoje (15) e a vota��o foi adiada.</summary>
+    <published>2026-10-15T23:13:36.566228+00:00</published>
   </entry>
 </feed>

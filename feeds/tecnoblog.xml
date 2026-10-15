@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:tecnoblog</id>
   <title>Tecnoblog</title>
-  <updated>2026-10-15T23:05:06.807671+00:00</updated>
+  <updated>2026-10-15T23:13:41.404752+00:00</updated>
   <link href="file:///feeds/tecnoblog.xml" rel="self"/>
   <link href="https://tecnoblog.net/feed/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -10,7 +10,7 @@
   <entry>
     <id>https://tecnoblog.net/?post_type=noticias&amp;p=940964</id>
     <title>Xbox anuncia o controle compacto que nós revelamos em primeira mão</title>
-    <updated>2026-10-15T23:05:06.825875+00:00</updated>
+    <updated>2026-10-15T23:13:41.416243+00:00</updated>
     <link href="https://tecnoblog.net/noticias/xbox-anuncia-o-controle-compacto-que-nos-revelamos-em-primeira-mao/"/>
     <summary>Nano Controller da Microsoft chega ao Brasil em novembro por R$ 379. Tecnoblog obteve imagens do produto em maio.
 Xbox anuncia o controle compacto que nós revelamos em primeira mão</summary>
@@ -19,7 +19,7 @@ Xbox anuncia o controle compacto que nós revelamos em primeira mão</summary>
   <entry>
     <id>https://tecnoblog.net/?post_type=noticias&amp;p=940922</id>
     <title>Meta AI barra Lula, mas gera imagens com referência a Flávio</title>
-    <updated>2026-10-15T23:05:06.825519+00:00</updated>
+    <updated>2026-10-15T23:13:41.415905+00:00</updated>
     <link href="https://tecnoblog.net/noticias/meta-ai-barra-lula-mas-gera-imagens-com-referencia-a-flavio/"/>
     <summary>Empresa trabalha para implementar novos filtros em sistema de inteligência artificial.
 Meta AI barra Lula, mas gera imagens com referência a Flávio</summary>
@@ -28,7 +28,7 @@ Meta AI barra Lula, mas gera imagens com referência a Flávio</summary>
   <entry>
     <id>https://tecnoblog.net/?p=941038</id>
     <title>Notebook Acer Aspire 5 com RAM de 16 GB cai 47% em até 12x sem juros</title>
-    <updated>2026-10-15T23:05:06.825196+00:00</updated>
+    <updated>2026-10-15T23:13:41.415562+00:00</updated>
     <link href="https://tecnoblog.net/achados/notebook-acer-aspire-5-com-ram-de-16-gb-cai-45-em-ate-12x-sem-juros/"/>
     <summary>Acer Aspire 5 oferece bom desempenho para tarefas do cotidiano; oferta exclusiva Amazon Prime reduz preço quase pela metade
 Notebook Acer Aspire 5 com RAM de 16 GB cai 47% em até 12x sem juros</summary>
@@ -37,7 +37,7 @@ Notebook Acer Aspire 5 com RAM de 16 GB cai 47% em até 12x sem juros</summary>
   <entry>
     <id>https://tecnoblog.net/?p=242341</id>
     <title>Como escanear o QR code do WhatsApp Web para entrar na sua conta</title>
-    <updated>2026-10-15T23:05:06.824873+00:00</updated>
+    <updated>2026-10-15T23:13:41.415016+00:00</updated>
     <link href="https://tecnoblog.net/responde/whatsapp-web-escanear-codigo-qr/"/>
     <summary>O WhatsApp Web possibilita usar o mensageiro diretamente pelo navegador do PC, simplificando o acesso às conversas com os contatos em uma tela maior
 Como escanear o QR code do WhatsApp Web para entrar na sua conta</summary>
@@ -46,7 +46,7 @@ Como escanear o QR code do WhatsApp Web para entrar na sua conta</summary>
   <entry>
     <id>https://tecnoblog.net/?post_type=achados&amp;p=941042</id>
     <title>Galaxy Tab S11 tem oferta para quem busca tablet para jogos</title>
-    <updated>2026-10-15T23:05:06.824551+00:00</updated>
+    <updated>2026-10-15T23:13:41.414887+00:00</updated>
     <link href="https://tecnoblog.net/achados/galaxy-tab-s11-tem-oferta-para-quem-busca-tablet-para-jogos/"/>
     <summary>Galaxy Tab S11 leva tela AMOLED de 120 Hz, 12 GB de RAM e GPU com ray tracing para gráficos mais realistas; tablet premium da Samsung sai com 32% OFF no Mercado Livre
 Galaxy Tab S11 tem oferta para quem busca tablet para jogos</summary>
@@ -55,7 +55,7 @@ Galaxy Tab S11 tem oferta para quem busca tablet para jogos</summary>
   <entry>
     <id>https://tecnoblog.net/?post_type=noticias&amp;p=941037</id>
     <title>Netflix demite 1.000 funcionários em maior corte desde 2022</title>
-    <updated>2026-10-15T23:05:06.824273+00:00</updated>
+    <updated>2026-10-15T23:13:41.414764+00:00</updated>
     <link href="https://tecnoblog.net/noticias/netflix-demite-1-000-funcionarios-em-maior-corte-desde-2022/"/>
     <summary>Redução atinge áreas de produto, tecnologia, jurídico e RH. Empresa cita foco estratégico.
 Netflix demite 1.000 funcionários em maior corte desde 2022</summary>
@@ -64,7 +64,7 @@ Netflix demite 1.000 funcionários em maior corte desde 2022</summary>
   <entry>
     <id>https://tecnoblog.net/?post_type=noticias&amp;p=940942</id>
     <title>Meta confirma roubo de código e dados pessoais no GitHub</title>
-    <updated>2026-10-15T23:05:06.824152+00:00</updated>
+    <updated>2026-10-15T23:13:41.414627+00:00</updated>
     <link href="https://tecnoblog.net/noticias/meta-confirma-roubo-de-codigo-e-dados-pessoais-no-github/"/>
     <summary>Incidente afetou cerca de 1.500 pessoas, principalmente funcionários nos EUA; empresa não detalhou dados pessoais expostos.
 Meta confirma roubo de código e dados pessoais no GitHub</summary>
@@ -73,7 +73,7 @@ Meta confirma roubo de código e dados pessoais no GitHub</summary>
   <entry>
     <id>https://tecnoblog.net/?post_type=testamos&amp;p=939468</id>
     <title>Review do Motorola Edge 70: equilíbrio para o dia a dia</title>
-    <updated>2026-10-15T23:05:06.823920+00:00</updated>
+    <updated>2026-10-15T23:13:41.414502+00:00</updated>
     <link href="https://tecnoblog.net/testamos/review-do-motorola-edge-70-equilibrio-para-o-dia-a-dia/"/>
     <summary>Celular intermediário da Motorola se destaca pela resistência, tela de qualidade e design ultrafino; confira a análise completa
 Review do Motorola Edge 70: equilíbrio para o dia a dia</summary>
@@ -82,7 +82,7 @@ Review do Motorola Edge 70: equilíbrio para o dia a dia</summary>
   <entry>
     <id>https://tecnoblog.net/?post_type=noticias&amp;p=941100</id>
     <title>Tem eletrônico parado? Correios agora fazem o descarte gratuito</title>
-    <updated>2026-10-15T23:05:06.823336+00:00</updated>
+    <updated>2026-10-15T23:13:41.414356+00:00</updated>
     <link href="https://tecnoblog.net/noticias/tem-eletronico-parado-correios-agora-fazem-o-descarte-gratuito/"/>
     <summary>Estatal vai descartar seu lixo eletrônico gratuitamente e de maneira correta. Iniciativa fica disponível em mais de 6 mil agências pelo país.
 Tem eletrônico parado? Correios agora fazem o descarte gratuito</summary>
@@ -91,7 +91,7 @@ Tem eletrônico parado? Correios agora fazem o descarte gratuito</summary>
   <entry>
     <id>https://tecnoblog.net/?post_type=guias&amp;p=941117</id>
     <title>FBI fecha fazendas de notebooks usadas em fraude norte-coreana</title>
-    <updated>2026-10-15T23:05:06.822908+00:00</updated>
+    <updated>2026-10-15T23:13:41.414113+00:00</updated>
     <link href="https://tecnoblog.net/noticias/fbi-fecha-fazendas-de-notebooks-usadas-em-fraude-norte-coreana/"/>
     <summary>Ação no Texas atingiu mais de 40 endereços. Esquema usava identidades falsas para obter empregos remotos em empresas dos EUA.
 FBI fecha fazendas de notebooks usadas em fraude norte-coreana</summary>
@@ -100,7 +100,7 @@ FBI fecha fazendas de notebooks usadas em fraude norte-coreana</summary>
   <entry>
     <id>https://tecnoblog.net/?post_type=achados&amp;p=941159</id>
     <title>Motorola Razr 70 (256 GB) tem queda abrupta de preço na Amazon</title>
-    <updated>2026-10-15T23:05:06.822404+00:00</updated>
+    <updated>2026-10-15T23:13:41.413841+00:00</updated>
     <link href="https://tecnoblog.net/achados/motorola-razr-70-256-gb-tem-queda-abrupta-de-preco-na-amazon/"/>
     <summary>Razr 70 (256 GB) tem câmeras de 50 MP e tela AMOLED flexível de 120 Hz; dobrável da Motorola recebe desconto de 28% sobre o preço original no Pix
 Motorola Razr 70 (256 GB) tem queda abrupta de preço na Amazon</summary>
@@ -109,7 +109,7 @@ Motorola Razr 70 (256 GB) tem queda abrupta de preço na Amazon</summary>
   <entry>
     <id>https://tecnoblog.net/?post_type=noticias&amp;p=941150</id>
     <title>Galaxy A57 recebe One UI 9 no Brasil</title>
-    <updated>2026-10-15T23:05:06.822051+00:00</updated>
+    <updated>2026-10-15T23:13:41.413670+00:00</updated>
     <link href="https://tecnoblog.net/noticias/galaxy-a57-recebe-one-ui-9-no-brasil/"/>
     <summary>Smartphone intermediário da Samsung é o primeiro da linha A a receber a atualização no país.
 Galaxy A57 recebe One UI 9 no Brasil</summary>
@@ -118,7 +118,7 @@ Galaxy A57 recebe One UI 9 no Brasil</summary>
   <entry>
     <id>https://tecnoblog.net/?post_type=achados&amp;p=941178</id>
     <title>iPhone 17 (256 GB) volta a cair de preço e tem 34% OFF no Mercado Livre</title>
-    <updated>2026-10-15T23:05:06.821675+00:00</updated>
+    <updated>2026-10-15T23:13:41.413456+00:00</updated>
     <link href="https://tecnoblog.net/achados/iphone-17-256-gb-volta-a-cair-de-preco-e-tem-34-off-no-mercado-livre/"/>
     <summary>iPhone 17 (256 GB) tem tela OLED de 120 Hz e câmeras de 48 MP; celular da Apple fica abaixo da média recente com desconto de 34% no Pix
 iPhone 17 (256 GB) volta a cair de preço e tem 34% OFF no Mercado Livre</summary>
@@ -127,7 +127,7 @@ iPhone 17 (256 GB) volta a cair de preço e tem 34% OFF no Mercado Livre</summar
   <entry>
     <id>https://tecnoblog.net/?post_type=achados&amp;p=941191</id>
     <title>iPhone 17 Pro com alta performance atinge 30% de desconto no Mercado Livre</title>
-    <updated>2026-10-15T23:05:06.821112+00:00</updated>
+    <updated>2026-10-15T23:13:41.413285+00:00</updated>
     <link href="https://tecnoblog.net/achados/iphone-17-pro-com-alta-performance-atinge-30-de-desconto-no-mercado-livre/"/>
     <summary>iPhone 17 Pro (256 GB) traz chip A19 Pro de alto desempenho e câmeras de 48 MP; celular premium da Apple sai 30% mais em conta em promoção no Pix
 iPhone 17 Pro com alta performance atinge 30% de desconto no Mercado Livre</summary>
@@ -136,7 +136,7 @@ iPhone 17 Pro com alta performance atinge 30% de desconto no Mercado Livre</summ
   <entry>
     <id>https://tecnoblog.net/?post_type=noticias&amp;p=941140</id>
     <title>LibreOffice oferece alternativa grátis após fim do Microsoft Publisher</title>
-    <updated>2026-10-15T23:05:06.820289+00:00</updated>
+    <updated>2026-10-15T23:13:41.412724+00:00</updated>
     <link href="https://tecnoblog.net/noticias/libreoffice-oferece-alternativa-gratuita-apos-fim-do-microsoft-publisher/"/>
     <summary>Draw permite importar e editar documentos PUB, com opção de salvar em formato aberto.
 LibreOffice oferece alternativa grátis após fim do Microsoft Publisher</summary>
@@ -145,7 +145,7 @@ LibreOffice oferece alternativa grátis após fim do Microsoft Publisher</summar
   <entry>
     <id>https://tecnoblog.net/?p=290916</id>
     <title>Como ganhar diamantes de graça no Free Fire</title>
-    <updated>2026-10-15T23:05:06.819942+00:00</updated>
+    <updated>2026-10-15T23:13:41.412600+00:00</updated>
     <link href="https://tecnoblog.net/responde/como-ganhar-diamantes-no-free-fire/"/>
     <summary>Tenha cuidado com geradores, APKs modificados e páginas que prometem diamantes de graça no FF, utilize somente os canais e sites oficiais para obter as moedas do jogo
 Como ganhar diamantes de graça no Free Fire</summary>
@@ -154,7 +154,7 @@ Como ganhar diamantes de graça no Free Fire</summary>
   <entry>
     <id>https://tecnoblog.net/?post_type=achados&amp;p=941217</id>
     <title>Galaxy S25 Plus (256 GB) custa menos da metade do preço no Magalu</title>
-    <updated>2026-10-15T23:05:06.819633+00:00</updated>
+    <updated>2026-10-15T23:13:41.412477+00:00</updated>
     <link href="https://tecnoblog.net/achados/galaxy-s25-plus-256-gb-custa-menos-da-metade-do-preco-no-magalu/"/>
     <summary>Galaxy S25 Plus tem chip Snapdragon de ponta e tela AMOLED de 120 Hz; celular premium da Samsung recebe desconto de 54% sobre o preço original em oferta no Pix
 Galaxy S25 Plus (256 GB) custa menos da metade do preço no Magalu</summary>
@@ -163,7 +163,7 @@ Galaxy S25 Plus (256 GB) custa menos da metade do preço no Magalu</summary>
   <entry>
     <id>https://tecnoblog.net/?post_type=noticias&amp;p=941227</id>
     <title>ChatGPT nega relação de post com eleição no Brasil</title>
-    <updated>2026-10-15T23:05:06.819315+00:00</updated>
+    <updated>2026-10-15T23:13:41.412359+00:00</updated>
     <link href="https://tecnoblog.net/noticias/fez-o-l-chatgpt-nega-relacao-de-post-com-eleicao-no-brasil/"/>
     <summary>Inteligência artificial ganhou função que ensina conceitos por meio de imagens.
 ChatGPT nega relação de post com eleição no Brasil</summary>
@@ -172,7 +172,7 @@ ChatGPT nega relação de post com eleição no Brasil</summary>
   <entry>
     <id>https://tecnoblog.net/?post_type=noticias&amp;p=941164</id>
     <title>Apple agora é uma empresa de US$ 5 trilhões</title>
-    <updated>2026-10-15T23:05:06.818848+00:00</updated>
+    <updated>2026-10-15T23:13:41.412237+00:00</updated>
     <link href="https://tecnoblog.net/noticias/apple-agora-e-uma-empresa-de-us-5-trilhoes/"/>
     <summary>Fabricante do iPhone se junta à Nvidia pouco mais de um mês após a troca de CEO. 
 Apple agora é uma empresa de US$ 5 trilhões</summary>
@@ -181,7 +181,7 @@ Apple agora é uma empresa de US$ 5 trilhões</summary>
   <entry>
     <id>https://tecnoblog.net/?post_type=achados&amp;p=941261</id>
     <title>Galaxy Watch 8 LTE (44 mm) com Gemini atinge preço histórico</title>
-    <updated>2026-10-15T23:05:06.818260+00:00</updated>
+    <updated>2026-10-15T23:13:41.412109+00:00</updated>
     <link href="https://tecnoblog.net/achados/galaxy-watch-8-lte-44-mm-com-gemini-atinge-preco-historico/"/>
     <summary>Galaxy Watch 8 LTE permite iniciar exercícios por comandos de voz e traz sensor BioActive; smartwatch da Samsung despenca 64% em oferta na Amazon
 Galaxy Watch 8 LTE (44 mm) com Gemini atinge preço histórico</summary>
@@ -190,7 +190,7 @@ Galaxy Watch 8 LTE (44 mm) com Gemini atinge preço histórico</summary>
   <entry>
     <id>https://tecnoblog.net/?post_type=achados&amp;p=941274</id>
     <title>Nintendo Switch 2 aparece mais barato em uma das melhores ofertas vistas</title>
-    <updated>2026-10-15T23:05:06.817688+00:00</updated>
+    <updated>2026-10-15T23:13:41.411975+00:00</updated>
     <link href="https://tecnoblog.net/achados/nintendo-switch-2-aparece-mais-barato-em-uma-das-melhores-ofertas-vistas/"/>
     <summary>Nintendo Switch 2 com tela de 120 Hz, ampla bateria e novos controles tem queda no preço com pagamento via Pix
 Nintendo Switch 2 aparece mais barato em uma das melhores ofertas vistas</summary>
@@ -199,7 +199,7 @@ Nintendo Switch 2 aparece mais barato em uma das melhores ofertas vistas</summar
   <entry>
     <id>https://tecnoblog.net/?post_type=noticias&amp;p=941183</id>
     <title>YouTube pode lançar serviço próprio de audiolivros</title>
-    <updated>2026-10-15T23:05:06.817037+00:00</updated>
+    <updated>2026-10-15T23:13:41.411831+00:00</updated>
     <link href="https://tecnoblog.net/noticias/youtube-pode-lancar-servico-proprio-de-audiolivros/"/>
     <summary>Plataforma pode estrear no segmento em 2027. Empresa estaria avaliando incluir livros narrados no YouTube Premium. 
 YouTube pode lançar serviço próprio de audiolivros</summary>
@@ -208,7 +208,7 @@ YouTube pode lançar serviço próprio de audiolivros</summary>
   <entry>
     <id>https://tecnoblog.net/?post_type=noticias&amp;p=941243</id>
     <title>Microsoft dará 25 jogos grátis na compra de PCs com Windows</title>
-    <updated>2026-10-15T23:05:06.816322+00:00</updated>
+    <updated>2026-10-15T23:13:41.411662+00:00</updated>
     <link href="https://tecnoblog.net/noticias/microsoft-dara-25-jogos-gratis-na-compra-de-pcs-com-windows/"/>
     <summary>Promoção começa em novembro nos EUA e não tem previsão no Brasil. Pacote inclui Halo, Skyrim e Gears of War.
 Microsoft dará 25 jogos grátis na compra de PCs com Windows</summary>
@@ -217,7 +217,7 @@ Microsoft dará 25 jogos grátis na compra de PCs com Windows</summary>
   <entry>
     <id>https://tecnoblog.net/?post_type=noticias&amp;p=941269</id>
     <title>Mais Microsoft no Linux: antivírus Defender chega aos desktops</title>
-    <updated>2026-10-15T23:05:06.815548+00:00</updated>
+    <updated>2026-10-15T23:13:41.411490+00:00</updated>
     <link href="https://tecnoblog.net/noticias/mais-microsoft-no-linux-antivirus-defender-chega-aos-desktops/"/>
     <summary>Recurso usa a mesma estrutura usada no Defender para servidores com Linux e depende de planos corporativos.
 Mais Microsoft no Linux: antivírus Defender chega aos desktops</summary>
@@ -226,7 +226,7 @@ Mais Microsoft no Linux: antivírus Defender chega aos desktops</summary>
   <entry>
     <id>https://tecnoblog.net/?post_type=noticias&amp;p=941327</id>
     <title>Netflix fica até 23,9% mais cara no Brasil</title>
-    <updated>2026-10-15T23:05:06.815142+00:00</updated>
+    <updated>2026-10-15T23:13:41.410970+00:00</updated>
     <link href="https://tecnoblog.net/noticias/netflix-fica-mais-cara-no-brasil-premium-chega-a-r-7190/"/>
     <summary>Todos os planos de assinatura ficaram mais caros no país. Premium passa a custar R$ 71,90 por mês.
 Netflix fica até 23,9% mais cara no Brasil</summary>
@@ -235,7 +235,7 @@ Netflix fica até 23,9% mais cara no Brasil</summary>
   <entry>
     <id>https://tecnoblog.net/?post_type=achados&amp;p=941323</id>
     <title>Edge 70 Pro (512 GB) com câmeras de 50 MP tem oferta expressiva na Amazon</title>
-    <updated>2026-10-15T23:05:06.814751+00:00</updated>
+    <updated>2026-10-15T23:13:41.409594+00:00</updated>
     <link href="https://tecnoblog.net/achados/edge-70-pro-512-gb-com-cameras-de-50-mp-tem-oferta-expressiva-na-amazon/"/>
     <summary>Motorola Edge 70 Pro está com 36% de desconto via Pix na Amazon. Celular premium traz bateria de 6500 mAh, quatro câmeras de 50 MP e tela AMOLED de 144 Hz
 Edge 70 Pro (512 GB) com câmeras de 50 MP tem oferta expressiva na Amazon</summary>
@@ -244,7 +244,7 @@ Edge 70 Pro (512 GB) com câmeras de 50 MP tem oferta expressiva na Amazon</summ
   <entry>
     <id>https://tecnoblog.net/?post_type=noticias&amp;p=941336</id>
     <title>iPhone Duo: reparo pode custar até R$ 16,5 mil no Brasil</title>
-    <updated>2026-10-15T23:05:06.814292+00:00</updated>
+    <updated>2026-10-15T23:13:41.409327+00:00</updated>
     <link href="https://tecnoblog.net/noticias/conserto-do-iphone-duo-pode-custar-ate-r-165-mil-no-brasil/"/>
     <summary>Sem suporte ao AppleCare+ no país, assistência oficial da Apple cobra R$ 10.990 pela tela flexível interna. 
 iPhone Duo: reparo pode custar até R$ 16,5 mil no Brasil</summary>
@@ -253,7 +253,7 @@ iPhone Duo: reparo pode custar até R$ 16,5 mil no Brasil</summary>
   <entry>
     <id>https://tecnoblog.net/?post_type=achados&amp;p=941378</id>
     <title>Bom e barato: Galaxy Buds Core recebe 44% de desconto depois de meses</title>
-    <updated>2026-10-15T23:05:06.813834+00:00</updated>
+    <updated>2026-10-15T23:13:41.405835+00:00</updated>
     <link href="https://tecnoblog.net/achados/bom-e-barato-galaxy-buds-core-recebe-44-de-desconto-depois-de-meses/"/>
     <summary>Fones de ouvido acessíveis da Samsung contam com cancelamento ativo de ruído, Galaxy AI e até 35 horas de autonomia. Oferta na Amazon traz o melhor preço desde julho
 Bom e barato: Galaxy Buds Core recebe 44% de desconto depois de meses</summary>
@@ -262,7 +262,7 @@ Bom e barato: Galaxy Buds Core recebe 44% de desconto depois de meses</summary>
   <entry>
     <id>https://tecnoblog.net/?post_type=noticias&amp;p=941409</id>
     <title>Google vai dar mais destaque aos links nos resumos de IA</title>
-    <updated>2026-10-15T23:05:06.809211+00:00</updated>
+    <updated>2026-10-15T23:13:41.405620+00:00</updated>
     <link href="https://tecnoblog.net/noticias/google-vai-dar-mais-destaque-aos-links-nos-resumos-de-ia/"/>
     <summary>Inteligência artificial no buscador vem prejudicando publicadores. Empresa promete nova exibição dos links e novo carrossel com principais notícias.
 Google vai dar mais destaque aos links nos resumos de IA</summary>
@@ -271,7 +271,7 @@ Google vai dar mais destaque aos links nos resumos de IA</summary>
   <entry>
     <id>https://tecnoblog.net/?post_type=guias&amp;p=939261</id>
     <title>Notebook com RTX 4060: 5 modelos para comprar em 2026</title>
-    <updated>2026-10-15T23:05:06.808290+00:00</updated>
+    <updated>2026-10-15T23:13:41.404986+00:00</updated>
     <link href="https://tecnoblog.net/guias/melhor-notebook-rtx-4060/"/>
     <summary>Buscando por um notebook com GPU Nvidia RTX 4060 em 2026? Encontre modelos que ainda trazem a placa de vídeo dedicada
 Notebook com RTX 4060: 5 modelos para comprar em 2026</summary>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:g1</id>
   <title>G1 - Globo</title>
-  <updated>2026-10-15T23:05:03.726624+00:00</updated>
+  <updated>2026-10-15T23:13:36.070594+00:00</updated>
   <link href="file:///feeds/g1.xml" rel="self"/>
   <link href="https://g1.globo.com/rss/g1/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -10,7 +10,7 @@
   <entry>
     <id>https://g1.globo.com/politica/noticia/2026/10/15/oab-da-medicina-congresso-aprova-lei-que-preve-obrigatoriedade-de-prova-para-medicos.ghtml</id>
     <title>'OAB da Medicina': Congresso aprova lei que prevê obrigatoriedade de prova para médicos</title>
-    <updated>2026-10-15T23:05:03.736582+00:00</updated>
+    <updated>2026-10-15T23:13:36.133166+00:00</updated>
     <link href="https://g1.globo.com/politica/noticia/2026/10/15/oab-da-medicina-congresso-aprova-lei-que-preve-obrigatoriedade-de-prova-para-medicos.ghtml"/>
     <summary>Exame Nacional vai aferir nível de qualidade do ensino das instituições do curso de medicina
 Assessoria
@@ -22,7 +22,7 @@ Entre as novas regras, estão a aplicação da prova em três períodos do curso
   <entry>
     <id>https://g1.globo.com/mg/sul-de-minas/edicao/2026/10/15/videos-eptv-2-sul-de-minas-de-quinta-feira-15-de-outubro-de-2026.ghtml</id>
     <title>VÍDEOS: EPTV 2 Sul de Minas de quinta-feira, 15 de outubro de 2026</title>
-    <updated>2026-10-15T23:05:03.735470+00:00</updated>
+    <updated>2026-10-15T23:13:36.132933+00:00</updated>
     <link href="https://g1.globo.com/mg/sul-de-minas/edicao/2026/10/15/videos-eptv-2-sul-de-minas-de-quinta-feira-15-de-outubro-de-2026.ghtml"/>
     <summary>VÍDEOS: EPTV 2 Sul de Minas de quinta-feira, 15 de outubro de 2026</summary>
     <published>2026-10-15T22:30:59+00:00</published>
@@ -30,7 +30,7 @@ Entre as novas regras, estão a aplicação da prova em três períodos do curso
   <entry>
     <id>https://g1.globo.com/sp/santos-regiao/noticia/2026/10/15/franquias-em-santos-faturam-mais-de-r-390-milhoes-no-segundo-trimestre-de-2026.ghtml</id>
     <title>Franquias em Santos faturam mais de R$ 390 milhões no segundo trimestre de 2026</title>
-    <updated>2026-10-15T23:05:03.734931+00:00</updated>
+    <updated>2026-10-15T23:13:36.118515+00:00</updated>
     <link href="https://g1.globo.com/sp/santos-regiao/noticia/2026/10/15/franquias-em-santos-faturam-mais-de-r-390-milhoes-no-segundo-trimestre-de-2026.ghtml"/>
     <summary>Franquias em Santos faturam mais de R$ 390 milhões no segundo trimestre de 2026
 Henrique Teixeira/Divulgação/Prefeitura de Santos
@@ -41,7 +41,7 @@ A Pesquisa Trimestral de Desempenho da ABF considerou o período de 1° de abril
   <entry>
     <id>https://g1.globo.com/to/tocantins/eleicoes/2026/ao-vivo/entrevistas-candidatos-tocantins-segundo-turno.ghtml</id>
     <title>TV Anhanguera entrevista nesta semana os candidatos ao governo do Tocantins no segundo turno</title>
-    <updated>2026-10-15T23:05:03.734733+00:00</updated>
+    <updated>2026-10-15T23:13:36.118384+00:00</updated>
     <link href="https://g1.globo.com/to/tocantins/eleicoes/2026/ao-vivo/entrevistas-candidatos-tocantins-segundo-turno.ghtml"/>
     <summary>TV Anhanguera entrevista nesta semana os candidatos ao governo do Tocantins no segundo turno Vicentinho Júnior (PSDB) será o entrevistado desta sexta-feira (16). TV Anhanguera realizará entrevistas ao vivo com os dois candidatos que disputam o segundo turno.. Entrevistas serão ao vivo e terão duração de 20 minutos.. Jornal Anhanguera 2ª Edição começa após a novela "Nobreza do Amor".</summary>
     <published>2026-10-15T22:31:51+00:00</published>
@@ -49,7 +49,7 @@ A Pesquisa Trimestral de Desempenho da ABF considerou o período de 1° de abril
   <entry>
     <id>https://g1.globo.com/ba/bahia/ao-vivo/assista-aos-telejornais-da-tv-bahia.ghtml</id>
     <title>Assista aos telejornais da TV Bahia</title>
-    <updated>2026-10-15T23:05:03.734378+00:00</updated>
+    <updated>2026-10-15T23:13:36.118243+00:00</updated>
     <link href="https://g1.globo.com/ba/bahia/ao-vivo/assista-aos-telejornais-da-tv-bahia.ghtml"/>
     <summary>Assista aos telejornais da TV Bahia</summary>
     <published>2026-10-15T22:31:56+00:00</published>
@@ -57,7 +57,7 @@ A Pesquisa Trimestral de Desempenho da ABF considerou o período de 1° de abril
   <entry>
     <id>https://g1.globo.com/sp/ribeirao-preto-franca/ao-vivo/eptv-2-ribeirao-e-franca-ao-vivo.ghtml</id>
     <title>Siga o EPTV 2 Ribeirão e Franca</title>
-    <updated>2026-10-15T23:05:03.734241+00:00</updated>
+    <updated>2026-10-15T23:13:36.118119+00:00</updated>
     <link href="https://g1.globo.com/sp/ribeirao-preto-franca/ao-vivo/eptv-2-ribeirao-e-franca-ao-vivo.ghtml"/>
     <summary>Siga o EPTV 2 Ribeirão e Franca Transmissão encerrada.</summary>
     <published>2026-10-15T22:32:00+00:00</published>
@@ -65,7 +65,7 @@ A Pesquisa Trimestral de Desempenho da ABF considerou o período de 1° de abril
   <entry>
     <id>https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/15/veja-como-foi-sabatina-da-globo-com-celina-leao-candidata-ao-governo-do-df-no-2o-turno.ghtml</id>
     <title>Celina Leão nega relação com crise do BRB, critica Ibaneis e diz que terá dinheiro para cumprir promessas em entrevista à Globo</title>
-    <updated>2026-10-15T23:05:03.734079+00:00</updated>
+    <updated>2026-10-15T23:13:36.117990+00:00</updated>
     <link href="https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/15/veja-como-foi-sabatina-da-globo-com-celina-leao-candidata-ao-governo-do-df-no-2o-turno.ghtml"/>
     <summary>Celina Leão (PP) é entrevista pelo DF2 nesta quinta-feira (15)
 Ingrid Ribeiro/TV Globo
@@ -76,7 +76,7 @@ Na entrevista, Celina voltou a se distanciar da crise do Banco Master e do Banco
   <entry>
     <id>https://g1.globo.com/ba/feira-de-santana-regiao/ao-vivo/assista-aos-telejornais-da-tv-subae.ghtml</id>
     <title>Assista aos telejornais da TV Subaé</title>
-    <updated>2026-10-15T23:05:03.733804+00:00</updated>
+    <updated>2026-10-15T23:13:36.117855+00:00</updated>
     <link href="https://g1.globo.com/ba/feira-de-santana-regiao/ao-vivo/assista-aos-telejornais-da-tv-subae.ghtml"/>
     <summary>Assista aos telejornais da TV Subaé</summary>
     <published>2026-10-15T22:32:19+00:00</published>
@@ -84,7 +84,7 @@ Na entrevista, Celina voltou a se distanciar da crise do Banco Master e do Banco
   <entry>
     <id>https://g1.globo.com/pop-arte/cinema/noticia/2026/10/15/batman-2-troca-de-diretores-steven-soderbergh-assume-funcao-de-matt-reeves-no-resto-das-filmagens.ghtml</id>
     <title>'Batman 2': Steven Soderbergh assume direção do resto das filmagens 'para ajudar' Matt Reeves</title>
-    <updated>2026-10-15T23:05:03.733642+00:00</updated>
+    <updated>2026-10-15T23:13:36.117717+00:00</updated>
     <link href="https://g1.globo.com/pop-arte/cinema/noticia/2026/10/15/batman-2-troca-de-diretores-steven-soderbergh-assume-funcao-de-matt-reeves-no-resto-das-filmagens.ghtml"/>
     <summary>Robert Pattinson em cena de 'Batman'
 Divulgação
@@ -95,7 +95,7 @@ De acordo com o DC Studios, Soderbergh ofereceu ajuda a Matt para terminar "as s
   <entry>
     <id>https://g1.globo.com/pa/para/ao-vivo/assista-aos-telejornais-da-tv-liberal.ghtml</id>
     <title>Assista aos telejornais da TV Liberal</title>
-    <updated>2026-10-15T23:05:03.733020+00:00</updated>
+    <updated>2026-10-15T23:13:36.117580+00:00</updated>
     <link href="https://g1.globo.com/pa/para/ao-vivo/assista-aos-telejornais-da-tv-liberal.ghtml"/>
     <summary>Assista aos telejornais da TV Liberal g1 transmite os telejornais Jornal Liberal 1ª e 2ª Edição.</summary>
     <published>2026-10-15T22:35:32+00:00</published>
@@ -103,7 +103,7 @@ De acordo com o DC Studios, Soderbergh ofereceu ajuda a Matt para terminar "as s
   <entry>
     <id>https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/10/15/229-toneladas-de-residuos-sao-recolhidas-das-praias-de-cabo-frio-durante-o-feriado-de-nossa-senhora-aparecida.ghtml</id>
     <title>229 toneladas de resíduos são recolhidas das praias de Cabo Frio durante o feriado de Nossa Senhora Aparecida</title>
-    <updated>2026-10-15T23:05:03.732776+00:00</updated>
+    <updated>2026-10-15T23:13:36.117439+00:00</updated>
     <link href="https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/10/15/229-toneladas-de-residuos-sao-recolhidas-das-praias-de-cabo-frio-durante-o-feriado-de-nossa-senhora-aparecida.ghtml"/>
     <summary>Aparecida. Os números, referentes ao período de sábado (10) a segunda-feira (12), integram o balanço dos serviços de limpeza urbana na Semana do Saco Cheio.
 Prefeitura de Cabo Frio
@@ -114,7 +114,7 @@ Segundo a Prefeitura, o volume recolhido ficou acima da média habitual. Os dado
   <entry>
     <id>https://g1.globo.com/ce/ceara/noticia/2026/10/15/governo-regulamenta-ferias-de-45-dias-para-professores-da-rede-estadual-do-ceara-veja-regras.ghtml</id>
     <title>Governo regulamenta férias de 45 dias para professores da rede estadual do Ceará; veja regras</title>
-    <updated>2026-10-15T23:05:03.732654+00:00</updated>
+    <updated>2026-10-15T23:13:36.117289+00:00</updated>
     <link href="https://g1.globo.com/ce/ceara/noticia/2026/10/15/governo-regulamenta-ferias-de-45-dias-para-professores-da-rede-estadual-do-ceara-veja-regras.ghtml"/>
     <summary>Assembleia aprova aumento para professores da rede estadual.
 Tiago Stille - Casa Civil/Divulgação
@@ -125,7 +125,7 @@ De modo geral, a portaria da Secretaria de Educação </summary>
   <entry>
     <id>https://g1.globo.com/es/espirito-santo/eleicoes/2026/noticia/2026/10/15/pazolini-participa-de-entrevista-no-boa-noite-espirito-santo.ghtml</id>
     <title>Pazolini propõe ampliar proteção às mulheres e corte de comissionados no ES</title>
-    <updated>2026-10-15T23:05:03.732530+00:00</updated>
+    <updated>2026-10-15T23:13:36.117090+00:00</updated>
     <link href="https://g1.globo.com/es/espirito-santo/eleicoes/2026/noticia/2026/10/15/pazolini-participa-de-entrevista-no-boa-noite-espirito-santo.ghtml"/>
     <summary>Em entrevista à TV Gazeta, Pazolini fala sobre feminicídio e segurança pública
 O candidato ao Governo do Espírito Santo Lorenzo Pazolini (Republicanos) informou que pretende reduzir os cargos comissionados do estado para liberar recursos para investimentos em políticas públicas e defendeu ampliação de ações de proteção às mulheres . As declarações foram feitas durante entrevista ao vivo ao Boa Noite Espírito Santo, da TV Gazeta, nesta quinta-feira (15). 
@@ -135,7 +135,7 @@ O candidato ao Governo do Espírito Santo Lorenzo Pazolini (Republicanos) inform
   <entry>
     <id>https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/15/rio-tem-pior-taxa-de-renovacao-de-professores-do-pais.ghtml</id>
     <title>Rio tem pior taxa de renovação de professores do país; número de docentes jovens caiu 55% em dez anos</title>
-    <updated>2026-10-15T23:05:03.732400+00:00</updated>
+    <updated>2026-10-15T23:13:36.088704+00:00</updated>
     <link href="https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/15/rio-tem-pior-taxa-de-renovacao-de-professores-do-pais.ghtml"/>
     <summary>Rio tem pior taxa de renovação de professores do país
 O Rio de Janeiro tem a pior taxa de renovação de professores do país. Em dez anos, o número de docentes com até 24 anos que dão aula no ensino médio caiu 55,7% no estado, enquanto a quantidade de profissionais com 60 anos ou mais mais que dobrou. Os dados mostram o envelhecimento do quadro de professores e a dificuldade de atrair novos profissionais para a carreira.
@@ -145,7 +145,7 @@ O levantamento foi feito pela Escola Suíço-Brasileira do Rio de Janeiro com b<
   <entry>
     <id>https://g1.globo.com/pa/para/especial-publicitario/sicredi-norte/sicredi-gente-que-coopera-cresce/noticia/2026/10/15/dia-c-beneficia-cerca-de-200-criancas-com-distribuicao-de-brinquedos-em-ananindeua.ghtml</id>
     <title>Dia C beneficia cerca de 200 crianças com distribuição de brinquedos em Ananindeua</title>
-    <updated>2026-10-15T23:05:03.732239+00:00</updated>
+    <updated>2026-10-15T23:13:36.088577+00:00</updated>
     <link href="https://g1.globo.com/pa/para/especial-publicitario/sicredi-norte/sicredi-gente-que-coopera-cresce/noticia/2026/10/15/dia-c-beneficia-cerca-de-200-criancas-com-distribuicao-de-brinquedos-em-ananindeua.ghtml"/>
     <summary>Além da doação de brinquedos, a programação incluiu a entrega de lanches e organização de brincadeiras, incluindo pula-pula.
 Sicredi
@@ -156,7 +156,7 @@ Com o </summary>
   <entry>
     <id>https://g1.globo.com/mg/triangulo-mineiro/ao-vivo/assista-ao-vivo-a-tv-integracao-de-uberlandia.ghtml</id>
     <title>TV Integração de Uberlândia ao vivo: assista aos telejornais</title>
-    <updated>2026-10-15T23:05:03.731875+00:00</updated>
+    <updated>2026-10-15T23:13:36.088456+00:00</updated>
     <link href="https://g1.globo.com/mg/triangulo-mineiro/ao-vivo/assista-ao-vivo-a-tv-integracao-de-uberlandia.ghtml"/>
     <summary>TV Integração de Uberlândia ao vivo: assista aos telejornais</summary>
     <published>2026-10-15T22:40:08+00:00</published>
@@ -164,7 +164,7 @@ Com o </summary>
   <entry>
     <id>https://g1.globo.com/mg/triangulo-mineiro/ao-vivo/assista-ao-vivo-a-tv-integracao-de-uberaba.ghtml</id>
     <title>TV Integração de Uberaba ao vivo: assista aos telejornais</title>
-    <updated>2026-10-15T23:05:03.731683+00:00</updated>
+    <updated>2026-10-15T23:13:36.088330+00:00</updated>
     <link href="https://g1.globo.com/mg/triangulo-mineiro/ao-vivo/assista-ao-vivo-a-tv-integracao-de-uberaba.ghtml"/>
     <summary>TV Integração de Uberaba ao vivo: assista aos telejornais</summary>
     <published>2026-10-15T22:40:23+00:00</published>
@@ -172,7 +172,7 @@ Com o </summary>
   <entry>
     <id>https://g1.globo.com/sc/santa-catarina/noticia/2026/10/15/familia-encontrou-larvas-vivas-chocolate-recebera-r-8-mil-decide-justica-sc.ghtml</id>
     <title>Família que encontrou larvas vivas em chocolate receberá R$ 8 mil após passar mal, decide Justiça de SC</title>
-    <updated>2026-10-15T23:05:03.731557+00:00</updated>
+    <updated>2026-10-15T23:13:36.088207+00:00</updated>
     <link href="https://g1.globo.com/sc/santa-catarina/noticia/2026/10/15/familia-encontrou-larvas-vivas-chocolate-recebera-r-8-mil-decide-justica-sc.ghtml"/>
     <summary>Cliente encontra larvas vivas em chocolate e Justiça decide por indenização
 Uma família que encontrou larvas vivas em uma barra de chocolate será indenizada em R$ 8 mil, conforme decisão judicial. A mãe e três filhos já haviam comido parte do alimento quando viram o animal se mexendo. Cabe recurso.
@@ -182,7 +182,7 @@ A Justiça condenou a fabricante a pagar R$ 2 mil em danos morais para cada um d
   <entry>
     <id>https://g1.globo.com/mg/zona-da-mata/ao-vivo/assista-ao-vivo-a-tv-integracao-de-juiz-de-fora.ghtml</id>
     <title>TV Integração de Juiz de Fora ao vivo: assista aos telejornais</title>
-    <updated>2026-10-15T23:05:03.731420+00:00</updated>
+    <updated>2026-10-15T23:13:36.088086+00:00</updated>
     <link href="https://g1.globo.com/mg/zona-da-mata/ao-vivo/assista-ao-vivo-a-tv-integracao-de-juiz-de-fora.ghtml"/>
     <summary>TV Integração de Juiz de Fora ao vivo: assista aos telejornais</summary>
     <published>2026-10-15T22:40:40+00:00</published>
@@ -190,7 +190,7 @@ A Justiça condenou a fabricante a pagar R$ 2 mil em danos morais para cada um d
   <entry>
     <id>https://g1.globo.com/mg/centro-oeste/ao-vivo/tv-integracao-de-divinopolis-ao-vivo-assista-aos-telejornais.ghtml</id>
     <title>TV Integração de Divinópolis ao vivo: assista aos telejornais</title>
-    <updated>2026-10-15T23:05:03.731279+00:00</updated>
+    <updated>2026-10-15T23:13:36.087963+00:00</updated>
     <link href="https://g1.globo.com/mg/centro-oeste/ao-vivo/tv-integracao-de-divinopolis-ao-vivo-assista-aos-telejornais.ghtml"/>
     <summary>TV Integração de Divinópolis ao vivo: assista aos telejornais</summary>
     <published>2026-10-15T22:40:57+00:00</published>
@@ -198,7 +198,7 @@ A Justiça condenou a fabricante a pagar R$ 2 mil em danos morais para cada um d
   <entry>
     <id>https://g1.globo.com/mundo/noticia/2026/10/15/governo-dos-eua-processa-california-por-nao-verificar-registro-de-eleitores.ghtml</id>
     <title>Governo dos EUA processa Califórnia por não verificar registro de eleitores</title>
-    <updated>2026-10-15T23:05:03.731146+00:00</updated>
+    <updated>2026-10-15T23:13:36.087835+00:00</updated>
     <link href="https://g1.globo.com/mundo/noticia/2026/10/15/governo-dos-eua-processa-california-por-nao-verificar-registro-de-eleitores.ghtml"/>
     <summary>O governo dos Estados Unidos anunciou, nesta quinta-feira (15), uma ação judicial contra o estado da Califórnia, por falta de colaboração na verificação dos registros eleitorais, que conteriam, supostamente, 20 mil pessoas sem direito a voto.
 "Segundo a lei californiana, uma cédula é enviada a cada eleitor registrado. É ilegal que estrangeiros votem em eleições federais", ressaltou o Departamento de Justiça. Esse tipo de eleição é organizada pelos estados.
@@ -208,7 +208,7 @@ A Justiça condenou a fabricante a pagar R$ 2 mil em danos morais para cada um d
   <entry>
     <id>https://g1.globo.com/es/espirito-santo/eleicoes/2026/ao-vivo/boa-noite-espirito-santo-entrevista-candidatos-ao-governo-no-2-turno.ghtml</id>
     <title>Boa Noite Espírito Santo entrevista Lorenzo Pazolini, candidato ao governo no 2º turno</title>
-    <updated>2026-10-15T23:05:03.730996+00:00</updated>
+    <updated>2026-10-15T23:13:36.087698+00:00</updated>
     <link href="https://g1.globo.com/es/espirito-santo/eleicoes/2026/ao-vivo/boa-noite-espirito-santo-entrevista-candidatos-ao-governo-no-2-turno.ghtml"/>
     <summary>Boa Noite Espírito Santo entrevista Lorenzo Pazolini, candidato ao governo no 2º turno Lorenzo Pazolini (Republicanos) e Ricardo Ferraço (MDB) concedem entrevista a Daniela Abreu nesta quinta (15) e sexta-feira (16).</summary>
     <published>2026-10-15T22:42:44+00:00</published>
@@ -216,7 +216,7 @@ A Justiça condenou a fabricante a pagar R$ 2 mil em danos morais para cada um d
   <entry>
     <id>https://g1.globo.com/mt/mato-grosso/noticia/2026/10/15/oncas-pintadas-surpreendem-jacares-durante-banho-de-sol-no-pantanal-de-mt.ghtml</id>
     <title>Onças-pintadas surpreendem jacarés durante ‘banho de sol’ no Pantanal de MT</title>
-    <updated>2026-10-15T23:05:03.730699+00:00</updated>
+    <updated>2026-10-15T23:13:36.087546+00:00</updated>
     <link href="https://g1.globo.com/mt/mato-grosso/noticia/2026/10/15/oncas-pintadas-surpreendem-jacares-durante-banho-de-sol-no-pantanal-de-mt.ghtml"/>
     <summary>Onças surpreendem jacarés durante 'banho de sol' no Pantanal de MT
 Um vídeo mostra duas onças-pintadas próximas a uma lagoa na zona rural de Poconé, no Pantanal mato-grossense. Conhecidos como Glorioso e Arruda, os dois machos aparecem próximos a um grupo de jacarés que foge para a água ao perceber a presença dos felinos (assista acima).
@@ -226,7 +226,7 @@ O registro foi feito no dia 26 de setembro por Mateus Arruda, proprietário de u
   <entry>
     <id>https://g1.globo.com/df/distrito-federal/eleicoes/2026/ao-vivo/entrevista-candidatos-df-segundo-turno.ghtml</id>
     <title>Globo entrevista candidatos ao governo do DF no 2º turno das eleições</title>
-    <updated>2026-10-15T23:05:03.730557+00:00</updated>
+    <updated>2026-10-15T23:13:36.087325+00:00</updated>
     <link href="https://g1.globo.com/df/distrito-federal/eleicoes/2026/ao-vivo/entrevista-candidatos-df-segundo-turno.ghtml"/>
     <summary>Globo entrevista candidatos ao governo do DF no 2º turno das eleições Celina Leão (PP) será sabatinada nesta quinta (15), e Leandro Grass (PT), na sexta (16). Entrevistas serão ao vivo no DF2; g1 transmite.</summary>
     <published>2026-10-15T22:43:49+00:00</published>
@@ -234,7 +234,7 @@ O registro foi feito no dia 26 de setembro por Mateus Arruda, proprietário de u
   <entry>
     <id>https://g1.globo.com/mg/zona-da-mata/noticia/2026/10/15/frangos-ficam-espalhados-na-pista-apos-caminhao-tombar-na-lmg-850.ghtml</id>
     <title>Frangos ficam espalhados na pista após caminhão tombar na LMG-850</title>
-    <updated>2026-10-15T23:05:03.730425+00:00</updated>
+    <updated>2026-10-15T23:13:36.086650+00:00</updated>
     <link href="https://g1.globo.com/mg/zona-da-mata/noticia/2026/10/15/frangos-ficam-espalhados-na-pista-apos-caminhao-tombar-na-lmg-850.ghtml"/>
     <summary>Frangos ficam espalhados na pista após tombamento de caminhão na LMG-850
 Um caminhão carregado com carga de frango bateu contra um barranco e tombou na tarde desta quinta-feira (15) no km 1 da LMG-850, em Ubá. Algumas das aves ficaram espalhadas pela pista.
@@ -246,7 +246,7 @@ O passageir</summary>
   <entry>
     <id>https://g1.globo.com/rj/rio-de-janeiro/videos-rj2/playlist/videos-rj2-de-quinta-feira-15-de-outubro-de-2026.ghtml</id>
     <title>VÍDEOS: RJ2 de quinta-feira, 15 de outubro de 2026</title>
-    <updated>2026-10-15T23:05:03.730275+00:00</updated>
+    <updated>2026-10-15T23:13:36.071838+00:00</updated>
     <link href="https://g1.globo.com/rj/rio-de-janeiro/videos-rj2/playlist/videos-rj2-de-quinta-feira-15-de-outubro-de-2026.ghtml"/>
     <summary>Assista aos vídeos com as notícias do Rio de Janeiro.</summary>
     <published>2026-10-15T22:47:46+00:00</published>
@@ -254,7 +254,7 @@ O passageir</summary>
   <entry>
     <id>https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2026/10/15/novas-vitimas-denunciam-medico-preso-em-suzano-uma-relata-abuso-na-presenca-da-filha-de-10-anos.ghtml</id>
     <title>Novas vítimas denunciam médico preso em Suzano; uma relata abuso na presença da filha de 10 anos</title>
-    <updated>2026-10-15T23:05:03.729500+00:00</updated>
+    <updated>2026-10-15T23:13:36.071691+00:00</updated>
     <link href="https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2026/10/15/novas-vitimas-denunciam-medico-preso-em-suzano-uma-relata-abuso-na-presenca-da-filha-de-10-anos.ghtml"/>
     <summary>Novas vítimas denunciam médico preso em Suzano
 Duas mulheres, de 37 e 36 anos, procuraram a Delegacia de Defesa da Mulher (DDM) de Suzano nesta quinta-feira (15) para denunciar o médico Rubens Sousa de Oliveira, de 63 anos, preso em flagrante nesta quarta-feira (14), suspeito de abusar sexualmente de uma paciente no Hospital e Maternidade de Suzano (HMS). Uma delas afirmou que a filha, de 10 anos, presenciou o atendimento em que ela relata ter sofrido o abuso, em agosto deste ano.
@@ -264,7 +264,7 @@ A mulher senti</summary>
   <entry>
     <id>https://g1.globo.com/rj/regiao-serrana/noticia/2026/10/15/programa-gratuito-de-moda-busca-30-novos-talentos-em-nova-friburgo.ghtml</id>
     <title>Programa gratuito de moda busca 30 novos talentos em Nova Friburgo</title>
-    <updated>2026-10-15T23:05:03.729100+00:00</updated>
+    <updated>2026-10-15T23:13:36.071536+00:00</updated>
     <link href="https://g1.globo.com/rj/regiao-serrana/noticia/2026/10/15/programa-gratuito-de-moda-busca-30-novos-talentos-em-nova-friburgo.ghtml"/>
     <summary>Programa gratuito de formação em moda abre inscrições em Nova Friburgo
 Divulgação
@@ -275,7 +275,7 @@ Serão selecionados 30 participantes para atividades ao longo de trê</summary>
   <entry>
     <id>https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/10/15/video-mostra-quando-carreta-bate-em-caminhao-e-atravessa-canteiro-na-rodovia-anhanguera-em-limeira.ghtml</id>
     <title>Vídeo mostra quando carreta bate em caminhão e atravessa canteiro na Rodovia Anhanguera em Limeira</title>
-    <updated>2026-10-15T23:05:03.727003+00:00</updated>
+    <updated>2026-10-15T23:13:36.071354+00:00</updated>
     <link href="https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/10/15/video-mostra-quando-carreta-bate-em-caminhao-e-atravessa-canteiro-na-rodovia-anhanguera-em-limeira.ghtml"/>
     <summary>Vídeo mostra quando carreta atravessa canteiro em rodovia de Limeira
 Uma câmera de segurança flagrou o momento em que uma carreta bateu na traseira de um caminhão e atravessou o canteiro central da Rodovia Anhanguera (SP-330), em Limeira (SP), no início da tarde desta quinta-feira (15).
@@ -286,7 +286,7 @@ Nas imagens, é possível ver que, após a carreta bater no caminhão e atravess
   <entry>
     <id>https://g1.globo.com/pa/para/noticia/2026/10/15/audiencia-em-belem-debate-possiveis-impactos-de-exploracao-de-petroleo-na-margem-equatorial.ghtml</id>
     <title>Audiência em Belém debate possíveis impactos de exploração de petróleo na Margem Equatorial</title>
-    <updated>2026-10-15T23:05:03.726828+00:00</updated>
+    <updated>2026-10-15T23:13:36.070802+00:00</updated>
     <link href="https://g1.globo.com/pa/para/noticia/2026/10/15/audiencia-em-belem-debate-possiveis-impactos-de-exploracao-de-petroleo-na-margem-equatorial.ghtml"/>
     <summary>Audiência em Belém discute impactos da exploração de gás e petróleo na Foz do Amazonas
 Uma audiência pública foi realizada nesta quinta-feira (15) em Belém para discutir os possíveis impactos da exploração de petróleo e gás na Margem Equatorial, que inclui a Bacia da Foz do Amazonas e na Ilha de Marajó.

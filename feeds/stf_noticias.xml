@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:stf_noticias</id>
   <title>STF - Supremo Tribunal Federal</title>
-  <updated>2026-10-15T23:04:59.921985+00:00</updated>
+  <updated>2026-10-15T23:13:29.369402+00:00</updated>
   <link href="file:///feeds/stf_noticias.xml" rel="self"/>
   <link href="https://noticias.stf.jus.br/feed/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -10,7 +10,7 @@
   <entry>
     <id>https://noticias.stf.jus.br/?p=158704</id>
     <title>Página do Museu do STF</title>
-    <updated>2026-10-15T23:04:59.925788+00:00</updated>
+    <updated>2026-10-15T23:13:29.372620+00:00</updated>
     <link href="https://noticias.stf.jus.br/pagina-do-museu-do-stf/"/>
     <summary>Conheça on line o acervo do Museu do STF</summary>
     <published>2025-12-02T20:29:41+00:00</published>
@@ -18,7 +18,7 @@
   <entry>
     <id>https://noticias.stf.jus.br/?p=158493</id>
     <title>Centro de Estudos Constitucionais do STF (CESTF)</title>
-    <updated>2026-10-15T23:04:59.925481+00:00</updated>
+    <updated>2026-10-15T23:13:29.372485+00:00</updated>
     <link href="https://noticias.stf.jus.br/centro-de-estudos-constitucionais-do-stf-cestf/"/>
     <summary>Centro de Estudos Constitucionais do STF (CESTF)</summary>
     <published>2026-02-25T22:00:00+00:00</published>
@@ -26,7 +26,7 @@
   <entry>
     <id>https://noticias.stf.jus.br/?p=160537</id>
     <title>STF restabelece adicional de periculosidade a guardas municipais de Santo André (SP)</title>
-    <updated>2026-10-15T23:04:59.925150+00:00</updated>
+    <updated>2026-10-15T23:13:29.372337+00:00</updated>
     <link href="https://noticias.stf.jus.br/stf-restabelece-adicional-de-periculosidade-a-guardas-municipais-de-santo-andre-sp/"/>
     <summary>STF restabelece adicional de periculosidade a guardas municipais de Santo André (SP)</summary>
     <published>2026-03-02T18:49:47+00:00</published>
@@ -34,7 +34,7 @@
   <entry>
     <id>https://noticias.stf.jus.br/?p=163359</id>
     <title>Uso do Berçário – Advogadas</title>
-    <updated>2026-10-15T23:04:59.924803+00:00</updated>
+    <updated>2026-10-15T23:13:29.371997+00:00</updated>
     <link href="https://noticias.stf.jus.br/bercario-advogadas/"/>
     <summary>Uso do Berçário – Advogadas</summary>
     <published>2026-05-25T20:50:10+00:00</published>
@@ -42,7 +42,7 @@
   <entry>
     <id>https://noticias.stf.jus.br/?p=165009</id>
     <title>Confira as matérias especiais da série ‘Do Plenário à Agenda 2030’</title>
-    <updated>2026-10-15T23:04:59.924473+00:00</updated>
+    <updated>2026-10-15T23:13:29.371612+00:00</updated>
     <link href="https://noticias.stf.jus.br/confira-as-materias-especiais-da-serie-do-plenario-a-agenda-2030/"/>
     <summary>Conteúdo traz reportagens sobre julgamentos do STF que contribuem para a proteção de direitos e o desenvolvimento sustentável</summary>
     <published>2026-08-10T03:00:00+00:00</published>
@@ -50,7 +50,7 @@
   <entry>
     <id>https://noticias.stf.jus.br/?p=165181</id>
     <title>Do Plenário à Agenda 2030</title>
-    <updated>2026-10-15T23:04:59.924153+00:00</updated>
+    <updated>2026-10-15T23:13:29.371308+00:00</updated>
     <link href="https://noticias.stf.jus.br/do-plenario-a-agenda-2030/"/>
     <summary>Do Plenário à Agenda 2030</summary>
     <published>2026-08-12T13:00:00+00:00</published>
@@ -58,7 +58,7 @@
   <entry>
     <id>https://noticias.stf.jus.br/?p=165661</id>
     <title>Supremo rejeita ação sobre auxílio-refeição pago a servidores gaúchos no período de férias</title>
-    <updated>2026-10-15T23:04:59.923776+00:00</updated>
+    <updated>2026-10-15T23:13:29.370999+00:00</updated>
     <link href="https://noticias.stf.jus.br/teste/"/>
     <summary>Ministra Cármen Lúcia considerou que há outros meios processuais cabíveis para resolver a controvérsia</summary>
     <published>2026-08-26T19:54:27+00:00</published>
@@ -66,7 +66,7 @@
   <entry>
     <id>https://noticias.stf.jus.br/?p=166725</id>
     <title>Confira as matérias especiais da série ‘STF Dados’</title>
-    <updated>2026-10-15T23:04:59.923332+00:00</updated>
+    <updated>2026-10-15T23:13:29.370650+00:00</updated>
     <link href="https://noticias.stf.jus.br/confira-as-materias-especiais-da-serie-stf-dados/"/>
     <summary>Confira as matérias especiais da série ‘STF Dados’</summary>
     <published>2026-10-05T22:32:00+00:00</published>
@@ -74,7 +74,7 @@
   <entry>
     <id>https://noticias.stf.jus.br/?p=166791</id>
     <title>Série ‘STF Dados”</title>
-    <updated>2026-10-15T23:04:59.922906+00:00</updated>
+    <updated>2026-10-15T23:13:29.370312+00:00</updated>
     <link href="https://noticias.stf.jus.br/serie-stf-dados/"/>
     <summary>Série ‘STF Dados”</summary>
     <published>2026-10-05T22:34:17+00:00</published>
@@ -82,7 +82,7 @@
   <entry>
     <id>https://noticias.stf.jus.br/?p=166777</id>
     <title>Página da Ouvidoria do STF</title>
-    <updated>2026-10-15T23:04:59.922476+00:00</updated>
+    <updated>2026-10-15T23:13:29.369879+00:00</updated>
     <link href="https://noticias.stf.jus.br/pagina-da-ouvidoria-do-stf/"/>
     <summary>Página da Ouvidoria do STF</summary>
     <published>2026-10-05T22:45:00+00:00</published>

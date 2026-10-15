@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:migalhas</id>
   <title>Migalhas - Direito e Opinião</title>
-  <updated>2026-10-15T23:05:05.191542+00:00</updated>
+  <updated>2026-10-15T23:13:38.983500+00:00</updated>
   <link href="file:///feeds/migalhas.xml" rel="self"/>
   <link href="https://freenewsapi.ai/v1/rss?host=www.migalhas.com.br&amp;size=50" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -10,7 +10,7 @@
   <entry>
     <id>https://www.migalhas.com.br/depeso/466214/as-primeiras-acoes-judiciais-sobre-a-reforma-tributaria-do-consumo</id>
     <title>As primeiras ações judiciais sobre a reforma tributária do consumo</title>
-    <updated>2026-10-15T23:05:05.202136+00:00</updated>
+    <updated>2026-10-15T23:13:38.987492+00:00</updated>
     <link href="https://www.migalhas.com.br/depeso/466214/as-primeiras-acoes-judiciais-sobre-a-reforma-tributaria-do-consumo"/>
     <summary>As primeiras ações judiciais sobre a reforma tributária do consumo</summary>
     <published>2026-10-15T14:46:05+00:00</published>
@@ -18,7 +18,7 @@
   <entry>
     <id>https://www.migalhas.com.br/quentes/466462/ao-vivo-stf-julga-cobranca-previdenciaria-de-empregadores-rurais</id>
     <title>AO VIVO: STF julga cobrança previdenciária de empregadores rurais</title>
-    <updated>2026-10-15T23:05:05.202018+00:00</updated>
+    <updated>2026-10-15T23:13:38.987339+00:00</updated>
     <link href="https://www.migalhas.com.br/quentes/466462/ao-vivo-stf-julga-cobranca-previdenciaria-de-empregadores-rurais"/>
     <summary>AO VIVO: STF julga cobrança previdenciária de empregadores rurais</summary>
     <published>2026-10-15T14:46:21+00:00</published>
@@ -26,7 +26,7 @@
   <entry>
     <id>https://www.migalhas.com.br/quentes/466593/tj-sp-condena-estudante-de-veterinaria-por-maus-tratos-a-animais</id>
     <title>TJ/SP mantém condenação de estudante de veterinária por maus-tratos a animais</title>
-    <updated>2026-10-15T23:05:05.201899+00:00</updated>
+    <updated>2026-10-15T23:13:38.987224+00:00</updated>
     <link href="https://www.migalhas.com.br/quentes/466593/tj-sp-condena-estudante-de-veterinaria-por-maus-tratos-a-animais"/>
     <summary>TJ/SP mantém condenação de estudante de veterinária por maus-tratos a animais</summary>
     <published>2026-10-15T14:46:29+00:00</published>
@@ -34,7 +34,7 @@
   <entry>
     <id>https://www.migalhas.com.br/quentes/466598/mulher-e-condenada-por-mandar-matar-cao-da-propria-filha-por-r-100</id>
     <title>Mulher é condenada por mandar matar cachorro da própria filha por R$ 100</title>
-    <updated>2026-10-15T23:05:05.201782+00:00</updated>
+    <updated>2026-10-15T23:13:38.987110+00:00</updated>
     <link href="https://www.migalhas.com.br/quentes/466598/mulher-e-condenada-por-mandar-matar-cao-da-propria-filha-por-r-100"/>
     <summary>Mulher é condenada por mandar matar cachorro da própria filha por R$ 100</summary>
     <published>2026-10-15T14:55:42+00:00</published>
@@ -42,7 +42,7 @@
   <entry>
     <id>https://www.migalhas.com.br/depeso/466208/mp-1-376-e-os-limites-da-renegociacao-da-divida-rural</id>
     <title>MP 1.376 e os limites da renegociação da dívida rural</title>
-    <updated>2026-10-15T23:05:05.201665+00:00</updated>
+    <updated>2026-10-15T23:13:38.986960+00:00</updated>
     <link href="https://www.migalhas.com.br/depeso/466208/mp-1-376-e-os-limites-da-renegociacao-da-divida-rural"/>
     <summary>MP 1.376 e os limites da renegociação da dívida rural</summary>
     <published>2026-10-15T14:58:14+00:00</published>
@@ -50,7 +50,7 @@
   <entry>
     <id>https://www.migalhas.com.br/depeso/466239/a-cultura-da-mediocridade-e-o-balde-de-caranguejos</id>
     <title>A cultura da mediocridade e o "balde de caranguejos"</title>
-    <updated>2026-10-15T23:05:05.201544+00:00</updated>
+    <updated>2026-10-15T23:13:38.986847+00:00</updated>
     <link href="https://www.migalhas.com.br/depeso/466239/a-cultura-da-mediocridade-e-o-balde-de-caranguejos"/>
     <summary>A cultura da mediocridade e o "balde de caranguejos"</summary>
     <published>2026-10-15T15:03:37+00:00</published>
@@ -58,7 +58,7 @@
   <entry>
     <id>https://www.migalhas.com.br/depeso/466279/divida-rural-a-mp-1-376-nao-e-a-ultima-porta-para-o-produtor</id>
     <title>Dívida rural: A MP 1.376 não é a última porta para o produtor</title>
-    <updated>2026-10-15T23:05:05.201421+00:00</updated>
+    <updated>2026-10-15T23:13:38.986724+00:00</updated>
     <link href="https://www.migalhas.com.br/depeso/466279/divida-rural-a-mp-1-376-nao-e-a-ultima-porta-para-o-produtor"/>
     <summary>Dívida rural: A MP 1.376 não é a última porta para o produtor</summary>
     <published>2026-10-15T15:08:20+00:00</published>
@@ -66,7 +66,7 @@
   <entry>
     <id>https://www.migalhas.com.br/depeso/466283/a-teoria-do-dominio-do-fato-e-crimes-financeiros-na-era-dos-ativos</id>
     <title>A teoria do domínio do fato e crimes financeiros na era dos ativos virtuais</title>
-    <updated>2026-10-15T23:05:05.201292+00:00</updated>
+    <updated>2026-10-15T23:13:38.986601+00:00</updated>
     <link href="https://www.migalhas.com.br/depeso/466283/a-teoria-do-dominio-do-fato-e-crimes-financeiros-na-era-dos-ativos"/>
     <summary>A teoria do domínio do fato e crimes financeiros na era dos ativos virtuais</summary>
     <published>2026-10-15T15:10:38+00:00</published>
@@ -74,7 +74,7 @@
   <entry>
     <id>https://www.migalhas.com.br/quentes/466603/stf-gilmar-cassa-decisao-contra-folga-dominical-mensal-para-mulheres</id>
     <title>STF: Gilmar cassa decisão contra folga dominical mensal para mulheres</title>
-    <updated>2026-10-15T23:05:05.201139+00:00</updated>
+    <updated>2026-10-15T23:13:38.986480+00:00</updated>
     <link href="https://www.migalhas.com.br/quentes/466603/stf-gilmar-cassa-decisao-contra-folga-dominical-mensal-para-mulheres"/>
     <summary>STF: Gilmar cassa decisão contra folga dominical mensal para mulheres</summary>
     <published>2026-10-15T15:11:12+00:00</published>
@@ -82,7 +82,7 @@
   <entry>
     <id>https://www.migalhas.com.br/depeso/466284/a-terceira-praca-no-leilao-de-consolidacao-da-propriedade-fiduciaria</id>
     <title>A terceira praça no leilão de consolidação da propriedade fiduciária</title>
-    <updated>2026-10-15T23:05:05.200866+00:00</updated>
+    <updated>2026-10-15T23:13:38.986372+00:00</updated>
     <link href="https://www.migalhas.com.br/depeso/466284/a-terceira-praca-no-leilao-de-consolidacao-da-propriedade-fiduciaria"/>
     <summary>A terceira praça no leilão de consolidação da propriedade fiduciária</summary>
     <published>2026-10-15T15:14:52+00:00</published>
@@ -90,7 +90,7 @@
   <entry>
     <id>https://www.migalhas.com.br/quentes/466594/socios-do-pinheiro-neto-participam-de-obra-coletiva-lancada-pelo-ibrac</id>
     <title>Sócios do Pinheiro Neto participam de obra coletiva lançada pelo Ibrac</title>
-    <updated>2026-10-15T23:05:05.200674+00:00</updated>
+    <updated>2026-10-15T23:13:38.986250+00:00</updated>
     <link href="https://www.migalhas.com.br/quentes/466594/socios-do-pinheiro-neto-participam-de-obra-coletiva-lancada-pelo-ibrac"/>
     <summary>Sócios do Pinheiro Neto participam de obra coletiva lançada pelo Ibrac</summary>
     <published>2026-10-15T15:30:06+00:00</published>
@@ -98,7 +98,7 @@
   <entry>
     <id>https://www.migalhas.com.br/quentes/466606/fim-da-escala-6x1-quando-comeca-a-valer-e-o-que-muda</id>
     <title>Fim da escala 6x1: quando começa a valer e o que muda?</title>
-    <updated>2026-10-15T23:05:05.200122+00:00</updated>
+    <updated>2026-10-15T23:13:38.985956+00:00</updated>
     <link href="https://www.migalhas.com.br/quentes/466606/fim-da-escala-6x1-quando-comeca-a-valer-e-o-que-muda"/>
     <summary>Fim da escala 6x1: quando começa a valer e o que muda?</summary>
     <published>2026-10-15T15:34:03+00:00</published>
@@ -106,7 +106,7 @@
   <entry>
     <id>https://www.migalhas.com.br/depeso/466341/a-ciencia-nao-conhece-o-pagador-mas-o-contrato-conhece</id>
     <title>A ciência não conhece o pagador, mas o contrato conhece</title>
-    <updated>2026-10-15T23:05:05.199878+00:00</updated>
+    <updated>2026-10-15T23:13:38.985841+00:00</updated>
     <link href="https://www.migalhas.com.br/depeso/466341/a-ciencia-nao-conhece-o-pagador-mas-o-contrato-conhece"/>
     <summary>A ciência não conhece o pagador, mas o contrato conhece</summary>
     <published>2026-10-15T15:52:11+00:00</published>
@@ -114,7 +114,7 @@
   <entry>
     <id>https://www.migalhas.com.br/quentes/466462/stf-invalida-cobranca-previdenciaria-de-empregadores-rurais</id>
     <title>STF invalida cobrança previdenciária de empregadores rurais pessoas físicas</title>
-    <updated>2026-10-15T23:05:05.199746+00:00</updated>
+    <updated>2026-10-15T23:13:38.985734+00:00</updated>
     <link href="https://www.migalhas.com.br/quentes/466462/stf-invalida-cobranca-previdenciaria-de-empregadores-rurais"/>
     <summary>STF invalida cobrança previdenciária de empregadores rurais pessoas físicas</summary>
     <published>2026-10-15T16:11:22+00:00</published>
@@ -122,7 +122,7 @@
   <entry>
     <id>https://www.migalhas.com.br/quentes/466607/justica-proibe-jusbrasil-de-instruir-ia-para-difamar-escavador</id>
     <title>Justiça proíbe Jusbrasil de instruir IA para difamar concorrente Escavador</title>
-    <updated>2026-10-15T23:05:05.199611+00:00</updated>
+    <updated>2026-10-15T23:13:38.985628+00:00</updated>
     <link href="https://www.migalhas.com.br/quentes/466607/justica-proibe-jusbrasil-de-instruir-ia-para-difamar-escavador"/>
     <summary>Justiça proíbe Jusbrasil de instruir IA para difamar concorrente Escavador</summary>
     <published>2026-10-15T16:34:44+00:00</published>
@@ -130,7 +130,7 @@
   <entry>
     <id>https://www.migalhas.com.br/quentes/466619/ao-vivo-stf-fixa-tese-sobre-coisa-julgada-inconstitucional</id>
     <title>AO VIVO: STF fixa tese sobre inexigibilidade de coisa julgada inconstitucional</title>
-    <updated>2026-10-15T23:05:05.199467+00:00</updated>
+    <updated>2026-10-15T23:13:38.985520+00:00</updated>
     <link href="https://www.migalhas.com.br/quentes/466619/ao-vivo-stf-fixa-tese-sobre-coisa-julgada-inconstitucional"/>
     <summary>AO VIVO: STF fixa tese sobre inexigibilidade de coisa julgada inconstitucional</summary>
     <published>2026-10-15T17:07:00+00:00</published>
@@ -138,7 +138,7 @@
   <entry>
     <id>https://www.migalhas.com.br/quentes/466619/stf-retira-repercussao-geral-de-caso-sobre-limites-da-coisa-julgada</id>
     <title>STF retira repercussão geral de caso sobre limites da coisa julgada</title>
-    <updated>2026-10-15T23:05:05.199255+00:00</updated>
+    <updated>2026-10-15T23:13:38.985412+00:00</updated>
     <link href="https://www.migalhas.com.br/quentes/466619/stf-retira-repercussao-geral-de-caso-sobre-limites-da-coisa-julgada"/>
     <summary>STF retira repercussão geral de caso sobre limites da coisa julgada</summary>
     <published>2026-10-15T17:24:14+00:00</published>
@@ -146,7 +146,7 @@
   <entry>
     <id>https://www.migalhas.com.br/quentes/466624/ao-vivo-stf-julga-validade-de-lei-que-reestruturou-cargos-no-ibama</id>
     <title>AO VIVO: STF julga validade de lei que reestruturou cargos no Ibama</title>
-    <updated>2026-10-15T23:05:05.198746+00:00</updated>
+    <updated>2026-10-15T23:13:38.985300+00:00</updated>
     <link href="https://www.migalhas.com.br/quentes/466624/ao-vivo-stf-julga-validade-de-lei-que-reestruturou-cargos-no-ibama"/>
     <summary>AO VIVO: STF julga validade de lei que reestruturou cargos no Ibama</summary>
     <published>2026-10-15T17:25:50+00:00</published>
@@ -154,7 +154,7 @@
   <entry>
     <id>https://www.migalhas.com.br/quentes/466602/tj-df-mantem-condenacao-de-mulher-que-arrastou-cao-pela-coleira</id>
     <title>TJ/DF mantém condenação de mulher que arrastou cão pela coleira</title>
-    <updated>2026-10-15T23:05:05.197289+00:00</updated>
+    <updated>2026-10-15T23:13:38.985189+00:00</updated>
     <link href="https://www.migalhas.com.br/quentes/466602/tj-df-mantem-condenacao-de-mulher-que-arrastou-cao-pela-coleira"/>
     <summary>TJ/DF mantém condenação de mulher que arrastou cão pela coleira</summary>
     <published>2026-10-15T17:28:06+00:00</published>
@@ -162,7 +162,7 @@
   <entry>
     <id>https://www.migalhas.com.br/quentes/466600/fabricante-do-trento-indenizara-familia-que-achou-larva-em-chocolate</id>
     <title>Fabricante do Trento indenizará família que encontrou larva em chocolate</title>
-    <updated>2026-10-15T23:05:05.193101+00:00</updated>
+    <updated>2026-10-15T23:13:38.985076+00:00</updated>
     <link href="https://www.migalhas.com.br/quentes/466600/fabricante-do-trento-indenizara-familia-que-achou-larva-em-chocolate"/>
     <summary>Fabricante do Trento indenizará família que encontrou larva em chocolate</summary>
     <published>2026-10-15T17:30:00+00:00</published>
@@ -170,7 +170,7 @@
   <entry>
     <id>https://www.migalhas.com.br/quentes/466624/stf-afasta-burla-a-concurso-e-valida-reestruturacao-de-cargos-no-ibama</id>
     <title>STF afasta burla a concurso e valida lei que reestruturou cargos no Ibama</title>
-    <updated>2026-10-15T23:05:05.192994+00:00</updated>
+    <updated>2026-10-15T23:13:38.984946+00:00</updated>
     <link href="https://www.migalhas.com.br/quentes/466624/stf-afasta-burla-a-concurso-e-valida-reestruturacao-de-cargos-no-ibama"/>
     <summary>STF afasta burla a concurso e valida lei que reestruturou cargos no Ibama</summary>
     <published>2026-10-15T17:43:46+00:00</published>
@@ -178,7 +178,7 @@
   <entry>
     <id>https://www.migalhas.com.br/quentes/466612/obra-sobre-modulacao-de-efeitos-tributarios-sera-lancada-em-sao-paulo</id>
     <title>Obra sobre modulação de efeitos tributários será lançada em São Paulo</title>
-    <updated>2026-10-15T23:05:05.192885+00:00</updated>
+    <updated>2026-10-15T23:13:38.984827+00:00</updated>
     <link href="https://www.migalhas.com.br/quentes/466612/obra-sobre-modulacao-de-efeitos-tributarios-sera-lancada-em-sao-paulo"/>
     <summary>Obra sobre modulação de efeitos tributários será lançada em São Paulo</summary>
     <published>2026-10-15T18:04:08+00:00</published>
@@ -186,7 +186,7 @@
   <entry>
     <id>https://www.migalhas.com.br/quentes/466496/tj-rj-reserva-credito-a-empresa-antes-de-execucao-trabalhista</id>
     <title>TJ/RJ reserva crédito a empresa antes de execução trabalhista contra devedor</title>
-    <updated>2026-10-15T23:05:05.192776+00:00</updated>
+    <updated>2026-10-15T23:13:38.984702+00:00</updated>
     <link href="https://www.migalhas.com.br/quentes/466496/tj-rj-reserva-credito-a-empresa-antes-de-execucao-trabalhista"/>
     <summary>TJ/RJ reserva crédito a empresa antes de execução trabalhista contra devedor</summary>
     <published>2026-10-15T18:11:25+00:00</published>
@@ -194,7 +194,7 @@
   <entry>
     <id>https://www.migalhas.com.br/quentes/466616/advogadas-analisam-resolucao-da-cvm-que-atualiza-regras-para-fidcs</id>
     <title>Advogadas analisam nova resolução da CVM que atualiza regras para FIDCs</title>
-    <updated>2026-10-15T23:05:05.192665+00:00</updated>
+    <updated>2026-10-15T23:13:38.984551+00:00</updated>
     <link href="https://www.migalhas.com.br/quentes/466616/advogadas-analisam-resolucao-da-cvm-que-atualiza-regras-para-fidcs"/>
     <summary>Advogadas analisam nova resolução da CVM que atualiza regras para FIDCs</summary>
     <published>2026-10-15T18:27:40+00:00</published>
@@ -202,7 +202,7 @@
   <entry>
     <id>https://www.migalhas.com.br/quentes/466620/advogada-avalia-chance-do-brasil-liderar-exportacoes-agricolas-em-2026</id>
     <title>Advogada avalia chance do Brasil liderar exportações agrícolas em 2026</title>
-    <updated>2026-10-15T23:05:05.192552+00:00</updated>
+    <updated>2026-10-15T23:13:38.984276+00:00</updated>
     <link href="https://www.migalhas.com.br/quentes/466620/advogada-avalia-chance-do-brasil-liderar-exportacoes-agricolas-em-2026"/>
     <summary>Advogada avalia chance do Brasil liderar exportações agrícolas em 2026</summary>
     <published>2026-10-15T18:31:22+00:00</published>
@@ -210,7 +210,7 @@
   <entry>
     <id>https://www.migalhas.com.br/quentes/466623/socios-do-mattos-filho-debatem-impactos-da-nr-1-em-evento-do-cubo-itau</id>
     <title>Sócios do Mattos Filho debatem impactos da NR-1 em evento do Cubo Itaú</title>
-    <updated>2026-10-15T23:05:05.192433+00:00</updated>
+    <updated>2026-10-15T23:13:38.984159+00:00</updated>
     <link href="https://www.migalhas.com.br/quentes/466623/socios-do-mattos-filho-debatem-impactos-da-nr-1-em-evento-do-cubo-itau"/>
     <summary>Sócios do Mattos Filho debatem impactos da NR-1 em evento do Cubo Itaú</summary>
     <published>2026-10-15T18:35:30+00:00</published>
@@ -218,7 +218,7 @@
   <entry>
     <id>https://www.migalhas.com.br/quentes/466622/tecnologia-como-aliada-da-transparencia-seguranca-e-responsabilidade</id>
     <title>Tecnologia como aliada da transparência, segurança e responsabilidade</title>
-    <updated>2026-10-15T23:05:05.192288+00:00</updated>
+    <updated>2026-10-15T23:13:38.984046+00:00</updated>
     <link href="https://www.migalhas.com.br/quentes/466622/tecnologia-como-aliada-da-transparencia-seguranca-e-responsabilidade"/>
     <summary>Tecnologia como aliada da transparência, segurança e responsabilidade</summary>
     <published>2026-10-15T18:38:47+00:00</published>
@@ -226,7 +226,7 @@
   <entry>
     <id>https://www.migalhas.com.br/quentes/466607/justica-proibe-jusbrasil-de-instruir-ia-a-depreciar-escavador</id>
     <title>Justiça proíbe Jusbrasil de instruir IA a depreciar Escavador</title>
-    <updated>2026-10-15T23:05:05.192110+00:00</updated>
+    <updated>2026-10-15T23:13:38.983930+00:00</updated>
     <link href="https://www.migalhas.com.br/quentes/466607/justica-proibe-jusbrasil-de-instruir-ia-a-depreciar-escavador"/>
     <summary>Justiça proíbe Jusbrasil de instruir IA a depreciar Escavador</summary>
     <published>2026-10-15T19:32:57+00:00</published>
@@ -234,7 +234,7 @@
   <entry>
     <id>https://www.migalhas.com.br/quentes/466462/stf-derruba-cobranca-do-funrural-de-empregador-rural-anterior-a-2018</id>
     <title>STF derruba cobrança do Funrural de empregadores rurais anterior a 2018</title>
-    <updated>2026-10-15T23:05:05.191880+00:00</updated>
+    <updated>2026-10-15T23:13:38.983808+00:00</updated>
     <link href="https://www.migalhas.com.br/quentes/466462/stf-derruba-cobranca-do-funrural-de-empregador-rural-anterior-a-2018"/>
     <summary>STF derruba cobrança do Funrural de empregadores rurais anterior a 2018</summary>
     <published>2026-10-15T19:56:35+00:00</published>
@@ -242,7 +242,7 @@
   <entry>
     <id>https://www.migalhas.com.br/quentes/466622/locacao-por-temporada-tecnologia-como-aliada-da-seguranca</id>
     <title>Locação por temporada: tecnologia como aliada da transparência, segurança e responsabilidade</title>
-    <updated>2026-10-15T23:05:05.191723+00:00</updated>
+    <updated>2026-10-15T23:13:38.983674+00:00</updated>
     <link href="https://www.migalhas.com.br/quentes/466622/locacao-por-temporada-tecnologia-como-aliada-da-seguranca"/>
     <summary>Locação por temporada: tecnologia como aliada da transparência, segurança e responsabilidade</summary>
     <published>2026-10-15T19:57:01+00:00</published>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:thehack</id>
   <title>The Hack Brasil</title>
-  <updated>2026-10-15T23:05:09.182536+00:00</updated>
+  <updated>2026-10-15T23:13:43.230250+00:00</updated>
   <link href="file:///feeds/thehack.xml" rel="self"/>
   <link href="https://thehack.com.br/feed/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -10,7 +10,7 @@
   <entry>
     <id>61a53daa72e89e0048293c0c</id>
     <title>HAECHI-II: Interpol prende mais de 1000 cibercriminosos em operação envolvendo 22 países</title>
-    <updated>2026-10-15T23:05:09.185216+00:00</updated>
+    <updated>2026-10-15T23:13:43.236338+00:00</updated>
     <link href="https://www.thehack.com.br/interpol-prende-mais-de-1000-cibercriminosos/"/>
     <summary>Os cibercriminosos são acusados de furtar mais de R$ 151 milhões de vítimas de 22 países diferentes. Maior parte desse dinheiro foi recuperado</summary>
     <published>2021-11-29T21:08:00+00:00</published>
@@ -18,7 +18,7 @@
   <entry>
     <id>61a66e2a947ed8003b2d7c7b</id>
     <title>Que tal trabalhar na ANPD? Agência publica edital com vagas para 16 áreas diferentes</title>
-    <updated>2026-10-15T23:05:09.185095+00:00</updated>
+    <updated>2026-10-15T23:13:43.236134+00:00</updated>
     <link href="https://www.thehack.com.br/que-tal-trabalhar-na-anpd-agencia-publica-edital-vagas-para-16-areas-diferentes/"/>
     <summary>Processo seletivo é exclusivo para quem já é funcionário público, além de ser necessário morar no Distrito Federal</summary>
     <published>2021-11-30T18:42:23+00:00</published>
@@ -26,7 +26,7 @@
   <entry>
     <id>61a7e52bf997600048a91ccf</id>
     <title>FBI recupera R$ 13 milhões roubados pelo ransomware REvil</title>
-    <updated>2026-10-15T23:05:09.184938+00:00</updated>
+    <updated>2026-10-15T23:13:43.235689+00:00</updated>
     <link href="https://www.thehack.com.br/fbi-recupera-r-13-milhoes-roubados-pelo-ransomware-revil/"/>
     <summary>O REvil é um dos grupos cibercriminosos mais bem sucedidos. Mas império do ransomware enfrenta ruína</summary>
     <published>2021-12-01T21:27:20+00:00</published>
@@ -34,7 +34,7 @@
   <entry>
     <id>61a69aea947ed8003b2d7cc7</id>
     <title>Implementar 'cibersegurança em primeiro lugar' é habilitar o essencial de um negócio, revelam especialistas</title>
-    <updated>2026-10-15T23:05:09.184776+00:00</updated>
+    <updated>2026-10-15T23:13:43.235452+00:00</updated>
     <link href="https://www.thehack.com.br/implementar-ciberseguranca-em-primeiro-lugar-e-habilitar-o-essencial-de-um-negocio-revelam-especialistas/"/>
     <summary>Especialistas da CrowdStrike comentam sobre importância de alinhar a cultura do Cibersecurity First com os objetivos gerais dos negócios</summary>
     <published>2021-12-02T22:24:06+00:00</published>
@@ -42,7 +42,7 @@
   <entry>
     <id>61aab541d9cd6c003b6327cd</id>
     <title>IKEA é vítima de phishing complexo e tem seu serviço de email interno comprometido</title>
-    <updated>2026-10-15T23:05:09.184584+00:00</updated>
+    <updated>2026-10-15T23:13:43.235322+00:00</updated>
     <link href="https://www.thehack.com.br/ikea-e-vitima-de-phishing-complexo-e-tem-seu-servico-de-email-interno-comprometido/"/>
     <summary>Especialista revela como programas de conscientização podem ajudar empresas a não serem vítimas de phishings</summary>
     <published>2021-12-06T10:00:00+00:00</published>
@@ -50,7 +50,7 @@
   <entry>
     <id>61ae94ebb5b6f1003b6e59f1</id>
     <title>Empresas novas possuem 400% mais chances de serem vítimas de fraude, revela estudo</title>
-    <updated>2026-10-15T23:05:09.184312+00:00</updated>
+    <updated>2026-10-15T23:13:43.235170+00:00</updated>
     <link href="https://www.thehack.com.br/empresas-novas-possuem-400-mais-chances-de-serem-vitimas-de-fraude/"/>
     <summary>Estudo interno da ClearSale revela que cibercriminosos preferem as empresas que foram criadas durante a pandemia, por serem menos preparadas para o trabalho remoto</summary>
     <published>2021-12-06T23:10:33+00:00</published>
@@ -58,7 +58,7 @@
   <entry>
     <id>61afba22354417003bbb7e45</id>
     <title>Microsoft captura 42 domínios utilizados pelo governo da China para ciberespionagem internacional</title>
-    <updated>2026-10-15T23:05:09.184097+00:00</updated>
+    <updated>2026-10-15T23:13:43.234370+00:00</updated>
     <link href="https://www.thehack.com.br/microsoft-captura-42-dominios-utilizados-pelo-governo-da-china-para-ciberespionagem-internacional/"/>
     <summary>Ação de interceptação foi autorizada pela Justiça dos EUA. O tráfego desses sites está sendo redirecionado para páginas seguras, informa empresa</summary>
     <published>2021-12-07T20:00:30+00:00</published>
@@ -66,7 +66,7 @@
   <entry>
     <id>61b0bd3b354417003bbb7ea1</id>
     <title>Autointitulado criador do Bitcoin é condenado a pagar U$ 100 milhões para família de ex-parceiro</title>
-    <updated>2026-10-15T23:05:09.183684+00:00</updated>
+    <updated>2026-10-15T23:13:43.233929+00:00</updated>
     <link href="https://www.thehack.com.br/autointitulado-criador-do-bitcoin-e-condenado-a-pagar-u-100-milhoes-para-familia-de-ex-parceiro/"/>
     <summary>Família do ex colega afirma que o "criador do Bitcoin" teria furtado unidades da criptomoeda, que mineraram juntos</summary>
     <published>2021-12-08T14:32:06+00:00</published>
@@ -74,7 +74,7 @@
   <entry>
     <id>61ae7f73b5b6f1003b6e5969</id>
     <title>Segurança oferecida pelos provedores de nuvem não é suficiente; mas é mais fácil do que parece</title>
-    <updated>2026-10-15T23:05:09.183542+00:00</updated>
+    <updated>2026-10-15T23:13:43.233416+00:00</updated>
     <link href="https://www.thehack.com.br/seguranca-oferecida-pelos-provedores-de-nuvem-nao-e-suficiente-mas-e-mais-facil-do-que-parece/"/>
     <summary>Conheça a solução ideal para proteção de ambientem de trabalho em nuvem</summary>
     <published>2021-12-08T18:15:26+00:00</published>
@@ -82,7 +82,7 @@
   <entry>
     <id>61b3e8589ab335003be3065f</id>
     <title>As palavras que levaram o presidente da SaferNet ser espionado, ameaçado e deixar o país</title>
-    <updated>2026-10-15T23:05:09.183380+00:00</updated>
+    <updated>2026-10-15T23:13:43.232858+00:00</updated>
     <link href="https://www.thehack.com.br/as-palavras-que-levaram-o-presidente-da-safernet-ser-espionado-ameacado-e-deixar-o-pais/"/>
     <summary>Thiago Tavares começou a ser ameaçado, foi infectado com o spyware Pegasus e teve que deixar o país após uma apresentação de menos de 30 minutos em um seminário do TSE</summary>
     <published>2021-12-11T16:14:00+00:00</published>
@@ -90,7 +90,7 @@
   <entry>
     <id>61bce909345feb00480106e0</id>
     <title>Black Friday 2021 não vende, mas ataques cibernéticos dispararam</title>
-    <updated>2026-10-15T23:05:09.183257+00:00</updated>
+    <updated>2026-10-15T23:13:43.232429+00:00</updated>
     <link href="https://www.thehack.com.br/black-friday-2021-nao-vende-mas-ataques-ciberneticos-dispararam/"/>
     <summary>Relatório "Principais crimes digitais da Black Friday 2021", da Axur, identificou aumento de tentativas de fraude, mesmo com queda brusca no número de vendas durante a Black Friday e Cyber Monday</summary>
     <published>2021-12-20T10:00:00+00:00</published>
@@ -98,7 +98,7 @@
   <entry>
     <id>62176f893fe3f1004db53bc5</id>
     <title>SE Labs elege a plataforma Falcon, da CrowdStrike, como melhor proteção de endpoint de 2021</title>
-    <updated>2026-10-15T23:05:09.183137+00:00</updated>
+    <updated>2026-10-15T23:13:43.232221+00:00</updated>
     <link href="https://www.thehack.com.br/se-labs-elege-a-plataforma-falcon-da-crowdstrike-como-melhor-protecao-de-endpoint-de-2021/"/>
     <summary>Conceituado laboratório independente também concedeu a classificação AAA, mais alta possível, em seu recente relatório sobre ferramentas corporativas de defesa.</summary>
     <published>2022-02-24T12:02:52+00:00</published>
@@ -106,7 +106,7 @@
   <entry>
     <id>6270b145fb32eb003d6fc1ec</id>
     <title>Fraudes em reconhecimento facial? Sim, elas já existem!</title>
-    <updated>2026-10-15T23:05:09.183013+00:00</updated>
+    <updated>2026-10-15T23:13:43.231535+00:00</updated>
     <link href="https://www.thehack.com.br/fraudes-em-reconhecimento-facial-sim-elas-ja-existem/"/>
     <summary>Para contornar golpes, plataformas de autenticação precisam trabalhar com provas de vida.</summary>
     <published>2022-05-04T12:00:00+00:00</published>
@@ -114,7 +114,7 @@
   <entry>
     <id>6264cd2a0c3fe5003db304b7</id>
     <title>Fim das senhas: autenticação passwordless já é realidade</title>
-    <updated>2026-10-15T23:05:09.182886+00:00</updated>
+    <updated>2026-10-15T23:13:43.231041+00:00</updated>
     <link href="https://www.thehack.com.br/fim-das-senhas-autenticacao-passwordless-ja-e-realidade/"/>
     <summary>Plataforma Secure Access by Duo, da Cisco, passa a suportar login sem o uso das velhas palavras-passe.</summary>
     <published>2022-05-09T12:00:00+00:00</published>
@@ -122,7 +122,7 @@
   <entry>
     <id>6264d5e50c3fe5003db3050e</id>
     <title>Programa gratuito quer capacitar novos talentos em cibersegurança</title>
-    <updated>2026-10-15T23:05:09.182736+00:00</updated>
+    <updated>2026-10-15T23:13:43.230547+00:00</updated>
     <link href="https://www.thehack.com.br/programa-gratuito-quer-capacitar-novos-talentos-em-ciberseguranca/"/>
     <summary>A maratona de três semanas vai oferecer, sem custo algum, o curso “Fundamentos em Cibersegurança” da Cisco Networking Academy.</summary>
     <published>2022-05-16T12:00:00+00:00</published>

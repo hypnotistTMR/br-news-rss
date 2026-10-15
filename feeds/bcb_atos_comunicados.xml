@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:bcb_atos_comunicados</id>
   <title>Banco Central - Atos e Comunicados</title>
-  <updated>2026-10-15T23:05:01.143296+00:00</updated>
+  <updated>2026-10-15T23:13:31.953621+00:00</updated>
   <link href="file:///feeds/bcb_atos_comunicados.xml" rel="self"/>
   <link href="https://www.bcb.gov.br/api/feed/app/demaisnormativos/atosecomunicados?ano=2026" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -10,7 +10,7 @@
   <entry>
     <id>demaisnormativos_136519</id>
     <title>BC - Comunicado N° 46.119 de 14/10/2026</title>
-    <updated>2026-10-15T23:05:01.150189+00:00</updated>
+    <updated>2026-10-15T23:13:31.956634+00:00</updated>
     <link href="https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Comunicado&amp;numero=46119"/>
     <summary>Divulga a realização de leilão de Swap Cambial Tradicional para fins de rolagem</summary>
     <published>2026-10-14T11:30:15-03:00</published>
@@ -18,7 +18,7 @@
   <entry>
     <id>demaisnormativos_136520</id>
     <title>BC - Comunicado N° 46.120 de 14/10/2026</title>
-    <updated>2026-10-15T23:05:01.149357+00:00</updated>
+    <updated>2026-10-15T23:13:31.956529+00:00</updated>
     <link href="https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Comunicado&amp;numero=46120"/>
     <summary>Cancelamento de Leilão de Swap Cambial Tradicional</summary>
     <published>2026-10-14T11:51:21-03:00</published>
@@ -26,7 +26,7 @@
   <entry>
     <id>demaisnormativos_136521</id>
     <title>BC - Comunicado N° 46.121 de 14/10/2026</title>
-    <updated>2026-10-15T23:05:01.148800+00:00</updated>
+    <updated>2026-10-15T23:13:31.956414+00:00</updated>
     <link href="https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Comunicado&amp;numero=46121"/>
     <summary>Cancelamento de Leilão de Swap Cambial Tradicional</summary>
     <published>2026-10-14T11:51:22-03:00</published>
@@ -34,7 +34,7 @@
   <entry>
     <id>demaisnormativos_136522</id>
     <title>BC - Comunicado N° 46.122 de 14/10/2026</title>
-    <updated>2026-10-15T23:05:01.148258+00:00</updated>
+    <updated>2026-10-15T23:13:31.956152+00:00</updated>
     <link href="https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Comunicado&amp;numero=46122"/>
     <summary>Divulga nome de pessoas com interesse em assumir a condição de controladores de banco múltiplo, conforme consta do pedido de autorização para funcionamento de 25 de setembro de 2026.</summary>
     <published>2026-10-14T11:54:03-03:00</published>
@@ -42,7 +42,7 @@
   <entry>
     <id>demaisnormativos_136523</id>
     <title>BC - Comunicado N° 46.123 de 14/10/2026</title>
-    <updated>2026-10-15T23:05:01.147760+00:00</updated>
+    <updated>2026-10-15T23:13:31.955764+00:00</updated>
     <link href="https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Comunicado&amp;numero=46123"/>
     <summary>Divulga condições para a realização de operações compromissadas com instituições financeiras participantes do módulo Oferta Pública (Ofpub).</summary>
     <published>2026-10-14T18:30:17-03:00</published>
@@ -50,7 +50,7 @@
   <entry>
     <id>demaisnormativos_136524</id>
     <title>BC - Comunicado N° 46.124 de 14/10/2026</title>
-    <updated>2026-10-15T23:05:01.147204+00:00</updated>
+    <updated>2026-10-15T23:13:31.955352+00:00</updated>
     <link href="https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Comunicado&amp;numero=46124"/>
     <summary>Divulga as condições de oferta pública para a realização de operações de swap para fins de rolagem do vencimento de 03/11/2026</summary>
     <published>2026-10-14T18:33:26-03:00</published>
@@ -58,7 +58,7 @@
   <entry>
     <id>demaisnormativos_136525</id>
     <title>BC - Comunicado N° 46.125 de 15/10/2026</title>
-    <updated>2026-10-15T23:05:01.146281+00:00</updated>
+    <updated>2026-10-15T23:13:31.954867+00:00</updated>
     <link href="https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Comunicado&amp;numero=46125"/>
     <summary>Divulga nome aprovado de pessoas eleitas/nomeadas para cargos de órgãos estatutários ou contratuais de sociedades autorizadas a funcionar pelo Banco Central do Brasil.</summary>
     <published>2026-10-15T08:50:07-03:00</published>
@@ -66,7 +66,7 @@
   <entry>
     <id>demaisnormativos_136526</id>
     <title>BC - Comunicado N° 46.126 de 15/10/2026</title>
-    <updated>2026-10-15T23:05:01.145646+00:00</updated>
+    <updated>2026-10-15T23:13:31.954468+00:00</updated>
     <link href="https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Comunicado&amp;numero=46126"/>
     <summary>Divulga, para fins de recebimento de eventuais objeções, nomes de pessoas eleitas ou nomeadas para ocupar cargos de administração em instituições autorizadas a funcionar</summary>
     <published>2026-10-15T08:51:02-03:00</published>
@@ -74,7 +74,7 @@
   <entry>
     <id>demaisnormativos_136527</id>
     <title>BC - Comunicado N° 46.127 de 15/10/2026</title>
-    <updated>2026-10-15T23:05:01.144378+00:00</updated>
+    <updated>2026-10-15T23:13:31.954106+00:00</updated>
     <link href="https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Comunicado&amp;numero=46127"/>
     <summary>Divulga a Taxa Básica Financeira (TBF), o Redutor &amp;quot;R&amp;quot; e a Taxa Referencial (TR) relativos a 14 de outubro de 2026.</summary>
     <published>2026-10-15T09:01:33-03:00</published>
@@ -82,7 +82,7 @@
   <entry>
     <id>demaisnormativos_136528</id>
     <title>BC - Comunicado N° 46.128 de 15/10/2026</title>
-    <updated>2026-10-15T23:05:01.143610+00:00</updated>
+    <updated>2026-10-15T23:13:31.953886+00:00</updated>
     <link href="https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Comunicado&amp;numero=46128"/>
     <summary>Divulga condições para a realização de operações compromissadas com instituições financeiras participantes do módulo Oferta Pública (Ofpub).</summary>
     <published>2026-10-15T18:30:12-03:00</published>

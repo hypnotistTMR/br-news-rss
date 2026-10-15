@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>urn:us-news-rss:cointelegraph_br</id>
   <title>Cointelegraph Brasil</title>
-  <updated>2026-10-15T23:05:09.416224+00:00</updated>
+  <updated>2026-10-15T23:13:43.448531+00:00</updated>
   <link href="file:///feeds/cointelegraph_br.xml" rel="self"/>
   <link href="https://cointelegraph.com.br/rss" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -10,7 +10,7 @@
   <entry>
     <id>https://cointelegraph.com.br/news/qivalis-authorization-dutch-central-bank-euro-stablecoin</id>
     <title>Qivalis obtém licença holandesa de instituição de moeda eletrônica para stablecoin em euro</title>
-    <updated>2026-10-15T23:05:09.439776+00:00</updated>
+    <updated>2026-10-15T23:13:43.455658+00:00</updated>
     <link href="https://cointelegraph.com.br/news/qivalis-authorization-dutch-central-bank-euro-stablecoin?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
     <summary>A Qivalis afirmou que a autorização como Instituição de Moeda Eletrônica permite o lançamento de uma stablecoin denominada em euros, com emissão planejada para os próximos meses, sujeita a requisitos adicionais do MiCA.</summary>
     <published>2026-10-14T12:53:41+00:00</published>
@@ -18,7 +18,7 @@
   <entry>
     <id>https://cointelegraph.com.br/news/canada-crypto-remittances-asia-surge-chainalysis</id>
     <title>Remessas de cripto do Canadá para países asiáticos disparam 141%, para US$ 2,36 bilhões: Chainalysis</title>
-    <updated>2026-10-15T23:05:09.439565+00:00</updated>
+    <updated>2026-10-15T23:13:43.454697+00:00</updated>
     <link href="https://cointelegraph.com.br/news/canada-crypto-remittances-asia-surge-chainalysis?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
     <summary>Transferências de cripto do tamanho de remessas do Canadá para três países asiáticos chegaram a US$ 2,36 bilhões, enquanto as transferências para as Filipinas sozinhas subiram 28%, para US$ 61 milhões.</summary>
     <published>2026-10-14T13:00:00+00:00</published>
@@ -26,7 +26,7 @@
   <entry>
     <id>https://cointelegraph.com.br/magazine/bunker-mode-wont-protect-your-crypto-critics-say</id>
     <title>“Modo bunker” não protegerá sua cripto, dizem críticos</title>
-    <updated>2026-10-15T23:05:09.439219+00:00</updated>
+    <updated>2026-10-15T23:13:43.454506+00:00</updated>
     <link href="https://cointelegraph.com.br/magazine/bunker-mode-wont-protect-your-crypto-critics-say?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
     <summary>Mesmo que a previsão de Justin Drake de que a IA poderia quebrar a criptografia se confirme, críticos dizem que o “modo bunker” é uma sugestão impraticável e pouco provável de proteger sua cripto.</summary>
     <published>2026-10-14T13:30:00+00:00</published>
@@ -34,7 +34,7 @@
   <entry>
     <id>https://cointelegraph.com.br/markets/bitcoin-price-dips-yields-surge-as-high-oil-prices-spike-us-cpi-inflation</id>
     <title>Preço do Bitcoin cai abaixo de US$ 82 mil com alta dos preços do petróleo impulsionando a inflação do CPI dos EUA</title>
-    <updated>2026-10-15T23:05:09.438029+00:00</updated>
+    <updated>2026-10-15T23:13:43.453985+00:00</updated>
     <link href="https://cointelegraph.com.br/markets/bitcoin-price-dips-yields-surge-as-high-oil-prices-spike-us-cpi-inflation?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
     <summary>O Bitcoin caiu abaixo de US$ 82.000, enquanto os rendimentos dos títulos buscavam novas máximas de 24 anos devido à inflação elevada do CPI dos EUA.</summary>
     <published>2026-10-14T14:21:15+00:00</published>
@@ -42,7 +42,7 @@
   <entry>
     <id>https://cointelegraph.com.br/news/standard-chartered-stablecoin-forecast-2030-market-growth</id>
     <title>Standard Chartered eleva para US$ 2 trilhões até 2030 a previsão para as stablecoins com o crescimento dos volumes de transações</title>
-    <updated>2026-10-15T23:05:09.437558+00:00</updated>
+    <updated>2026-10-15T23:13:43.453835+00:00</updated>
     <link href="https://cointelegraph.com.br/news/standard-chartered-stablecoin-forecast-2030-market-growth?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
     <summary>O banco identificou quatro mercados distintos de stablecoins, com a USDC liderando os pagamentos e as transações entre agentes de IA à medida que a concorrência pelo rendimento das reservas se intensifica.</summary>
     <published>2026-10-14T16:26:31+00:00</published>
@@ -50,7 +50,7 @@
   <entry>
     <id>https://cointelegraph.com.br/news/fbi-brooklyn-crypto-scam-112-servers-241-websites</id>
     <title>Autoridades dos EUA desmantelam rede de golpes com criptomoedas que roubou dezenas de milhões</title>
-    <updated>2026-10-15T23:05:09.436993+00:00</updated>
+    <updated>2026-10-15T23:13:43.453681+00:00</updated>
     <link href="https://cointelegraph.com.br/news/fbi-brooklyn-crypto-scam-112-servers-241-websites?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
     <summary>Promotores do Brooklyn e o FBI apreenderam 112 servidores e fecharam 241 sites ligados a golpes de investimento que tinham como alvo americanos falantes de russo.</summary>
     <published>2026-10-14T17:56:45+00:00</published>
@@ -58,7 +58,7 @@
   <entry>
     <id>https://cointelegraph.com.br/news/eba-circle-usdc-stablecoin-significant-token-mica</id>
     <title>Autoridade da UE classifica o USDC da Circle como “significativo” sob o MiCA</title>
-    <updated>2026-10-15T23:05:09.433117+00:00</updated>
+    <updated>2026-10-15T23:13:43.453516+00:00</updated>
     <link href="https://cointelegraph.com.br/news/eba-circle-usdc-stablecoin-significant-token-mica?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
     <summary>A segunda maior stablecoin em capitalização de mercado será supervisionada pelas autoridades francesas e da UE após ser classificada como “token de dinheiro eletrônico significativo”.</summary>
     <published>2026-10-14T19:03:52+00:00</published>
@@ -66,7 +66,7 @@
   <entry>
     <id>https://cointelegraph.com.br/news/cci-ba-fight-illinois-crypto-tax-pause</id>
     <title>Organizações se unem para combater imposto sobre cripto em Illinois após pausa de seis meses</title>
-    <updated>2026-10-15T23:05:09.424793+00:00</updated>
+    <updated>2026-10-15T23:13:43.453331+00:00</updated>
     <link href="https://cointelegraph.com.br/news/cci-ba-fight-illinois-crypto-tax-pause?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
     <summary>Autoridades de Illinois já concordaram em adiar a implementação de um imposto de 0,2% sobre ativos cripto, mas organizações alinhadas ao setor pressionam por um julgamento sumário sobre o mérito.</summary>
     <published>2026-10-14T20:56:22+00:00</published>
@@ -74,7 +74,7 @@
   <entry>
     <id>https://cointelegraph.com.br/news/vaneck-seeks-to-withdraw-application-for-lido-staked-ether-etf</id>
     <title>VanEck busca retirar pedido de ETF de Ether em staking da Lido</title>
-    <updated>2026-10-15T23:05:09.424618+00:00</updated>
+    <updated>2026-10-15T23:13:43.453095+00:00</updated>
     <link href="https://cointelegraph.com.br/news/vaneck-seeks-to-withdraw-application-for-lido-staked-ether-etf?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
     <summary>A VanEck apresentou inicialmente uma declaração de registro S-1 para o fundo negociado em bolsa em outubro do ano passado.</summary>
     <published>2026-10-15T01:21:52+00:00</published>
@@ -82,7 +82,7 @@
   <entry>
     <id>https://cointelegraph.com.br/markets/bitcoin-miners-plunge-up-to-13-in-wall-streets-worst-selloff-since-july</id>
     <title>Mineradoras de Bitcoin despencam até 13% na pior liquidação de Wall Street desde julho</title>
-    <updated>2026-10-15T23:05:09.424241+00:00</updated>
+    <updated>2026-10-15T23:13:43.452872+00:00</updated>
     <link href="https://cointelegraph.com.br/markets/bitcoin-miners-plunge-up-to-13-in-wall-streets-worst-selloff-since-july?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
     <summary>TeraWulf, Core Scientific, Cipher Mining e IREN perderam mais de 12% cada, enquanto a inflação mais alta atingiu empresas de infraestrutura de IA.</summary>
     <published>2026-10-15T03:29:22+00:00</published>
@@ -90,7 +90,7 @@
   <entry>
     <id>https://cointelegraph.com.br/news/australia-seeks-feedback-on-crypto-platform-rules-ahead-of-2027-rollout</id>
     <title>Austrália busca contribuições sobre regras para plataformas de cripto antes da implementação em 2027</title>
-    <updated>2026-10-15T23:05:09.423882+00:00</updated>
+    <updated>2026-10-15T23:13:43.452725+00:00</updated>
     <link href="https://cointelegraph.com.br/news/australia-seeks-feedback-on-crypto-platform-rules-ahead-of-2027-rollout?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
     <summary>A consulta ocorre após a aprovação pelo Parlamento da legislação sobre ativos digitais em abril, enquanto o regulador de valores mobiliários da Austrália propõe padrões de capital, custódia e negociação para plataformas de cripto.</summary>
     <published>2026-10-15T05:00:40+00:00</published>
@@ -98,7 +98,7 @@
   <entry>
     <id>https://cointelegraph.com.br/news/south-korea-cybersecurity-overhaul-crypto-exchanges</id>
     <title>Coreia do Sul planeja reforma da cibersegurança após ataques atingirem bancos e empresas de criptomoedas</title>
-    <updated>2026-10-15T23:05:09.423471+00:00</updated>
+    <updated>2026-10-15T23:13:43.452563+00:00</updated>
     <link href="https://cointelegraph.com.br/news/south-korea-cybersecurity-overhaul-crypto-exchanges?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
     <summary>A Coreia do Sul propõe avaliações de cibersegurança mais rigorosas depois que uma revisão identificou deficiências de segurança em 130 empresas financeiras.</summary>
     <published>2026-10-15T05:52:21+00:00</published>
@@ -106,7 +106,7 @@
   <entry>
     <id>https://cointelegraph.com.br/markets/bitcoin-etf-outflow-btc-below-82k</id>
     <title>ETFs de Bitcoin registram saídas de US$ 261 milhões, enquanto fundos de XRP contrariam tendência semanal</title>
-    <updated>2026-10-15T23:05:09.422661+00:00</updated>
+    <updated>2026-10-15T23:13:43.452425+00:00</updated>
     <link href="https://cointelegraph.com.br/markets/bitcoin-etf-outflow-btc-below-82k?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
     <summary>Os ETFs de Bitcoin registraram US$ 151 milhões em saídas líquidas desde segunda-feira, depois de os investidores retirarem US$ 681 milhões na semana anterior.</summary>
     <published>2026-10-15T07:23:43+00:00</published>
@@ -114,7 +114,7 @@
   <entry>
     <id>https://cointelegraph.com.br/news/babylon-native-bitcoin-collateral-aave-v4-proposal</id>
     <title>Babylon avança com proposta de empréstimos nativos de Bitcoin na Aave V4</title>
-    <updated>2026-10-15T23:05:09.422287+00:00</updated>
+    <updated>2026-10-15T23:13:43.452296+00:00</updated>
     <link href="https://cointelegraph.com.br/news/babylon-native-bitcoin-collateral-aave-v4-proposal?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
     <summary>A proposta da Babylon para levar colateral nativo de Bitcoin à Aave V4 entrou em uma nova etapa de governança, mas ainda são necessárias novas votações e análises de segurança antes do lançamento.</summary>
     <published>2026-10-15T09:14:28+00:00</published>
@@ -122,7 +122,7 @@
   <entry>
     <id>https://cointelegraph.com.br/news/thailand-crypto-etfs-slow-start-new-rules-coinshares</id>
     <title>ETFs de criptomoedas da Tailândia podem ter início lento apesar de novas regras, diz CoinShares</title>
-    <updated>2026-10-15T23:05:09.421946+00:00</updated>
+    <updated>2026-10-15T23:13:43.452172+00:00</updated>
     <link href="https://cointelegraph.com.br/news/thailand-crypto-etfs-slow-start-new-rules-coinshares?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
     <summary>As novas regras da Tailândia para ETFs de Bitcoin e Ether entram em vigor na sexta-feira, mas a CoinShares espera entradas iniciais modestas, já que as opções de investimento existentes competem pela demanda.</summary>
     <published>2026-10-15T09:36:20+00:00</published>
@@ -130,7 +130,7 @@
   <entry>
     <id>https://cointelegraph.com.br/markets/bitcoin-dips-korea-kospi-lowest-close-since-april</id>
     <title>Bitcoin recua para US$ 80,1 mil enquanto o KOSPI fecha no nível mais baixo desde abril</title>
-    <updated>2026-10-15T23:05:09.421577+00:00</updated>
+    <updated>2026-10-15T23:13:43.452043+00:00</updated>
     <link href="https://cointelegraph.com.br/markets/bitcoin-dips-korea-kospi-lowest-close-since-april?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
     <summary>O preço do Bitcoin continuou sofrendo contágio da liquidação das ações de tecnologia sul-coreanas depois que o índice KOSPI caiu 7,5% na quinta-feira.</summary>
     <published>2026-10-15T09:48:07+00:00</published>
@@ -138,7 +138,7 @@
   <entry>
     <id>https://cointelegraph.com.br/news/bitget-liquid-exploits-push-crypto-hacks-near-12b-q3</id>
     <title>Bitget e Liquid impulsionam hacks de cripto para perto de US$ 1,2 bilhão no 3º trimestre</title>
-    <updated>2026-10-15T23:05:09.421235+00:00</updated>
+    <updated>2026-10-15T23:13:43.451896+00:00</updated>
     <link href="https://cointelegraph.com.br/news/bitget-liquid-exploits-push-crypto-hacks-near-12b-q3?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
     <summary>Fornecedores, ferramentas de desenvolvimento e componentes de infraestrutura comprometidos fora das auditorias de segurança foram responsáveis por cerca de 77% das perdas totais do trimestre, segundo a Hacken.</summary>
     <published>2026-10-15T10:00:00+00:00</published>
@@ -146,7 +146,7 @@
   <entry>
     <id>https://cointelegraph.com.br/news/starknet-vote-ethereum-l2-exit-post-quantum-l1</id>
     <title>Starknet abre votação sobre possível saída da L2 da Ethereum devido a riscos quânticos</title>
-    <updated>2026-10-15T23:05:09.420888+00:00</updated>
+    <updated>2026-10-15T23:13:43.451725+00:00</updated>
     <link href="https://cointelegraph.com.br/news/starknet-vote-ethereum-l2-exit-post-quantum-l1?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
     <summary>A Starknet pergunta aos detentores de STRK se devem explorar a transformação em uma blockchain independente de camada 1 para reduzir sua dependência do cronograma de atualizações da Ethereum relacionado à segurança quântica.</summary>
     <published>2026-10-15T10:22:00+00:00</published>
@@ -154,7 +154,7 @@
   <entry>
     <id>https://cointelegraph.com.br/news/white-house-crypto-council-director-steps-down</id>
     <title>Chefe do Conselho de Cripto da Casa Branca, Patrick Witt, deixa o cargo</title>
-    <updated>2026-10-15T23:05:09.420517+00:00</updated>
+    <updated>2026-10-15T23:13:43.450915+00:00</updated>
     <link href="https://cointelegraph.com.br/news/white-house-crypto-council-director-steps-down?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
     <summary>A saída de Witt deixa uma lacuna de liderança no Conselho de Cripto da Casa Branca e marca a quarta saída de alto perfil do grupo consultivo.</summary>
     <published>2026-10-15T10:41:09+00:00</published>
@@ -162,7 +162,7 @@
   <entry>
     <id>https://cointelegraph.com.br/news/ledger-new-hardware-device-asia-wallet-tampering</id>
     <title>Resposta da Ledger à adulteração de carteiras custa US$ 849 e será enviada no próximo ano</title>
-    <updated>2026-10-15T23:05:09.420197+00:00</updated>
+    <updated>2026-10-15T23:13:43.450753+00:00</updated>
     <link href="https://cointelegraph.com.br/news/ledger-new-hardware-device-asia-wallet-tampering?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
     <summary>O novo Atom da Ledger combina segurança de carteira de criptomoedas com aplicativos do dia a dia e deve começar a ser enviado no verão de 2027, enquanto a empresa investiga carteiras adulteradas vendidas na Ásia.</summary>
     <published>2026-10-15T12:00:00+00:00</published>
@@ -170,7 +170,7 @@
   <entry>
     <id>https://cointelegraph.com.br/news/hex-token-erases-160m-reports-founder-schuelers-arrest</id>
     <title>Vendedores do token HEX eliminam US$ 160 milhões após relatos da prisão do fundador Richard Schueler</title>
-    <updated>2026-10-15T23:05:09.419871+00:00</updated>
+    <updated>2026-10-15T23:13:43.450585+00:00</updated>
     <link href="https://cointelegraph.com.br/news/hex-token-erases-160m-reports-founder-schuelers-arrest?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
     <summary>O preço do token HEX caiu 30% após relatos da imprensa local sobre a prisão do fundador Richard Schueler em Istambul, quase dois anos depois de a Interpol emitir um “Alerta Vermelho”.</summary>
     <published>2026-10-15T12:12:57+00:00</published>
@@ -178,7 +178,7 @@
   <entry>
     <id>https://cointelegraph.com.br/magazine/can-the-sec-and-cftcs-pro-crypto-rules-be-overturned-legal-opinion</id>
     <title>As regras pró-cripto da SEC e da CFTC podem ser anuladas? Opinião jurídica</title>
-    <updated>2026-10-15T23:05:09.419511+00:00</updated>
+    <updated>2026-10-15T23:13:43.450413+00:00</updated>
     <link href="https://cointelegraph.com.br/magazine/can-the-sec-and-cftcs-pro-crypto-rules-be-overturned-legal-opinion?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
     <summary>A SEC e a CFTC emitiram recentemente uma série de regras pró-cripto. Mas essas regras resistirão na Justiça e poderão ser facilmente revertidas pelo “exército anticripto”?</summary>
     <published>2026-10-15T13:30:00+00:00</published>
@@ -186,7 +186,7 @@
   <entry>
     <id>https://cointelegraph.com.br/news/nasdaq-tron-200m-atm-offering-fuel-trx-acquisitions</id>
     <title>Tron listada na Nasdaq cria oferta de ações ATM de US$ 200 milhões para financiar aquisições de TRX</title>
-    <updated>2026-10-15T23:05:09.419379+00:00</updated>
+    <updated>2026-10-15T23:13:43.450243+00:00</updated>
     <link href="https://cointelegraph.com.br/news/nasdaq-tron-200m-atm-offering-fuel-trx-acquisitions?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
     <summary>A empresa de tesouraria listada na Nasdaq detém cerca de US$ 237 milhões em tokens TRX e planeja captar capital adicional para financiar suas compras, além de sua acumulação diária.</summary>
     <published>2026-10-15T14:16:55+00:00</published>
@@ -194,7 +194,7 @@
   <entry>
     <id>https://cointelegraph.com.br/news/russia-ban-p2p-crypto-trades-july-2027</id>
     <title>Rússia proibirá negociações diretas de cripto P2P a partir de julho de 2027</title>
-    <updated>2026-10-15T23:05:09.419258+00:00</updated>
+    <updated>2026-10-15T23:13:43.450070+00:00</updated>
     <link href="https://cointelegraph.com.br/news/russia-ban-p2p-crypto-trades-july-2027?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
     <summary>A Rússia planeja proibir negociações diretas de cripto P2P a partir de 1º de julho de 2027, enquanto regras separadas já proíbem transferências de contas digitais para carteiras de autocustódia.</summary>
     <published>2026-10-15T14:22:43+00:00</published>
@@ -202,7 +202,7 @@
   <entry>
     <id>https://cointelegraph.com.br/news/mastercard-bvnk-global-money-platform-stablecoins</id>
     <title>Mastercard integra saldos de stablecoins ao sistema bancário tradicional e aos pagamentos com cartão</title>
-    <updated>2026-10-15T23:05:09.419124+00:00</updated>
+    <updated>2026-10-15T23:13:43.449892+00:00</updated>
     <link href="https://cointelegraph.com.br/news/mastercard-bvnk-global-money-platform-stablecoins?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
     <summary>O lançamento da Global Money Platform marca a primeira grande integração da Mastercard com a BVNK desde a aquisição da empresa em agosto, com a Nuvei e a Marqeta entre as primeiras empresas a adotar a plataforma.</summary>
     <published>2026-10-15T15:46:05+00:00</published>
@@ -210,7 +210,7 @@
   <entry>
     <id>https://cointelegraph.com.br/news/sweden-riksbank-digital-krona-cbdc-legislation</id>
     <title>Suécia retoma discussão sobre a coroa digital enquanto o BCE avança com os planos para o euro digital</title>
-    <updated>2026-10-15T23:05:09.418510+00:00</updated>
+    <updated>2026-10-15T23:13:43.449699+00:00</updated>
     <link href="https://cointelegraph.com.br/news/sweden-riksbank-digital-krona-cbdc-legislation?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
     <summary>O Riksbank da Suécia recomendou que os legisladores se preparem para uma possível coroa digital, citando preocupações com stablecoins em moedas estrangeiras e com o futuro dos pagamentos domésticos.</summary>
     <published>2026-10-15T16:49:59+00:00</published>
@@ -218,7 +218,7 @@
   <entry>
     <id>https://cointelegraph.com.br/news/bo-hines-donald-trump-crypto-advisor-nxum-tether-conflict</id>
     <title>Ex-conselheiro de cripto de Trump lucrou após ajudar a aprovar projeto de lei sobre stablecoins: WSJ</title>
-    <updated>2026-10-15T23:05:09.417951+00:00</updated>
+    <updated>2026-10-15T23:13:43.449463+00:00</updated>
     <link href="https://cointelegraph.com.br/news/bo-hines-donald-trump-crypto-advisor-nxum-tether-conflict?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
     <summary>O Wall Street Journal informou que uma empresa cofundada por Bo Hines se beneficiou da aprovação do projeto de lei GENIUS sobre stablecoins.</summary>
     <published>2026-10-15T17:14:45+00:00</published>
@@ -226,7 +226,7 @@
   <entry>
     <id>https://cointelegraph.com.br/news/what-happened-in-crypto-today</id>
     <title>Veja o que aconteceu hoje no universo cripto</title>
-    <updated>2026-10-15T23:05:09.417410+00:00</updated>
+    <updated>2026-10-15T23:13:43.449194+00:00</updated>
     <link href="https://cointelegraph.com.br/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
     <summary>Precisa saber o que aconteceu hoje no universo cripto? Confira as últimas notícias sobre tendências e eventos diários que impactam o preço do Bitcoin, a blockchain, a DeFi, a Web3 e a regulamentação das criptomoedas.</summary>
     <published>2026-10-15T19:37:27+00:00</published>
@@ -234,7 +234,7 @@
   <entry>
     <id>https://cointelegraph.com.br/news/binance-us-funding-valuation-billion</id>
     <title>Binance.US busca avaliação de US$ 1 bilhão em potencial rodada de financiamento de US$ 100 milhões: relatório</title>
-    <updated>2026-10-15T23:05:09.417082+00:00</updated>
+    <updated>2026-10-15T23:13:43.449006+00:00</updated>
     <link href="https://cointelegraph.com.br/news/binance-us-funding-valuation-billion?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
     <summary>A corretora de criptomoedas estaria planejando usar o financiamento adicional para recuperar participação de mercado após o acordo da Binance com autoridades dos EUA em 2023.</summary>
     <published>2026-10-15T20:21:11+00:00</published>
@@ -242,7 +242,7 @@
   <entry>
     <id>https://cointelegraph.com.br/magazine/scammer-loses-48m-stored-on-tampered-ledgers-asia-express</id>
     <title>Golpista perde US$ 4,8 milhões armazenados em dispositivos Ledger adulterados: Asia Express</title>
-    <updated>2026-10-15T23:05:09.416717+00:00</updated>
+    <updated>2026-10-15T23:13:43.448784+00:00</updated>
     <link href="https://cointelegraph.com.br/magazine/scammer-loses-48m-stored-on-tampered-ledgers-asia-express?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound"/>
     <summary>Um golpista teria perdido US$ 4,8 milhões em dinheiro roubado após armazenar os fundos em dispositivos Ledger adulterados. ETFs de Bitcoin e Ether começam a ser negociados na Tailândia, e a Coreia do Sul bloqueia 27 exchanges.</summary>
     <published>2026-10-15T22:42:58+00:00</published>

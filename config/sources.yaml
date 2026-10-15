@@ -57,13 +57,7 @@ sources:
     mode: rss
     endpoint: "https://noticias.stf.jus.br/feed/"
     priority: critical
-
-  - id: stf_portal
-    title: "STF Portal - Feed Secundário"
-    category: legal
-    mode: rss
-    endpoint: "https://portal.stf.jus.br/feed/"
-    priority: high
+    notes: "noticias.stf.jus.br版（portal版はHTML/XML混在のため削除）"
 
   # ============================================================
   # 金融・中央銀行
