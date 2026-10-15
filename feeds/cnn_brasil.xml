@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>urn:us-news-rss:cnn_brasil</id>
+  <title>CNN Brasil</title>
+  <updated>2026-10-15T22:52:01.957720+00:00</updated>
+  <link href="file:///feeds/cnn_brasil.xml" rel="self"/>
+  <link href="https://www.cnnbrasil.com.br/feed/" rel="alternate"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <subtitle>Category: media / Mode: rss</subtitle>
+  <entry>
+    <id>https://www.cnnbrasil.com.br/economia//</id>
+    <title>“Engessar” escala de trabalho terá impacto de custos, diz Paulo Skaf</title>
+    <updated>2026-10-15T22:52:01.959146+00:00</updated>
+    <link href="https://www.cnnbrasil.com.br/economia/money/macroeconomia/engessar-escala-de-trabalho-tera-impacto-de-custos-diz-paulo-skaf/"/>
+    <summary>Para o presidente da Fiesp, medida foi aprovada no "calor eleitoral" e terá impacto de custos ao empresariado e pressão inflacionária</summary>
+    <published>2026-10-15T21:09:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnnbrasil.com.br/economia/criptomoedas-bitcoin-opera-em-alta-e-retoma-os-us-82-mil-com-recuperacao-limitada/</id>
+    <title>Bitcoin sobe, mas recuperação é limitada por expectativa de Fed mais rígido</title>
+    <updated>2026-10-15T22:52:01.959016+00:00</updated>
+    <link href="https://www.cnnbrasil.com.br/economia/money/mercado/bitcoin-sobe-mas-recuperacao-e-limitada-por-expectativa-de-fed-mais-rigido/"/>
+    <summary>Segundo a plataforma Binance, Criptomoeda operava em alta de 0,83%, a US$ 82.469,62, enquanto o Ethereum subia 0,91%, a US$ 2.451,79</summary>
+    <published>2026-10-15T21:13:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnnbrasil.com.br/economia/ceo-da-nvidia-diz-que-nao-precisara-resgatar-a-coreweave/</id>
+    <title>CEO da Nvidia diz que não precisará resgatar a CoreWeave</title>
+    <updated>2026-10-15T22:52:01.958886+00:00</updated>
+    <link href="https://www.cnnbrasil.com.br/economia/money/macroeconomia/ceo-da-nvidia-diz-que-nao-precisara-resgatar-a-coreweave/"/>
+    <summary>Ações da CoreWeave e de outras empresas de computação em nuvem caíram em bloco</summary>
+    <published>2026-10-15T21:16:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnnbrasil.com.br/noticias//</id>
+    <title>Veja os resultados da rodada de abertura da Conference League</title>
+    <updated>2026-10-15T22:52:01.958679+00:00</updated>
+    <link href="https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/veja-os-resultados-da-rodada-de-abertura-da-conference-league/"/>
+    <summary>Clubes como Brighton, Monaco e Atalanta estrearam com vitórias no torneio europeu nesta quinta-feira (15)</summary>
+    <published>2026-10-15T21:19:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnnbrasil.com.br/economia/sicoob-entra-em-mercados-de-capitais-e-capta-quase-r-1-bi-em-emissao-de-letras-financeiras/</id>
+    <title>Sicoob estreia no mercado de capitais com captação próxima de R$ 1 bi</title>
+    <updated>2026-10-15T22:52:01.958477+00:00</updated>
+    <link href="https://www.cnnbrasil.com.br/economia/money/negocios/sicoob-estreia-no-mercado-de-capitais-com-captacao-proxima-de-r-1-bi/"/>
+    <summary>Ofertas de intenção de investimentos somaram R$ 3,23 bilhões, mais de quatro vezes o volume inicialmente proposto, de R$ 800 milhões</summary>
+    <published>2026-10-15T21:22:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnnbrasil.com.br/economia/petroleo-fecha-sem-direcao-unica-em-meio-a-ataques-no-oriente-medio-e-aumento-da-oferta/</id>
+    <title>Petróleo fecha sem rumo único com tensão geopolítica e oferta maior</title>
+    <updated>2026-10-15T22:52:01.958348+00:00</updated>
+    <link href="https://www.cnnbrasil.com.br/economia/money/mercado/petroleo-fecha-sem-rumo-unico-com-tensao-geopolitica-e-oferta-maior/"/>
+    <summary>Brent para dezembro fechou em queda de 0,13%, a US$ 105,92 o barril; já o WTI para novembro subiu 3,03%, a US$ 97,97 o barril</summary>
+    <published>2026-10-15T21:23:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnnbrasil.com.br/economia/bolsas-de-ny-fecham-em-alta-mesmo-com-inflacao-nos-eua-e-incerteza-com-ia/</id>
+    <title>Wall Street fecha em alta apesar da inflação e das incertezas com IA</title>
+    <updated>2026-10-15T22:52:01.958199+00:00</updated>
+    <link href="https://www.cnnbrasil.com.br/economia/money/mercado/wall-street-fecha-em-alta-apesar-da-inflacao-e-das-incertezas-com-ia/"/>
+    <summary>Dow Jones subiu 1,08%, S&amp;#038;P 500 ganhou 0,33% e o Nasdaq avançou 0,08%</summary>
+    <published>2026-10-15T21:23:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnnbrasil.com.br/esportes//</id>
+    <title>Flaco López é o melhor jogador do futebol brasileiro? Veja debate</title>
+    <updated>2026-10-15T22:52:01.958062+00:00</updated>
+    <link href="https://www.cnnbrasil.com.br/esportes/futebol/palmeiras/flaco-lopez-e-o-melhor-jogador-do-futebol-brasileiro-veja-debate/"/>
+    <summary>Comentaristas do Convocação CNN debatem o desempenho do atacante do Palmeiras e sua posição entre os principais craques do Brasil em 2026</summary>
+    <published>2026-10-15T21:29:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.cnnbrasil.com.br///</id>
+    <title>Corinthians bate Colo-Colo e estreia com vitória na Libertadores Feminina</title>
+    <updated>2026-10-15T22:52:01.957905+00:00</updated>
+    <link href="https://www.cnnbrasil.com.br/esportes/futebol/corinthians/corinthians-bate-colo-colo-e-estreia-com-vitoria-na-libertadores-feminina/"/>
+    <summary>Equipe alvinegra soma os primeiros pontos no Grupo A da competição, que também conta com Santa Fe, da Colômbia, e Caracas, da Venezuela</summary>
+    <published>2026-10-15T22:42:23+00:00</published>
+  </entry>
+</feed>

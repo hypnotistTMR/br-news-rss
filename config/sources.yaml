@@ -1,0 +1,312 @@
+# 🇧🇷 Brasil - Notícias Oficiais & Especializadas
+#
+# mode:
+#   rss  - 公式RSSをそのまま集約
+#   api  - 公式JSON/HTML API → Atom生成
+#   scrape - HTMLをスクレイプ → Atom生成
+
+version: 2
+updated: "2026-10-15"
+
+defaults:
+  user_agent: "Mozilla/5.0 (BR-News-RSS-Aggregator; admin@example.com)"
+  fetch_interval_minutes: 30
+  request_timeout_sec: 20
+  max_items_per_feed: 30
+
+sources:
+
+  # ============================================================
+  # 政府・規制
+  # ============================================================
+  - id: govbr_ultimas
+    title: "gov.br - Últimas Notícias"
+    category: government
+    mode: rss
+    endpoint: "https://www.gov.br/pt-br/noticias/ultimas-noticias/ultimas-noticias/RSS"
+    priority: critical
+
+  - id: govbr_economia
+    title: "gov.br - Economia e Gestão Pública"
+    category: government
+    mode: rss
+    endpoint: "https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/RSS"
+    priority: high
+
+  - id: govbr_energia
+    title: "gov.br - Energia e Combustíveis"
+    category: government
+    mode: rss
+    endpoint: "https://www.gov.br/pt-br/noticias/energia-minerais-e-combustiveis/RSS"
+    priority: high
+
+  - id: govbr_infraestrutura
+    title: "gov.br - Infraestrutura e Transportes"
+    category: government
+    mode: rss
+    endpoint: "https://www.gov.br/pt-br/noticias/transito-e-transportes/RSS"
+    priority: medium
+
+  - id: govbr_trabalho
+    title: "gov.br - Trabalho e Previdência"
+    category: government
+    mode: rss
+    endpoint: "https://www.gov.br/pt-br/noticias/trabalho-e-previdencia/RSS"
+    priority: high
+
+  - id: govbr_saude
+    title: "gov.br - Saúde e Vigilância Sanitária"
+    category: government
+    mode: rss
+    endpoint: "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/RSS"
+    priority: high
+
+  - id: govbr_meioambiente
+    title: "gov.br - Meio Ambiente e Clima"
+    category: government
+    mode: rss
+    endpoint: "https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima/RSS"
+    priority: medium
+
+  - id: govbr_justica
+    title: "gov.br - Justiça e Segurança"
+    category: government
+    mode: rss
+    endpoint: "https://www.gov.br/pt-br/noticias/justica-e-seguranca/RSS"
+    priority: high
+
+  - id: govbr_educacao
+    title: "gov.br - Educação e Pesquisa"
+    category: government
+    mode: rss
+    endpoint: "https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/RSS"
+    priority: medium
+
+  - id: govbr_cvm
+    title: "CVM - Comissão de Valores Mobiliários"
+    category: financial
+    mode: rss
+    endpoint: "https://www.gov.br/cvm/pt-br/assuntos/noticias/RSS"
+    priority: critical
+
+  - id: govbr_mdic
+    title: "MDIC - Indústria, Comércio e Serviços"
+    category: business
+    mode: rss
+    endpoint: "https://www.gov.br/mdic/pt-br/assuntos/noticias/RSS"
+    priority: high
+
+  - id: govbr_ibama
+    title: "IBAMA - Notícias"
+    category: environment
+    mode: rss
+    endpoint: "https://www.gov.br/ibama/pt-br/assuntos/noticias/RSS"
+    priority: medium
+
+  - id: stf_noticias
+    title: "STF - Supremo Tribunal Federal"
+    category: legal
+    mode: rss
+    endpoint: "https://noticias.stf.jus.br/feed/"
+    priority: critical
+
+  # ============================================================
+  # 金融・中央銀行
+  # ============================================================
+  - id: bcb_noticias
+    title: "Banco Central do Brasil - Notícias"
+    category: financial
+    mode: rss
+    endpoint: "https://www.bcb.gov.br/api/feed/sitebcb/sitefeeds/noticias?ano=2026"
+    priority: critical
+    notes: "年別パラメータ必須"
+
+  - id: bcb_notas_imprensa
+    title: "Banco Central - Notas à Imprensa"
+    category: financial
+    mode: rss
+    endpoint: "https://www.bcb.gov.br/api/feed/sitebcb/sitefeeds/notasImprensa?ano=2026"
+    priority: critical
+
+  - id: bcb_atos_comunicados
+    title: "Banco Central - Atos e Comunicados"
+    category: financial
+    mode: rss
+    endpoint: "https://www.bcb.gov.br/api/feed/app/demaisnormativos/atosecomunicados?ano=2026"
+    priority: critical
+    notes: "規制・決議・通告。年別必要"
+
+  # ============================================================
+  # 一般メディア（Bloomberg代替）
+  # ============================================================
+  - id: exame
+    title: "Exame"
+    category: media
+    mode: rss
+    endpoint: "https://exame.com/feed/"
+    priority: high
+
+  - id: estadao_brasil
+    title: "Estadão - Brasil"
+    category: media
+    mode: rss
+    endpoint: "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/brasil/?body=%7B%22layout%22:%22google-news%22%7D"
+    priority: high
+
+  - id: estadao_economia
+    title: "Estadão - Economia"
+    category: media
+    mode: rss
+    endpoint: "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/economia/?body=%7B%22layout%22:%22google-news%22%7D"
+    priority: high
+
+  - id: infomoney
+    title: "InfoMoney"
+    category: financial
+    mode: rss
+    endpoint: "https://www.infomoney.com.br/feed/"
+    priority: high
+
+  - id: cnn_brasil
+    title: "CNN Brasil"
+    category: media
+    mode: rss
+    endpoint: "https://www.cnnbrasil.com.br/feed/"
+    priority: high
+
+  - id: g1
+    title: "G1 - Globo"
+    category: media
+    mode: rss
+    endpoint: "https://g1.globo.com/rss/g1/"
+    priority: high
+
+  - id: uol
+    title: "UOL Notícias"
+    category: media
+    mode: rss
+    endpoint: "https://rss.uol.com.br/feed/noticias.xml"
+    priority: medium
+
+  - id: folha
+    title: "Folha de S.Paulo - Em Cima da Hora"
+    category: media
+    mode: rss
+    endpoint: "https://feeds.folha.uol.com.br/emcimadahora/rss091.xml"
+    priority: high
+
+  # ============================================================
+  # 法務・判例（Law360代替）
+  # ============================================================
+  - id: conjur
+    title: "Conjur - Notícias Jurídicas"
+    category: legal
+    mode: rss
+    endpoint: "https://www.conjur.com.br/rss"
+    priority: critical
+
+  - id: migalhas
+    title: "Migalhas - Direito e Opinião"
+    category: legal
+    mode: rss
+    endpoint: "https://freenewsapi.ai/v1/rss?host=www.migalhas.com.br&size=50"
+    priority: critical
+    notes: "free APIラップ"
+
+  - id: jota
+    title: "JOTA - Jornalismo Especializado em Direito"
+    category: legal
+    mode: rss
+    endpoint: "https://www.jota.info/feed"
+    priority: high
+
+  # ============================================================
+  # Tech / AI
+  # ============================================================
+  - id: olhar_digital
+    title: "Olhar Digital"
+    category: tech
+    mode: rss
+    endpoint: "https://olhardigital.com.br/rss"
+    priority: high
+
+  - id: tecnoblog
+    title: "Tecnoblog"
+    category: tech
+    mode: rss
+    endpoint: "https://tecnoblog.net/feed/"
+    priority: medium
+
+  - id: canaltech
+    title: "Canaltech"
+    category: tech
+    mode: rss
+    endpoint: "https://canaltech.com.br/rss/"
+    priority: medium
+
+  - id: thehack
+    title: "The Hack Brasil"
+    category: tech
+    mode: rss
+    endpoint: "https://thehack.com.br/feed/"
+    priority: high
+    notes: "サイバーセキュリティ特化"
+
+  # ============================================================
+  # 暗号資産
+  # ============================================================
+  - id: cointelegraph_br
+    title: "Cointelegraph Brasil"
+    category: crypto
+    mode: rss
+    endpoint: "https://cointelegraph.com.br/rss"
+    priority: high
+
+  - id: livecoins
+    title: "Livecoins"
+    category: crypto
+    mode: rss
+    endpoint: "https://livecoins.com.br/feed/"
+    priority: high
+
+  - id: criptofacil
+    title: "CriptoFácil"
+    category: crypto
+    mode: rss
+    endpoint: "https://criptofacil.com.br/feed/"
+    priority: medium
+
+  # ============================================================
+  # 不動産
+  # ============================================================
+  - id: vivareal
+    title: "Viva Real - Blog"
+    category: realestate
+    mode: rss
+    endpoint: "https://www.vivareal.com.br/blog/feed/"
+    priority: medium
+
+  # ============================================================
+  # 一般市民の声 (Reddit)
+  # ============================================================
+  - id: reddit_brasil
+    title: "Reddit - r/brasil (Top 100)"
+    category: voicetracking
+    mode: rss
+    endpoint: "https://www.reddit.com/r/brasil/hot/.rss?limit=100"
+    priority: high
+
+  - id: reddit_br_money
+    title: "Reddit BR - Money / Tax / Loans"
+    category: voicetracking
+    mode: rss
+    endpoint: "https://www.reddit.com/r/investimentos+financaspessoais+impostos+CriptoBrasil/hot/.rss?limit=100"
+    priority: critical
+    notes: "レート制限1req/min"
+
+  - id: reddit_br_law_work
+    title: "Reddit BR - Legal / Work"
+    category: voicetracking
+    mode: rss
+    endpoint: "https://www.reddit.com/r/direitoBR+empregos+desabafos/hot/.rss?limit=100"
+    priority: high

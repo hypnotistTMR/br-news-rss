@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>urn:us-news-rss:infomoney</id>
+  <title>InfoMoney</title>
+  <updated>2026-10-15T22:52:01.344526+00:00</updated>
+  <link href="file:///feeds/infomoney.xml" rel="self"/>
+  <link href="https://www.infomoney.com.br/feed/" rel="alternate"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <subtitle>Category: financial / Mode: rss</subtitle>
+  <entry>
+    <id>https://www.infomoney.com.br/?p=3529271</id>
+    <title>TSE decide pela remoção de vídeos que associam Lula a supostas fraudes no INSS</title>
+    <updated>2026-10-15T22:52:01.345913+00:00</updated>
+    <link href="https://www.infomoney.com.br/politica/tse-decide-pela-remocao-de-videos-que-associam-lula-a-supostas-fraudes-no-inss/"/>
+    <summary>A decisão estabeleceu o prazo de 24 horas para a remoção do conteúdo
+The post TSE decide pela remoção de vídeos que associam Lula a supostas fraudes no INSS appeared first on InfoMoney.</summary>
+    <published>2026-10-15T21:04:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.infomoney.com.br/?p=3529302</id>
+    <title>Meta diz ao TSE que trabalha no aperfeiçoamento de ferramenta de IA nas eleições</title>
+    <updated>2026-10-15T22:52:01.345779+00:00</updated>
+    <link href="https://www.infomoney.com.br/politica/meta-diz-ao-tse-que-trabalha-no-aperfeicoamento-de-ferramenta-de-ia-nas-eleicoes/"/>
+    <summary>TSE disse, em comunicado, que a preocupação é promover uma “paridade de ‌armas” entre os candidatos para que ​o eleitor possa escolher livremente
+The post Meta diz ao TSE que trabalha no aperfeiçoamento de ferramenta de IA nas eleições appeared first on InfoMoney.</summary>
+    <published>2026-10-15T21:26:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.infomoney.com.br/?p=3529345</id>
+    <title>Alcolumbre adia PEC da Segurança após disputa sobre maioridade penal dividir o PT</title>
+    <updated>2026-10-15T22:52:01.345666+00:00</updated>
+    <link href="https://www.infomoney.com.br/politica/alcolumbre-adia-pec-da-seguranca-apos-disputa-sobre-maioridade-penal-dividir-o-pt/"/>
+    <summary>Decisão foi tomada durante a sessão plenária nesta quinta-feira (15)
+The post Alcolumbre adia PEC da Segurança após disputa sobre maioridade penal dividir o PT appeared first on InfoMoney.</summary>
+    <published>2026-10-15T21:41:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.infomoney.com.br/?p=3529258</id>
+    <title>Netflix sobe preços das assinaturas no Brasil; veja os novos valores dos planos</title>
+    <updated>2026-10-15T22:52:01.345553+00:00</updated>
+    <link href="https://www.infomoney.com.br/consumo/netflix-aumenta-valor-assinaturas/"/>
+    <summary>A última atualização antes do novo reajuste ocorreu em maio de 2024
+The post Netflix sobe preços das assinaturas no Brasil; veja os novos valores dos planos appeared first on InfoMoney.</summary>
+    <published>2026-10-15T21:42:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.infomoney.com.br/?p=3529187</id>
+    <title>Datafolha: Flávio Bolsonaro tem 47% e Lula, 45%, no 2º turno</title>
+    <updated>2026-10-15T22:52:01.345436+00:00</updated>
+    <link href="https://www.infomoney.com.br/politica/datafolha-flavio-bolsonaro-tem-47-e-lula-45-no-2o-turno/"/>
+    <summary>Nos votos válidos, que excluem brancos e nulos, Flávio lidera com 51%, ante 49% do atual presidente
+The post Datafolha: Flávio Bolsonaro tem 47% e Lula, 45%, no 2º turno appeared first on InfoMoney.</summary>
+    <published>2026-10-15T21:44:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.infomoney.com.br/?p=3526782</id>
+    <title>Libertadores: Onde assistir a Estudiantes x Flamengo?</title>
+    <updated>2026-10-15T22:52:01.345307+00:00</updated>
+    <link href="https://www.infomoney.com.br/esportes/estudiantes-flamengo-libertadores-onde-assistir/"/>
+    <summary>O Estudiantes é o mandante do jogo de hoje
+The post Libertadores: Onde assistir a Estudiantes x Flamengo? appeared first on InfoMoney.</summary>
+    <published>2026-10-15T22:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.infomoney.com.br/?p=3529377</id>
+    <title>Lula diz que vai mandar PEC de tarifa zero aos fins de semana, custeado por emendas</title>
+    <updated>2026-10-15T22:52:01.345149+00:00</updated>
+    <link href="https://www.infomoney.com.br/politica/lula-diz-que-vai-mandar-pec-de-tarifa-zero-aos-fins-de-semana-custeado-por-emendas/"/>
+    <summary>O presidente anunciou, ainda, que pretende usar dinheiro das emendas parlamentares para financiar o passe livre
+The post Lula diz que vai mandar PEC de tarifa zero aos fins de semana, custeado por emendas appeared first on InfoMoney.</summary>
+    <published>2026-10-15T22:01:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.infomoney.com.br/?p=3529381</id>
+    <title>Datafolha: Desaprovação de Lula chega a 50%; aprovação é de 48%</title>
+    <updated>2026-10-15T22:52:01.345021+00:00</updated>
+    <link href="https://www.infomoney.com.br/politica/datafolha-50-desaprovam-lula-enquanto-48-aprovam/"/>
+    <summary>O resultado indica uma alta de 1 ponto percentual na desaprovação em relação à pesquisa anterior, variação que permanece dentro da margem de erro
+The post Datafolha: Desaprovação de Lula chega a 50%; aprovação é de 48% appeared first on InfoMoney.</summary>
+    <published>2026-10-15T22:08:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.infomoney.com.br/?p=3529399</id>
+    <title>MSCI congela mudanças em índices de ações da Turquia</title>
+    <updated>2026-10-15T22:52:01.344837+00:00</updated>
+    <link href="https://www.infomoney.com.br/mercados/msci-congela-mudancas-em-indices-de-acoes-da-turquia/"/>
+    <summary>Os índices da MSCI funcionam como uma "termômetro" global por calcular o desempenho de carteiras teóricas de ações
+The post MSCI congela mudanças em índices de ações da Turquia appeared first on InfoMoney.</summary>
+    <published>2026-10-15T22:18:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.infomoney.com.br/?p=3529404</id>
+    <title>Senado aprova aumento do teto do MEI para R$ 140 mil e perdão de dívidas</title>
+    <updated>2026-10-15T22:52:01.344699+00:00</updated>
+    <link href="https://www.infomoney.com.br/politica/senado-aprova-aumento-do-teto-do-mei-para-r-140-mil-e-perdao-de-dividas/"/>
+    <summary>Medidas ampliam limite de faturamento, permitem mais contratações e concedem anistia a inadimplentes
+The post Senado aprova aumento do teto do MEI para R$ 140 mil e perdão de dívidas appeared first on InfoMoney.</summary>
+    <published>2026-10-15T22:22:31+00:00</published>
+  </entry>
+</feed>

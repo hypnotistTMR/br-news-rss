@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>urn:us-news-rss:uol</id>
+  <title>UOL Notícias</title>
+  <updated>2026-10-15T22:52:03.116426+00:00</updated>
+  <link href="file:///feeds/uol.xml" rel="self"/>
+  <link href="https://rss.uol.com.br/feed/noticias.xml" rel="alternate"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <subtitle>Category: media / Mode: rss</subtitle>
+  <entry>
+    <id>https://noticias.uol.com.br/eleicoes/2026/10/15/flavio-bolsonaro-na-pesquisa-de-segundo-turno-para-presidente-veja-numeros-do-datafolha.ghtm</id>
+    <title>Fl�vio Bolsonaro na pesquisa de segundo turno para presidente: veja n�meros do Datafolha</title>
+    <updated>2026-10-15T22:52:03.117278+00:00</updated>
+    <link href="https://noticias.uol.com.br/eleicoes/2026/10/15/flavio-bolsonaro-na-pesquisa-de-segundo-turno-para-presidente-veja-numeros-do-datafolha.ghtm"/>
+    <summary>O Datafolha divulgou hoje uma nova pesquisa sobre o segundo turno da elei��o presidencial de 2026, com margem de erro de dois pontos percentuais.</summary>
+    <published>2026-10-15T22:52:03.117276+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www1.folha.uol.com.br/cotidiano/2026/10/promotoria-pede-arquivamento-de-investigacao-contra-namorado-de-isabelle-caracristi-por-inducao-ao-suicidio.shtml</id>
+    <title>Promotoria pede arquivamento de investiga��o contra namorado de Isabelle Caracristi por indu��o ao suic�dio</title>
+    <updated>2026-10-15T22:52:03.117228+00:00</updated>
+    <link href="https://www1.folha.uol.com.br/cotidiano/2026/10/promotoria-pede-arquivamento-de-investigacao-contra-namorado-de-isabelle-caracristi-por-inducao-ao-suicidio.shtml"/>
+    <summary/>
+    <published>2026-10-15T22:52:03.117226+00:00</published>
+  </entry>
+  <entry>
+    <id>https://redir.folha.com.br/redir/online/colunas/monicabergamo/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/tse-atende-lula-e-manda-meta-dar-a-ele-tratamento-igual-ao-de-flavio-sob-de-multa-de-r-500-mil.shtml</id>
+    <title>TSE atende Lula e manda Meta dar a ele tratamento igual ao de Fl�vio sob de multa de R$ 500 mil</title>
+    <updated>2026-10-15T22:52:03.117178+00:00</updated>
+    <link href="https://redir.folha.com.br/redir/online/colunas/monicabergamo/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/tse-atende-lula-e-manda-meta-dar-a-ele-tratamento-igual-ao-de-flavio-sob-de-multa-de-r-500-mil.shtml"/>
+    <summary>ministro Marco Aur�lio Bellizze, do TSE (Tribunal Superior Eleitoral), determinou nesta quinta-feira (15) que a Meta, dona do Instagram, Facebook e WhatsApp, adote medidas para garantir tratamento i...</summary>
+    <published>2026-10-15T22:52:03.117176+00:00</published>
+  </entry>
+  <entry>
+    <id>https://f5.folha.uol.com.br/televisao/2026/10/brasil-fica-entre-os-cinco-paises-com-mais-indicacoes-para-o-premios-produ-2026.shtml</id>
+    <title>Brasil fica entre os cinco pa�ses com mais indica��es para o Pr�mios Produ 2026</title>
+    <updated>2026-10-15T22:52:03.117127+00:00</updated>
+    <link href="https://f5.folha.uol.com.br/televisao/2026/10/brasil-fica-entre-os-cinco-paises-com-mais-indicacoes-para-o-premios-produ-2026.shtml"/>
+    <summary/>
+    <published>2026-10-15T22:52:03.117124+00:00</published>
+  </entry>
+  <entry>
+    <id>https://noticias.uol.com.br/ultimas-noticias/afp/2026/10/15/ataque-a-tiros-em-escola-no-oregon-eua-deixou-quatro-mortos-imprensa.htm</id>
+    <title>Ataque a tiros em escola no Oregon, EUA, deixou quatro mortos (imprensa)</title>
+    <updated>2026-10-15T22:52:03.117072+00:00</updated>
+    <link href="https://noticias.uol.com.br/ultimas-noticias/afp/2026/10/15/ataque-a-tiros-em-escola-no-oregon-eua-deixou-quatro-mortos-imprensa.htm"/>
+    <summary>Ataque a tiros em escola no Oregon, EUA, deixou quatro mortos (imprensa)</summary>
+    <published>2026-10-15T22:52:03.117070+00:00</published>
+  </entry>
+  <entry>
+    <id>https://noticias.uol.com.br/eleicoes/2026/10/15/pesquisa-segundo-turno-veja-numeros-do-novo-levantamento-datafolha.ghtm</id>
+    <title>Pesquisa segundo turno: veja n�meros do novo levantamento Datafolha</title>
+    <updated>2026-10-15T22:52:03.117020+00:00</updated>
+    <link href="https://noticias.uol.com.br/eleicoes/2026/10/15/pesquisa-segundo-turno-veja-numeros-do-novo-levantamento-datafolha.ghtm"/>
+    <summary>O Datafolha publicou hoje uma nova rodada de pesquisa sobre o segundo turno da elei��o presidencial de 2026, com margem de erro de dois pontos percentuais.</summary>
+    <published>2026-10-15T22:52:03.117018+00:00</published>
+  </entry>
+  <entry>
+    <id>https://noticias.uol.com.br/internacional/ultimas-noticias/2026/10/15/tiroteio-oregon.ghtm</id>
+    <title>Tiroteio em escola no Oregon deixa ao menos 4 mortos; suspeito � morto</title>
+    <updated>2026-10-15T22:52:03.116967+00:00</updated>
+    <link href="https://noticias.uol.com.br/internacional/ultimas-noticias/2026/10/15/tiroteio-oregon.ghtm"/>
+    <summary>Um ataque a tiros na Silver Rail Elementary School, em Bend, no estado americano do Oregon, deixou aos menos quatro mortos, segundo informaram autoridades locais para a rede americana CBS. O suspeito tamb�m morreu, mas n�o est� claro se ele est� entre as quatro mortes j� anunciadas.</summary>
+    <published>2026-10-15T22:52:03.116965+00:00</published>
+  </entry>
+  <entry>
+    <id>https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/disputa-sobre-maioridade-penal-abre-crise-no-pt-e-adia-pec-da-seguranca.ghtm</id>
+    <title>Disputa sobre maioridade penal abre crise no PT e adia PEC da Seguran�a</title>
+    <updated>2026-10-15T22:52:03.116915+00:00</updated>
+    <link href="https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/disputa-sobre-maioridade-penal-abre-crise-no-pt-e-adia-pec-da-seguranca.ghtm"/>
+    <summary>A disputa em torno da redu��o da maioridade penal no Senado Federal abriu uma crise na bancada do PT e contribuiu para o adiamento da vota��o da PEC da Seguran�a P�blica, prevista para esta quinta-feira (15).</summary>
+    <published>2026-10-15T22:52:03.116913+00:00</published>
+  </entry>
+  <entry>
+    <id>https://c-level.folha.uol.com.br/negocios/2026/10/seguradoras-provavelmente-nao-vao-cobrir-perdas-de-mercados-franceses-com-ataque-hacker.shtml</id>
+    <title>Seguradoras provavelmente n�o v�o cobrir perdas de mercados franceses com ataque hacker</title>
+    <updated>2026-10-15T22:52:03.116865+00:00</updated>
+    <link href="https://c-level.folha.uol.com.br/negocios/2026/10/seguradoras-provavelmente-nao-vao-cobrir-perdas-de-mercados-franceses-com-ataque-hacker.shtml"/>
+    <summary>Supermercados franceses est�o enfrentando preju�zos milion�rios ap�s um ataque digital contra sistemas de refrigera��o os obrigar a descartar alimentos. E os seguros n�o cobrir�o os preju�zos, disseram seguradoras � Reuters.</summary>
+    <published>2026-10-15T22:52:03.116862+00:00</published>
+  </entry>
+  <entry>
+    <id>https://noticias.uol.com.br/eleicoes/2026/10/15/agregador-distancia-entre-flavio-e-lula-cai-para-32-pontos-no-2-turno.ghtm</id>
+    <title>Agregador: Dist�ncia entre Fl�vio e Lula cai para 3,2 pontos no 2� turno</title>
+    <updated>2026-10-15T22:52:03.116814+00:00</updated>
+    <link href="https://noticias.uol.com.br/eleicoes/2026/10/15/agregador-distancia-entre-flavio-e-lula-cai-para-32-pontos-no-2-turno.ghtm"/>
+    <summary>A diferen�a entre Lula (PT) e Fl�vio Bolsonaro (PL) no segundo turno � de 3,2 pontos percentuais, depois da divulga��o da pesquisa Datafolha, de acordo com o agregador de pesquisas do UOL. Houve uma varia��o de 0,4 ponto percentual entre ontem (14), quando houve a divulga��o da Quaest, e hoje (15).</summary>
+    <published>2026-10-15T22:52:03.116812+00:00</published>
+  </entry>
+  <entry>
+    <id>https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/10/15/datafolha-lula-tem-vantagem-entre-catolicos-e-flavio-entre-evangelicos.htm</id>
+    <title>Datafolha: Lula tem vantagem entre cat�licos e Fl�vio, entre evang�licos</title>
+    <updated>2026-10-15T22:52:03.116762+00:00</updated>
+    <link href="https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/10/15/datafolha-lula-tem-vantagem-entre-catolicos-e-flavio-entre-evangelicos.htm"/>
+    <summary>A pesquisa Datafolha divulgada nesta quinta-feira, 15, mostra que o candidato � Presid�ncia da Rep�blica Fl�vio Bolsonaro (PL) tem vantagem entre os evang�licos e os homens, e o presidente Luiz In�cio Lula da Silva (PT) entre cat�licos e mulheres.</summary>
+    <published>2026-10-15T22:52:03.116759+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www1.folha.uol.com.br/mundo/2026/10/atirador-ataca-escola-nos-eua-e-mata-3-criancas-e-1-adulto-diz-imprensa.shtml</id>
+    <title>Atirador ataca escola nos EUA e mata 3 crian�as e 1 adulto, diz imprensa</title>
+    <updated>2026-10-15T22:52:03.116706+00:00</updated>
+    <link href="https://www1.folha.uol.com.br/mundo/2026/10/atirador-ataca-escola-nos-eua-e-mata-3-criancas-e-1-adulto-diz-imprensa.shtml"/>
+    <summary/>
+    <published>2026-10-15T22:52:03.116703+00:00</published>
+  </entry>
+  <entry>
+    <id>https://noticias.uol.com.br/eleicoes/2026/10/15/pesquisa-de-2-turno-para-presidente-veja-numeros-do-novo-levantamento-datafolha.ghtm</id>
+    <title>Pesquisa de 2� turno para presidente: veja n�meros do novo levantamento Datafolha</title>
+    <updated>2026-10-15T22:52:03.116649+00:00</updated>
+    <link href="https://noticias.uol.com.br/eleicoes/2026/10/15/pesquisa-de-2-turno-para-presidente-veja-numeros-do-novo-levantamento-datafolha.ghtm"/>
+    <summary>O Datafolha divulgou hoje uma pesquisa sobre o segundo turno da elei��o presidencial de 2026, com margem de erro de dois pontos percentuais.</summary>
+    <published>2026-10-15T22:52:03.116646+00:00</published>
+  </entry>
+  <entry>
+    <id>https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/10/15/datafolha-20-apontam-violencia-como-principal-problema-do-pais-18-dizem-que-e-a-saude.htm</id>
+    <title>Datafolha: 20% apontam viol�ncia como principal problema do Pa�s; 18% dizem que � a Sa�de</title>
+    <updated>2026-10-15T22:52:03.116588+00:00</updated>
+    <link href="https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/10/15/datafolha-20-apontam-violencia-como-principal-problema-do-pais-18-dizem-que-e-a-saude.htm"/>
+    <summary>Pesquisa Datafolha divulgada nesta quinta-feira, 15, mostra que a viol�ncia e a seguran�a p�blica s�o os principais problemas do Pa�s. O tema foi citado por 20% dos eleitores entrevistados, liderando as cita��es. Em seguida, aparecem Sa�de (18%); Economia (15%); Corrup��o (7%); Educa��o (6%); Desemprego (4%); Fome e mis�ria (3%) e Impostos (3%).</summary>
+    <published>2026-10-15T22:52:03.116585+00:00</published>
+  </entry>
+  <entry>
+    <id>https://noticias.uol.com.br/eleicoes/2026/10/15/nova-pesquisa-datafolha-do-segundo-turno-veja-numeros-de-lula-e-flavio-bolsonaro.ghtm</id>
+    <title>Nova pesquisa Datafolha do segundo turno: veja n�meros de Lula e Fl�vio Bolsonaro</title>
+    <updated>2026-10-15T22:52:03.116512+00:00</updated>
+    <link href="https://noticias.uol.com.br/eleicoes/2026/10/15/nova-pesquisa-datafolha-do-segundo-turno-veja-numeros-de-lula-e-flavio-bolsonaro.ghtm"/>
+    <summary>O Datafolha divulgou hoje uma nova pesquisa sobre o segundo turno da elei��o presidencial de 2026, com margem de erro de dois pontos percentuais.</summary>
+    <published>2026-10-15T22:52:03.116508+00:00</published>
+  </entry>
+</feed>

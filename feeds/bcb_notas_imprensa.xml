@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>urn:us-news-rss:bcb_notas_imprensa</id>
+  <title>Banco Central - Notas à Imprensa</title>
+  <updated>2026-10-15T22:52:00.444684+00:00</updated>
+  <link href="file:///feeds/bcb_notas_imprensa.xml" rel="self"/>
+  <link href="https://www.bcb.gov.br/api/feed/sitebcb/sitefeeds/notasImprensa?ano=2026" rel="alternate"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <subtitle>Category: financial / Mode: rss</subtitle>
+  <entry>
+    <id>sitefeeds_21267</id>
+    <title>BC aprimora regras relativas à prestação de serviços de ativos virtuais</title>
+    <updated>2026-10-15T22:52:00.446626+00:00</updated>
+    <link href="https://www.bcb.gov.br/detalhenoticia/21267/nota"/>
+    <summary>​O Banco Central (BC) promoveu ajustes na regulação da prestação de serviços de ativos virtuais e aperfeiçoou a norma de prevenção à lavagem de dinheiro e ao financiamento do terrorismo (PLDFT) no que diz respeito a esses ativos.Com relação à prestação de serviços de ativos virtuais, as medidas trazem aperfeiçoamentos no envio de informações para fins de supervisão e monitoramento e no prazo operacional para que outras instituições cessem operações que tenham como contraparte entidades que não e</summary>
+    <published>2026-09-23T18:30:57-03:00</published>
+  </entry>
+  <entry>
+    <id>sitefeeds_21270</id>
+    <title>BC divulga o Relatório de Política Monetária</title>
+    <updated>2026-10-15T22:52:00.446461+00:00</updated>
+    <link href="https://www.bcb.gov.br/detalhenoticia/21270/nota"/>
+    <summary>O Banco Central divulgou o Relatório de Política Monetária do terceiro trimestre de 2026.​​​&amp;#160;Assista à transmissão da entrevista coletiva pelo canal institucional do Banco Central no Youtube​​​​​​​, a partir das 11h.Clique​​ para ver a apresentação do Diretor de Política Econômica, Paulo Picchetti, durante a coletiva.​​​​</summary>
+    <published>2026-09-24T08:02:27-03:00</published>
+  </entry>
+  <entry>
+    <id>sitefeeds_21271</id>
+    <title>Banco Central do Brasil e Banco Central Europeu iniciam fase de avaliação para interligação entre Pix e TIPS, sistema europeu de pagamentos instantâneos</title>
+    <updated>2026-10-15T22:52:00.446290+00:00</updated>
+    <link href="https://www.bcb.gov.br/detalhenoticia/21271/nota"/>
+    <summary>O Banco Central do Brasil (BCB) e o Banco Central Europeu (BCE) iniciam hoje uma fase de avaliação da viabilidade de interligação entre o Pix, sistema de pagamentos instantâneos brasileiro, e o TARGET Instant Payment Settlement (TIPS), serviço de liquidação de pagamentos instantâneos do Eurosistema. As instituições avaliarão aspectos técnicos, operacionais, jurídicos e de negócio relacionados à interligação das duas infraestruturas públicas de pagamentos.&amp;#160;O TIPS foi criado para ser uma infr</summary>
+    <published>2026-09-24T09:31:59-03:00</published>
+  </entry>
+  <entry>
+    <id>sitefeeds_21273</id>
+    <title>BC divulgará a Pesquisa Firmus do 3º trimestre de 2026 em 28 de setembro</title>
+    <updated>2026-10-15T22:52:00.446111+00:00</updated>
+    <link href="https://www.bcb.gov.br/detalhenoticia/21273/nota"/>
+    <summary>​O Banco Central (BC) divulgará na próxima segunda-feira, dia 28 de setembro, às 10h00, os resultados da Pesquisa Firmus referentes ao 3º trimestre de 2026. O levantamento capta a percepção de empresas não financeiras sobre a situação de seus negócios e sobre variáveis econômicas que influenciam suas decisões.Inspirada em experiências de outros bancos centrais, a Pesquisa Firmus foi estruturada para ser concisa e de fácil preenchimento, permitindo a participação das empresas com baixo custo de t</summary>
+    <published>2026-09-25T11:00:19-03:00</published>
+  </entry>
+  <entry>
+    <id>sitefeeds_21274</id>
+    <title>BC divulga Estatísticas do Setor Externo à imprensa</title>
+    <updated>2026-10-15T22:52:00.445935+00:00</updated>
+    <link href="https://www.bcb.gov.br/detalhenoticia/21274/nota"/>
+    <summary>Clique​​​​​​​​ para acessar as Estatísticas do Setor Externo com os dados atualizados até agosto de 2026.​</summary>
+    <published>2026-09-28T08:33:28-03:00</published>
+  </entry>
+  <entry>
+    <id>sitefeeds_21275</id>
+    <title>BC divulga Estatísticas Monetárias e de Crédito à imprensa</title>
+    <updated>2026-10-15T22:52:00.445737+00:00</updated>
+    <link href="https://www.bcb.gov.br/detalhenoticia/21275/nota"/>
+    <summary>Clique​​​​​​​​ para acessar as Estatísticas Monetárias e de Crédito com os dados atualizados até agosto de 2026.</summary>
+    <published>2026-09-29T08:31:49-03:00</published>
+  </entry>
+  <entry>
+    <id>sitefeeds_21277</id>
+    <title>BC divulga Estatísticas Fiscais à imprensa</title>
+    <updated>2026-10-15T22:52:00.445562+00:00</updated>
+    <link href="https://www.bcb.gov.br/detalhenoticia/21277/nota"/>
+    <summary>Clique​​​​​​​ para acessar as Estatísticas Fiscais com os dados atualizados até agosto de 2026.​​</summary>
+    <published>2026-09-30T08:33:42-03:00</published>
+  </entry>
+  <entry>
+    <id>sitefeeds_21282</id>
+    <title>BC divulga IC-Br de setembro</title>
+    <updated>2026-10-15T22:52:00.445379+00:00</updated>
+    <link href="https://www.bcb.gov.br/detalhenoticia/21282/nota"/>
+    <summary>​Clique​​​​​​​​ para acessar os dados sobre o IC-Br de setembro&amp;#160;de 2026.</summary>
+    <published>2026-10-07T14:31:37-03:00</published>
+  </entry>
+  <entry>
+    <id>sitefeeds_21283</id>
+    <title>BC divulga Relatório de Poupança de setembro</title>
+    <updated>2026-10-15T22:52:00.445183+00:00</updated>
+    <link href="https://www.bcb.gov.br/detalhenoticia/21283/nota"/>
+    <summary>Clique​​​​​​​​​ para acessar o Relatório de Poupança de setembro de 2026.​</summary>
+    <published>2026-10-09T09:00:24-03:00</published>
+  </entry>
+  <entry>
+    <id>sitefeeds_21284</id>
+    <title>BC retomará em 19 de outubro de 2026 os leilões de swap cambial tradicional para rolagem dos contratos com vencimento em 3 de novembro de 2026</title>
+    <updated>2026-10-15T22:52:00.444963+00:00</updated>
+    <link href="https://www.bcb.gov.br/detalhenoticia/21284/nota"/>
+    <summary>​O Banco Central do Brasil retomará, a partir de 19 de outubro de 2026, os leilões de swap cambial tradicional destinados à rolagem dos contratos com vencimento em 3 de novembro de 2026.&amp;#160;O BC poderá alterar o lote ofertado a cada dia, ou mesmo acatar propostas em montante inferior à oferta, conforme as condições de demanda pelo instrumento.&amp;#160;As condições específicas de cada leilão serão divulgadas oportunamente por meio de comunicado do Depin.</summary>
+    <published>2026-10-14T18:30:22-03:00</published>
+  </entry>
+</feed>

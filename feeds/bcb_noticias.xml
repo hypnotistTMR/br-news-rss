@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>urn:us-news-rss:bcb_noticias</id>
+  <title>Banco Central do Brasil - Notícias</title>
+  <updated>2026-10-15T22:52:00.397954+00:00</updated>
+  <link href="file:///feeds/bcb_noticias.xml" rel="self"/>
+  <link href="https://www.bcb.gov.br/api/feed/sitebcb/sitefeeds/noticias?ano=2026" rel="alternate"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <subtitle>Category: financial / Mode: rss</subtitle>
+  <entry>
+    <id>sitefeeds_21224</id>
+    <title>BC reforça combate a fraudes com novas regras para transferências de ativos virtuais</title>
+    <updated>2026-10-15T22:52:00.399197+00:00</updated>
+    <link href="https://www.bcb.gov.br/detalhenoticia/21224/noticia"/>
+    <summary>O Banco Central (BC) aprovou um novo conjunto de medidas para fortalecer a prevenção de fraudes em operações com ativos virtuais no Brasil. A Resolução BCB 584, publicada em 7 de agosto, amplia o alcance da Resolução BCB 142/2021​ e passa a exigir a adoção de procedimentos e controles específicos pelas prestadoras de serviços de ativos virtuais (PSAVs), alinhando o segmento às iniciativas mais recentes de proteção dos usuários do sistema financeiro.&amp;#160;A principal inovação da norma é a criação</summary>
+    <published>2026-08-13T12:42:03-03:00</published>
+  </entry>
+  <entry>
+    <id>sitefeeds_21227</id>
+    <title>Pix consolida liderança nos pagamentos digitais e projeta novas evoluções até 2030</title>
+    <updated>2026-10-15T22:52:00.399095+00:00</updated>
+    <link href="https://www.bcb.gov.br/detalhenoticia/21227/noticia"/>
+    <summary>​O Banco Central (BC) divulgou, em 10 de agosto, o Relatório de Gestão do Pix 2023-2025​, documento que apresenta um panorama abrangente da evolução do sistema de pagamentos instantâneos nos últimos três anos e detalha as iniciativas previstas para os próximos ciclos de desenvolvimento. A publicação marca também os cinco anos do Pix, período em que a solução se consolidou como uma das principais infraestruturas digitais do país e referência internacional em inovação em meios de pagamento.O relat</summary>
+    <published>2026-08-17T09:46:52-03:00</published>
+  </entry>
+  <entry>
+    <id>sitefeeds_21237</id>
+    <title>Banco Central recebe inscrições para três vagas no Programa de Estágio de Pós-Graduação em Pesquisa (PEPP) até 18 de setembro</title>
+    <updated>2026-10-15T22:52:00.398994+00:00</updated>
+    <link href="https://www.bcb.gov.br/detalhenoticia/21237/noticia"/>
+    <summary>​O Banco Central (BC) está oferecendo três vagas no Programa de Estágio de Pós-Graduação em Pesquisa (PEPP), do Departamento de Estudos e Pesquisas (Depep). Com duração inicial de seis meses e possibilidade de prorrogação por até dois anos, o programa proporciona a estudantes de mestrado e doutorado a oportunidade de participar de pesquisas que apoiam a formulação e o aprimoramento das atividades da instituição.Voltado a quem deseja aproximar a produção acadêmica dos desafios enfrentados pelo BC</summary>
+    <published>2026-08-24T12:19:33-03:00</published>
+  </entry>
+  <entry>
+    <id>sitefeeds_21252</id>
+    <title>Ajustes pontuais organizam regras operacionais do Pix Automático</title>
+    <updated>2026-10-15T22:52:00.398889+00:00</updated>
+    <link href="https://www.bcb.gov.br/detalhenoticia/21252/noticia"/>
+    <summary>O Banco Central (BC) publicou, em 19/8, a Instrução Normativa BCB 769, que divulga a versão 2.10.0 do Manual de Padrões para Iniciação do Pix (MPI). O documento, que integra o Regulamento do Pix, detalha as funcionalidades de iniciação de pagamentos do Pix, incluindo as especificações dos QR Codes. Além disso, apresenta a especificação da API Pix (Application Programming Interface, ou Interface de Programação de Aplicações), cuja versão 2.10.0 também foi publicada nessa mesma data.&amp;#160;&amp;#160;As</summary>
+    <published>2026-09-08T11:03:02-03:00</published>
+  </entry>
+  <entry>
+    <id>sitefeeds_21257</id>
+    <title>Novas regras ampliam transparência sobre riscos sociais, ambientais e climáticos no Sistema Financeiro Nacional</title>
+    <updated>2026-10-15T22:52:00.398783+00:00</updated>
+    <link href="https://www.bcb.gov.br/detalhenoticia/21257/noticia"/>
+    <summary>O Banco Central (BC) aprovou um novo padrão para a divulgação de informações pelas instituições reguladas por meio do Relatório de Riscos e Oportunidades Sociais, Ambientais e Climáticas (Relatório GRSAC). A iniciativa integra a agenda estratégica do BC​ e foi formalizada pela Resolução BCB 586, de 3 de setembro de 2026.&amp;#160;Com as novas regras, o Relatório GRSAC passa a reunir, além do aprimoramento das informações qualitativas já exigidas, um conjunto de métricas e indicadores padronizados. A</summary>
+    <published>2026-09-10T18:31:39-03:00</published>
+  </entry>
+  <entry>
+    <id>sitefeeds_21264</id>
+    <title>Banco Central propõe atualização de regras contábeis para reforçar convergência aos padrões internacionais</title>
+    <updated>2026-10-15T22:52:00.398675+00:00</updated>
+    <link href="https://www.bcb.gov.br/detalhenoticia/21264/noticia"/>
+    <summary>O Banco Central (BC) colocou em consulta pública proposta de atualização da regulamentação contábil aplicável às instituições financeiras e demais instituições autorizadas a funcionar pela Autarquia. A iniciativa objetiva manter o alinhamento do Padrão Contábil das Instituições Reguladas pelo BC (Cosif) às melhores práticas internacionais e reduzir diferenças em relação aos padrões emitidos pelo International Accounting Standards Board (Iasb).Clique​ para acessar a consulta pública 130/2026.A pr</summary>
+    <published>2026-09-22T08:19:52-03:00</published>
+  </entry>
+  <entry>
+    <id>sitefeeds_21276</id>
+    <title>Pix e TIPS: parceria entre Brasil e Europa abre caminho para pagamentos globais instantâneos</title>
+    <updated>2026-10-15T22:52:00.398560+00:00</updated>
+    <link href="https://www.bcb.gov.br/detalhenoticia/21276/noticia"/>
+    <summary>O Banco Central do Brasil (BC) e o Banco Central Europeu (BCE) deram um passo importante na evolução dos pagamentos instantâneos ao iniciar a fase de avaliação da viabilidade de interligação entre o Pix e o TARGET Instant Payment Settlement (TIPS), infraestrutura europeia de liquidação instantânea de pagamentos. A iniciativa foi anunciada em 24 de setembro e marca o início de estudos conjuntos sobre aspectos técnicos, operacionais, jurídicos e de negócio necessários para conectar as duas platafo</summary>
+    <published>2026-09-29T08:47:21-03:00</published>
+  </entry>
+  <entry>
+    <id>sitefeeds_21278</id>
+    <title>Pix amplia funcionalidades e reforça segurança com nova rodada de aperfeiçoamentos regulatórios</title>
+    <updated>2026-10-15T22:52:00.398439+00:00</updated>
+    <link href="https://www.bcb.gov.br/detalhenoticia/21278/noticia"/>
+    <summary>O Banco Central aprovou uma nova rodada de atualizações no Regulamento do Pix com o objetivo de aperfeiçoar funcionalidades, fortalecer mecanismos de segurança e ajustar procedimentos operacionais à evolução do ecossistema de pagamentos instantâneos. As alterações foram consolidadas na Resolução BCB 587, publicada em 18 de setembro, e refletem demandas identificadas ao longo da operação do sistema e nas interações com participantes do mercado.“As alterações aprovadas atualizam o Regulamento do P</summary>
+    <published>2026-10-05T08:30:44-03:00</published>
+  </entry>
+  <entry>
+    <id>sitefeeds_21279</id>
+    <title>BC moderniza apresentação de dados sobre atuação no mercado de câmbio</title>
+    <updated>2026-10-15T22:52:00.398300+00:00</updated>
+    <link href="https://www.bcb.gov.br/detalhenoticia/21279/noticia"/>
+    <summary>Com o objetivo de ampliar a transparência na divulgação de dados de atuação no mercado de câmbio​, o Banco Central (BC) passará a apresentar, na página de Política Cambial do seu site, o histórico de estoque e o cronograma de vencimentos das operações de Swap Cambial e de Linha com Recompra, dois dos instrumentos&amp;#160;disponíveis para assegurar o regular funcionamento do mercado de câmbio. A medida não altera o formato de divulgação dos leilões de câmbio, somente reorganiza informações já presen</summary>
+    <published>2026-10-05T08:30:53-03:00</published>
+  </entry>
+  <entry>
+    <id>sitefeeds_21280</id>
+    <title>BC passa a divulgar mensalmente indicadores de reajustes salariais negociados</title>
+    <updated>2026-10-15T22:52:00.398149+00:00</updated>
+    <link href="https://www.bcb.gov.br/detalhenoticia/21280/noticia"/>
+    <summary>Os reajustes salariais negociados por meio das convenções coletivas de trabalho passaram a contar com um novo conjunto de indicadores divulgados mensalmente pelo Banco Central (BC). Construídas a partir das informações registradas no Sistema de Negociações Coletivas de Trabalho (Mediador), do Ministério do Trabalho e Emprego, as séries ampliam o monitoramento das condições do mercado de trabalho e de sua relação com a dinâmica inflacionária. As informações estão em um boxe do Relatório de Políti</summary>
+    <published>2026-10-06T07:34:47-03:00</published>
+  </entry>
+</feed>
